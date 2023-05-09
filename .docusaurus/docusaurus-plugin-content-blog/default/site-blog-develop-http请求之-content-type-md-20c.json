@@ -1,0 +1,46 @@
+{
+  "permalink": "/content-type-of-http-request",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/HTTP请求之Content-Type.md",
+  "source": "@site/blog/develop/HTTP请求之Content-Type.md",
+  "title": "HTTP请求之Content-Type",
+  "description": "Content-type",
+  "date": "2020-12-12T00:00:00.000Z",
+  "formattedDate": "2020年12月12日",
+  "tags": [
+    {
+      "label": "http",
+      "permalink": "/tags/http"
+    }
+  ],
+  "readingTime": 2.3933333333333335,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "content-type-of-http-request",
+    "title": "HTTP请求之Content-Type",
+    "date": "2020-12-12T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "http"
+    ],
+    "keywords": [
+      "http"
+    ]
+  },
+  "prevItem": {
+    "title": "腾讯云之CDN与SSL配置",
+    "permalink": "/tencent-cloud-cdn-and-ssl"
+  },
+  "nextItem": {
+    "title": "node与浏览器中的cookie",
+    "permalink": "/cookie-of-node-and-browser"
+  }
+}

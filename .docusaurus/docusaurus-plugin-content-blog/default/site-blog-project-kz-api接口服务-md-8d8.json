@@ -1,0 +1,67 @@
+{
+  "permalink": "/use-nuxt3-build-api-server",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/project/KZ-API接口服务.md",
+  "source": "@site/blog/project/KZ-API接口服务.md",
+  "title": "KZ-API接口服务",
+  "description": "基于 Nuxt3 的 API 接口服务网站，易于封装，调用，部署。",
+  "date": "2022-07-20T00:00:00.000Z",
+  "formattedDate": "2022年7月20日",
+  "tags": [
+    {
+      "label": "nuxt",
+      "permalink": "/tags/nuxt"
+    },
+    {
+      "label": "vite",
+      "permalink": "/tags/vite"
+    },
+    {
+      "label": "vue",
+      "permalink": "/tags/vue"
+    },
+    {
+      "label": "ssr",
+      "permalink": "/tags/ssr"
+    }
+  ],
+  "readingTime": 15.186666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "use-nuxt3-build-api-server",
+    "title": "KZ-API接口服务",
+    "date": "2022-07-20T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "nuxt",
+      "vite",
+      "vue",
+      "ssr"
+    ],
+    "keywords": [
+      "nuxt",
+      "vite",
+      "vue",
+      "ssr"
+    ],
+    "description": "基于 Nuxt3 的 API 接口服务网站，易于封装，调用，部署。",
+    "image": "/img/project/kz-api.png",
+    "sticky": 2
+  },
+  "prevItem": {
+    "title": "Vite使用WebWorker",
+    "permalink": "/vite-webworker"
+  },
+  "nextItem": {
+    "title": "Next.js项目搭建与部署",
+    "permalink": "/next.js-build-and-deploy"
+  }
+}

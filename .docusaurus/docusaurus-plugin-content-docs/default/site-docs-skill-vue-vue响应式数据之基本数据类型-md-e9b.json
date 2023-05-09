@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/vue/vue-reactive-data-basic-type",
+  "id": "skill/vue/vue-reactive-data-basic-type",
+  "title": "Vue响应式数据之基本数据类型",
+  "description": "学过 js 的应该都知道，基本数据类型并非引用类型，直接修改是无法直接拦截的",
+  "source": "@site/docs/skill/vue/Vue响应式数据之基本数据类型.md",
+  "sourceDirName": "skill/vue",
+  "slug": "/vue-reactive-data-basic-type",
+  "permalink": "/docs/vue-reactive-data-basic-type",
+  "draft": false,
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/docs/tags/vue"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vue-reactive-data-basic-type",
+    "slug": "/vue-reactive-data-basic-type",
+    "title": "Vue响应式数据之基本数据类型",
+    "date": "2022-05-18T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vue",
+      "javascript"
+    ],
+    "keywords": [
+      "vue",
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Vue响应式数据之Array",
+    "permalink": "/docs/vue-reactive-data-array"
+  },
+  "next": {
+    "title": "Pinia",
+    "permalink": "/docs/pinia"
+  }
+}

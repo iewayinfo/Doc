@@ -1,0 +1,15 @@
+{
+  "title": "JavaScript",
+  "slug": "/category/javascript",
+  "permalink": "/docs/category/javascript",
+  "navigation": {
+    "previous": {
+      "title": "浏览器复制Console面板输出",
+      "permalink": "/docs/brower-copy-console-panel-output"
+    },
+    "next": {
+      "title": "JS如何获取当天零点时间戳",
+      "permalink": "/docs/how-does-js-get-today-zero-timestamp"
+    }
+  }
+}

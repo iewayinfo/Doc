@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/reverse/crypto/brief-talk-encryption-algorithm",
+  "id": "skill/reverse/crypto/brief-talk-encryption-algorithm",
+  "title": "浅谈加密算法",
+  "description": "前言",
+  "source": "@site/docs/skill/reverse/crypto/浅谈加密算法.md",
+  "sourceDirName": "skill/reverse/crypto",
+  "slug": "/brief-talk-encryption-algorithm",
+  "permalink": "/docs/brief-talk-encryption-algorithm",
+  "draft": false,
+  "tags": [
+    {
+      "label": "cipher",
+      "permalink": "/docs/tags/cipher"
+    },
+    {
+      "label": "reverse",
+      "permalink": "/docs/tags/reverse"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "brief-talk-encryption-algorithm",
+    "slug": "/brief-talk-encryption-algorithm",
+    "title": "浅谈加密算法",
+    "date": "2020-09-02T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "cipher",
+      "reverse"
+    ],
+    "keywords": [
+      "cipher",
+      "reverse"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "小程序如何反编译",
+    "permalink": "/docs/how-to-decompiling-miniprogram"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/category/docker"
+  }
+}

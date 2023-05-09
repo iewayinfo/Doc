@@ -1,0 +1,20 @@
+{
+  "label": "reverse",
+  "permalink": "/docs/tags/reverse",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "skill/reverse/crypto/brief-talk-encryption-algorithm",
+      "title": "浅谈加密算法",
+      "description": "前言",
+      "permalink": "/docs/brief-talk-encryption-algorithm"
+    },
+    {
+      "id": "skill/reverse/web/how-to-decompiling-miniprogram",
+      "title": "小程序如何反编译",
+      "description": "环境安装",
+      "permalink": "/docs/how-to-decompiling-miniprogram"
+    }
+  ]
+}

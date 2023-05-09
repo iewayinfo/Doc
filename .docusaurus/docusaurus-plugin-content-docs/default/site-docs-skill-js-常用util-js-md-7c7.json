@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/js/commonly-used-util.js",
+  "id": "skill/js/commonly-used-util.js",
+  "title": "常用util.js",
+  "description": "记录一下自己在 js 学习中常用到的一些方法，进行封装使用",
+  "source": "@site/docs/skill/js/常用util.js.md",
+  "sourceDirName": "skill/js",
+  "slug": "/commonly-used-util.js",
+  "permalink": "/docs/commonly-used-util.js",
+  "draft": false,
+  "tags": [
+    {
+      "label": "js",
+      "permalink": "/docs/tags/js"
+    },
+    {
+      "label": "util",
+      "permalink": "/docs/tags/util"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "commonly-used-util.js",
+    "slug": "/commonly-used-util.js",
+    "title": "常用util.js",
+    "date": "2020-10-21T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "js",
+      "util"
+    ],
+    "keywords": [
+      "js",
+      "util"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "TypeScript高级语法",
+    "permalink": "/docs/typescript-advanced-grammar"
+  },
+  "next": {
+    "title": "查询字符串与JSON互转",
+    "permalink": "/docs/querystring-and-json-convert"
+  }
+}

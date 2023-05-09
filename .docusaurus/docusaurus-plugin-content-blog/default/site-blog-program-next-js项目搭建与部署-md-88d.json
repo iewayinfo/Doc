@@ -1,0 +1,64 @@
+{
+  "permalink": "/next.js-build-and-deploy",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Next.js项目搭建与部署.md",
+  "source": "@site/blog/program/Next.js项目搭建与部署.md",
+  "title": "Next.js项目搭建与部署",
+  "description": "官方文档 Getting Started | Next.js (nextjs.org)",
+  "date": "2022-07-13T00:00:00.000Z",
+  "formattedDate": "2022年7月13日",
+  "tags": [
+    {
+      "label": "next",
+      "permalink": "/tags/next"
+    },
+    {
+      "label": "react",
+      "permalink": "/tags/react"
+    },
+    {
+      "label": "ssr",
+      "permalink": "/tags/ssr"
+    },
+    {
+      "label": "vercel",
+      "permalink": "/tags/vercel"
+    }
+  ],
+  "readingTime": 7,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "next.js-build-and-deploy",
+    "title": "Next.js项目搭建与部署",
+    "date": "2022-07-13T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "next",
+      "react",
+      "ssr",
+      "vercel"
+    ],
+    "keywords": [
+      "next",
+      "react",
+      "ssr",
+      "vercel"
+    ]
+  },
+  "prevItem": {
+    "title": "KZ-API接口服务",
+    "permalink": "/use-nuxt3-build-api-server"
+  },
+  "nextItem": {
+    "title": "写一个VSCode扩展",
+    "permalink": "/vscode-extension"
+  }
+}

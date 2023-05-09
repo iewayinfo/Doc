@@ -1,0 +1,14 @@
+{
+  "label": "bootloader",
+  "permalink": "/docs/tags/bootloader",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/reverse/android/刷机/solution-of-bootloader-lock",
+      "title": "解Bootloader锁",
+      "description": "最近准备重学安卓逆向与开发，自然工具是肯定少不了，最为重要的便是手机。之前的手机是 Pixel，但是手机性能不太好，使用起来一卡一卡的（程序安装的有点多）。于是就准备换台 Pixel 4XL 欧版的来作为新设备。",
+      "permalink": "/docs/solution-of-bootloader-lock"
+    }
+  ]
+}

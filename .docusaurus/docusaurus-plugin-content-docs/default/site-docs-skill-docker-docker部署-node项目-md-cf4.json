@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/docker/docker-deploy-node-project",
+  "id": "skill/docker/docker-deploy-node-project",
+  "title": "Docker部署Node项目",
+  "description": "把一个 Node.js web 应用程序给 Docker 化 | Node.js (nodejs.org)",
+  "source": "@site/docs/skill/docker/Docker部署Node项目.md",
+  "sourceDirName": "skill/docker",
+  "slug": "/docker-deploy-node-project",
+  "permalink": "/docs/docker-deploy-node-project",
+  "draft": false,
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    },
+    {
+      "label": "node",
+      "permalink": "/docs/tags/node"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-deploy-node-project",
+    "slug": "/docker-deploy-node-project",
+    "title": "Docker部署Node项目",
+    "date": "2022-05-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "docker",
+      "node"
+    ],
+    "keywords": [
+      "docker",
+      "node"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Docker访问宿主机上服务",
+    "permalink": "/docs/docker-accesses-host-service"
+  },
+  "next": {
+    "title": "修改无法启动的Docker容器配置文件",
+    "permalink": "/docs/fix-docker-config-that-cannot-start-up"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "permalink": "/2022-year-end-summary",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/reference/2022年终总结——从逆向转Web开发.md",
+  "source": "@site/blog/reference/2022年终总结——从逆向转Web开发.md",
+  "title": "2022年终总结——从逆向转Web开发",
+  "description": "距离上一篇博文有一个月之久了，距离上次编写代码也有一周之久了，由于疫情的全面放开，加上福建省教育厅通知的提前返乡，反而让我感到有些不适。往常这个时间点我忙于期末考试，会把代码的事情放一边，等到彻底放假后，开始闭关潜心学习。然而剩余的半个月变成了线上形式，课还是要上，考试还是要考，虽说身在家乡，但心不在焉的 😂。",
+  "date": "2022-12-22T00:00:00.000Z",
+  "formattedDate": "2022年12月22日",
+  "tags": [
+    {
+      "label": "年终总结",
+      "permalink": "/tags/年终总结"
+    },
+    {
+      "label": "summary",
+      "permalink": "/tags/summary"
+    }
+  ],
+  "readingTime": 25.71,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "2022-year-end-summary",
+    "title": "2022年终总结——从逆向转Web开发",
+    "date": "2022-12-22T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "年终总结",
+      "summary"
+    ],
+    "keywords": [
+      "年终总结",
+      "summary"
+    ],
+    "toc_max_heading_level": 3
+  },
+  "prevItem": {
+    "title": "Rust实现MD5加密并打包成WebAssembly调用",
+    "permalink": "/rust-wasm-md5"
+  },
+  "nextItem": {
+    "title": "GraphQL 实践与服务搭建",
+    "permalink": "/graphql-practice"
+  }
+}

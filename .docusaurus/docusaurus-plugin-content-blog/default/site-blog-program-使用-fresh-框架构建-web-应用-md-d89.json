@@ -1,0 +1,65 @@
+{
+  "permalink": "/use-fresh-build-web-applicatioin",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/使用 Fresh 框架构建 Web 应用.md",
+  "source": "@site/blog/program/使用 Fresh 框架构建 Web 应用.md",
+  "title": "🍋 使用 Fresh 框架构建Web 应用",
+  "description": "使用 Fresh 框架构建Web 应用，用于将链接转换为卡片样式的预览效果图。",
+  "date": "2023-02-15T00:00:00.000Z",
+  "formattedDate": "2023年2月15日",
+  "tags": [
+    {
+      "label": "deno",
+      "permalink": "/tags/deno"
+    },
+    {
+      "label": "fresh",
+      "permalink": "/tags/fresh"
+    },
+    {
+      "label": "web",
+      "permalink": "/tags/web"
+    },
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "readingTime": 9.496666666666666,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "use-fresh-build-web-applicatioin",
+    "title": "🍋 使用 Fresh 框架构建Web 应用",
+    "date": "2023-02-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "deno",
+      "fresh",
+      "web",
+      "project"
+    ],
+    "keywords": [
+      "deno",
+      "fresh",
+      "web",
+      "project"
+    ],
+    "description": "使用 Fresh 框架构建Web 应用，用于将链接转换为卡片样式的预览效果图。"
+  },
+  "prevItem": {
+    "title": "将 Supabase 作为下一个后端服务",
+    "permalink": "/use-supabase-as-backend-service"
+  },
+  "nextItem": {
+    "title": "Deno不只是个Javascript运行时",
+    "permalink": "/deno-is-not-only-a-javascript-runtime"
+  }
+}

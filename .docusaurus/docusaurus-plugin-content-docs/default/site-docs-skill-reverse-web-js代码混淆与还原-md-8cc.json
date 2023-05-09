@@ -1,0 +1,45 @@
+{
+  "unversionedId": "skill/reverse/web/js-code-obfuscation-and-reverse",
+  "id": "skill/reverse/web/js-code-obfuscation-and-reverse",
+  "title": "JS代码混淆与还原",
+  "description": "JS 代码之还原",
+  "source": "@site/docs/skill/reverse/web/JS代码混淆与还原.md",
+  "sourceDirName": "skill/reverse/web",
+  "slug": "/js-code-obfuscation-and-reverse",
+  "permalink": "/docs/js-code-obfuscation-and-reverse",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    },
+    {
+      "label": "deobfuscator",
+      "permalink": "/docs/tags/deobfuscator"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "js-code-obfuscation-and-reverse",
+    "slug": "/js-code-obfuscation-and-reverse",
+    "title": "JS代码混淆与还原",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript",
+      "deobfuscator"
+    ],
+    "keywords": [
+      "javascript",
+      "deobfuscator"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "解Bootloader锁",
+    "permalink": "/docs/solution-of-bootloader-lock"
+  },
+  "next": {
+    "title": "小程序如何反编译",
+    "permalink": "/docs/how-to-decompiling-miniprogram"
+  }
+}

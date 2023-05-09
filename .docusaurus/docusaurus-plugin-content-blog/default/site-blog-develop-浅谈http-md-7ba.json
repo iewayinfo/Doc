@@ -1,0 +1,47 @@
+{
+  "permalink": "/brief-talk-http",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/浅谈HTTP.md",
+  "source": "@site/blog/develop/浅谈HTTP.md",
+  "title": "浅谈HTTP",
+  "description": "记录 git 操作失误导致代码丢失与找回的过程",
+  "date": "2020-09-29T00:00:00.000Z",
+  "formattedDate": "2020年9月29日",
+  "tags": [
+    {
+      "label": "http",
+      "permalink": "/tags/http"
+    }
+  ],
+  "readingTime": 7.166666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "brief-talk-http",
+    "title": "浅谈HTTP",
+    "date": "2020-09-29T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "http"
+    ],
+    "keywords": [
+      "http"
+    ],
+    "description": "记录 git 操作失误导致代码丢失与找回的过程"
+  },
+  "prevItem": {
+    "title": "2019.7-2020.7编程年记",
+    "permalink": "/2019.7-2020.7-log"
+  },
+  "nextItem": {
+    "title": "Chrome插件开发",
+    "permalink": "/chrome-plugin-development"
+  }
+}

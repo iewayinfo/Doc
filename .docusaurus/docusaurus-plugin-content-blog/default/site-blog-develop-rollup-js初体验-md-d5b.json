@@ -1,0 +1,58 @@
+{
+  "permalink": "/rollup-js-experience",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/rollup.js初体验.md",
+  "source": "@site/blog/develop/rollup.js初体验.md",
+  "title": "rollup.js 初体验",
+  "description": "rollup.js",
+  "date": "2022-10-18T00:00:00.000Z",
+  "formattedDate": "2022年10月18日",
+  "tags": [
+    {
+      "label": "rollup",
+      "permalink": "/tags/rollup"
+    },
+    {
+      "label": "webpack",
+      "permalink": "/tags/webpack"
+    },
+    {
+      "label": "utils",
+      "permalink": "/tags/utils"
+    }
+  ],
+  "readingTime": 3.43,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "rollup-js-experience",
+    "title": "rollup.js 初体验",
+    "date": "2022-10-18T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "rollup",
+      "webpack",
+      "utils"
+    ],
+    "keywords": [
+      "rollup",
+      "webpack",
+      "utils"
+    ]
+  },
+  "prevItem": {
+    "title": "Protocol 协议复现模板",
+    "permalink": "/protocol-template"
+  },
+  "nextItem": {
+    "title": "深谈个人对新技术的看法",
+    "permalink": "/talk-new-technologies-opinion"
+  }
+}

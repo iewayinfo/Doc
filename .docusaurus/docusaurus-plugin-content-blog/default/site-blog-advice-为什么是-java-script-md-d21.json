@@ -1,0 +1,65 @@
+{
+  "permalink": "/why-javascript",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/为什么是JavaScript.md",
+  "source": "@site/blog/advice/为什么是JavaScript.md",
+  "title": "为什么是JavaScript",
+  "description": "关于标题 我想说说自己对一些编程语言的看法，以及我为什么选择 JavaScript 开发，而不是其他主流的编程语言，在一定程度上能帮助一些犹豫选择编程语言的开发者。",
+  "date": "2021-01-03T00:00:00.000Z",
+  "formattedDate": "2021年1月3日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    },
+    {
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "label": "fontend",
+      "permalink": "/tags/fontend"
+    }
+  ],
+  "readingTime": 4.94,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "why-javascript",
+    "title": "为什么是JavaScript",
+    "date": "2021-01-03T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "javascript",
+      "node",
+      "fontend"
+    ],
+    "keywords": [
+      "随笔",
+      "javascript",
+      "node",
+      "fontend"
+    ],
+    "draft": true
+  },
+  "prevItem": {
+    "title": "Api接口风格",
+    "permalink": "/api-style"
+  },
+  "nextItem": {
+    "title": "某习通小助手",
+    "permalink": "/chaoxing-helper"
+  }
+}

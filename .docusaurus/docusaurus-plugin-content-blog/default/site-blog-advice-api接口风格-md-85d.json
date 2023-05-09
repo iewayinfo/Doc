@@ -1,0 +1,52 @@
+{
+  "permalink": "/api-style",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/Api接口风格.md",
+  "source": "@site/blog/advice/Api接口风格.md",
+  "title": "Api接口风格",
+  "description": "前后端数据交互，经常要和 Api 打交道，于是关于 Api 接口的设计，有必要好好写一写",
+  "date": "2021-08-06T00:00:00.000Z",
+  "formattedDate": "2021年8月6日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "api",
+      "permalink": "/tags/api"
+    }
+  ],
+  "readingTime": 3.723333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "api-style",
+    "title": "Api接口风格",
+    "date": "2021-08-06T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "api"
+    ],
+    "keywords": [
+      "随笔",
+      "api"
+    ]
+  },
+  "prevItem": {
+    "title": "Redis获取六位不重复数字（邀请码）",
+    "permalink": "/redis-get-six-digit-number-invitation-code"
+  },
+  "nextItem": {
+    "title": "为什么是JavaScript",
+    "permalink": "/why-javascript"
+  }
+}

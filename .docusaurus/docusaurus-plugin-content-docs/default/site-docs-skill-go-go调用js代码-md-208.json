@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/go/go-call-js",
+  "id": "skill/go/go-call-js",
+  "title": "Go调用js代码",
+  "description": "运行 js 代码",
+  "source": "@site/docs/skill/go/Go调用js代码.md",
+  "sourceDirName": "skill/go",
+  "slug": "/go-call-js",
+  "permalink": "/docs/go-call-js",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/docs/tags/go"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "go-call-js",
+    "slug": "/go-call-js",
+    "title": "Go调用js代码",
+    "date": "2022-05-22T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "go",
+      "javascript"
+    ],
+    "keywords": [
+      "go",
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Go发送http请求",
+    "permalink": "/docs/go-send-http-request"
+  },
+  "next": {
+    "title": "Go并发",
+    "permalink": "/docs/go-concurrent"
+  }
+}

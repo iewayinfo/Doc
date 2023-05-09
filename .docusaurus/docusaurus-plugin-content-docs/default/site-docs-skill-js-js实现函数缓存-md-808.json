@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/js/js-implement-function-cache",
+  "id": "skill/js/js-implement-function-cache",
+  "title": "JS实现函数缓存",
+  "description": "原理",
+  "source": "@site/docs/skill/js/JS实现函数缓存.md",
+  "sourceDirName": "skill/js",
+  "slug": "/js-implement-function-cache",
+  "permalink": "/docs/js-implement-function-cache",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "js-implement-function-cache",
+    "slug": "/js-implement-function-cache",
+    "title": "JS实现函数缓存",
+    "date": "2021-11-22T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript"
+    ],
+    "keywords": [
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "JS如何获取当天零点时间戳",
+    "permalink": "/docs/how-does-js-get-today-zero-timestamp"
+  },
+  "next": {
+    "title": "JS输出函数调用栈",
+    "permalink": "/docs/js-print-stack-of-function"
+  }
+}

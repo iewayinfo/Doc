@@ -1,0 +1,32 @@
+{
+  "unversionedId": "skill/code-specification/husky",
+  "id": "skill/code-specification/husky",
+  "title": "husky",
+  "description": "为了确保只有合格的代码才能够提交到仓库。需要配置自动化脚本，确保代码在提交前通过了代码验证工具的检验。",
+  "source": "@site/docs/skill/code-specification/husky.md",
+  "sourceDirName": "skill/code-specification",
+  "slug": "/husky",
+  "permalink": "/docs/husky",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "husky",
+    "slug": "/husky",
+    "title": "husky",
+    "authors": "kuizuo",
+    "keywords": [
+      "code-style",
+      "husky"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "editorconfig",
+    "permalink": "/docs/editorconfig"
+  },
+  "next": {
+    "title": "npmrc",
+    "permalink": "/docs/npmrc"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/reverse/android/刷机/solution-of-bootloader-lock",
+  "id": "skill/reverse/android/刷机/solution-of-bootloader-lock",
+  "title": "解Bootloader锁",
+  "description": "最近准备重学安卓逆向与开发，自然工具是肯定少不了，最为重要的便是手机。之前的手机是 Pixel，但是手机性能不太好，使用起来一卡一卡的（程序安装的有点多）。于是就准备换台 Pixel 4XL 欧版的来作为新设备。",
+  "source": "@site/docs/skill/reverse/android/刷机/解Bootloader锁.md",
+  "sourceDirName": "skill/reverse/android/刷机",
+  "slug": "/solution-of-bootloader-lock",
+  "permalink": "/docs/solution-of-bootloader-lock",
+  "draft": false,
+  "tags": [
+    {
+      "label": "android",
+      "permalink": "/docs/tags/android"
+    },
+    {
+      "label": "bootloader",
+      "permalink": "/docs/tags/bootloader"
+    },
+    {
+      "label": "刷机",
+      "permalink": "/docs/tags/刷机"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "solution-of-bootloader-lock",
+    "slug": "/solution-of-bootloader-lock",
+    "title": "解Bootloader锁",
+    "date": "2021-12-09T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "android",
+      "bootloader",
+      "刷机"
+    ],
+    "keywords": [
+      "android",
+      "bootloader",
+      "刷机"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "抓包",
+    "permalink": "/docs/intercepting-requests"
+  },
+  "next": {
+    "title": "JS代码混淆与还原",
+    "permalink": "/docs/js-code-obfuscation-and-reverse"
+  }
+}

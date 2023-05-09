@@ -1,0 +1,15 @@
+{
+  "title": "Go",
+  "slug": "/category/go",
+  "permalink": "/docs/category/go",
+  "navigation": {
+    "previous": {
+      "title": "pyautogui自动化操作脚本",
+      "permalink": "/docs/pyautogui"
+    },
+    "next": {
+      "title": "Go环境安装",
+      "permalink": "/docs/go-environment-install"
+    }
+  }
+}

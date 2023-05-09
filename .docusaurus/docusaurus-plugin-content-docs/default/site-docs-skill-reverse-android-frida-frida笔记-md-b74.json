@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/reverse/android/frida/frida-note",
+  "id": "skill/reverse/android/frida/frida-note",
+  "title": "Frida笔记",
+  "description": "虚拟环境安装",
+  "source": "@site/docs/skill/reverse/android/frida/Frida笔记.md",
+  "sourceDirName": "skill/reverse/android/frida",
+  "slug": "/frida-note",
+  "permalink": "/docs/frida-note",
+  "draft": false,
+  "tags": [
+    {
+      "label": "frida",
+      "permalink": "/docs/tags/frida"
+    },
+    {
+      "label": "app",
+      "permalink": "/docs/tags/app"
+    },
+    {
+      "label": "hook",
+      "permalink": "/docs/tags/hook"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "frida-note",
+    "slug": "/frida-note",
+    "title": "Frida笔记",
+    "date": "2021-02-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "frida",
+      "app",
+      "hook"
+    ],
+    "keywords": [
+      "frida",
+      "app",
+      "hook"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Frida so层中的hook",
+    "permalink": "/docs/frida-so-hook"
+  },
+  "next": {
+    "title": "objection笔记",
+    "permalink": "/docs/objection-note"
+  }
+}

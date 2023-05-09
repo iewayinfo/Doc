@@ -1,0 +1,52 @@
+{
+  "permalink": "/why-use-pnpm",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/为什么使用pnpm.md",
+  "source": "@site/blog/advice/为什么使用pnpm.md",
+  "title": "为什么使用pnpm",
+  "description": "pnpm 文档",
+  "date": "2022-01-08T00:00:00.000Z",
+  "formattedDate": "2022年1月8日",
+  "tags": [
+    {
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "label": "pnpm",
+      "permalink": "/tags/pnpm"
+    }
+  ],
+  "readingTime": 2.78,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "why-use-pnpm",
+    "title": "为什么使用pnpm",
+    "date": "2022-01-08T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "node",
+      "pnpm"
+    ],
+    "keywords": [
+      "node",
+      "pnpm"
+    ]
+  },
+  "prevItem": {
+    "title": "SpringBoot热更新",
+    "permalink": "/springboot-hot-update"
+  },
+  "nextItem": {
+    "title": "SpringBoot项目结构",
+    "permalink": "/springboot-project-structure"
+  }
+}

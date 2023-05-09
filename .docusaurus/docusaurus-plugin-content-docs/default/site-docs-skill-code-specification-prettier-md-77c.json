@@ -1,0 +1,32 @@
+{
+  "unversionedId": "skill/code-specification/prettier",
+  "id": "skill/code-specification/prettier",
+  "title": "prettier",
+  "description": "Prettier 是一个固执己见的代码格式化程序。",
+  "source": "@site/docs/skill/code-specification/prettier.md",
+  "sourceDirName": "skill/code-specification",
+  "slug": "/prettier",
+  "permalink": "/docs/prettier",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "prettier",
+    "slug": "/prettier",
+    "title": "prettier",
+    "authors": "kuizuo",
+    "keywords": [
+      "code-specification",
+      "prettier"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "eslint",
+    "permalink": "/docs/eslint"
+  },
+  "next": {
+    "title": "stylelint",
+    "permalink": "/docs/stylelint"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "unversionedId": "skill/code-specification/eslint",
+  "id": "skill/code-specification/eslint",
+  "title": "eslint",
+  "description": "ESLint 是一种用于识别和报告 ECMAScript/JavaScript 代码中发现的模式的工具，目的是使代码更加一致并避免错误。",
+  "source": "@site/docs/skill/code-specification/eslint.md",
+  "sourceDirName": "skill/code-specification",
+  "slug": "/eslint",
+  "permalink": "/docs/eslint",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "eslint",
+    "slug": "/eslint",
+    "title": "eslint",
+    "authors": "kuizuo",
+    "keywords": [
+      "code-specification",
+      "eslint"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "代码规范",
+    "permalink": "/docs/code-specification"
+  },
+  "next": {
+    "title": "prettier",
+    "permalink": "/docs/prettier"
+  }
+}

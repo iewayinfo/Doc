@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/js/js-print-stack-of-function",
+  "id": "skill/js/js-print-stack-of-function",
+  "title": "JS输出函数调用栈",
+  "description": "最近在编写 JS 逆向 hook 类插件，然后需要获取当前代码执行时所在的位置，方便代码定位，于是就总结下 JavaScript 如何输出函数调用栈。",
+  "source": "@site/docs/skill/js/JS打印函数调用栈.md",
+  "sourceDirName": "skill/js",
+  "slug": "/js-print-stack-of-function",
+  "permalink": "/docs/js-print-stack-of-function",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    },
+    {
+      "label": "callstack",
+      "permalink": "/docs/tags/callstack"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "js-print-stack-of-function",
+    "slug": "/js-print-stack-of-function",
+    "title": "JS输出函数调用栈",
+    "date": "2021-10-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript",
+      "callstack"
+    ],
+    "keywords": [
+      "javascript",
+      "callstack"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "JS实现函数缓存",
+    "permalink": "/docs/js-implement-function-cache"
+  },
+  "next": {
+    "title": "JS数组对象去重",
+    "permalink": "/docs/js-array-object-unique"
+  }
+}

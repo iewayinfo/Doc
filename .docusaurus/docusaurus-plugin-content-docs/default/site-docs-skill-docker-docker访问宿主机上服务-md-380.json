@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/docker/docker-accesses-host-service",
+  "id": "skill/docker/docker-accesses-host-service",
+  "title": "Docker访问宿主机上服务",
+  "description": "如果尝试过部署 docker 容器应用，并且该应用需要访问宿主机的服务，如 Mysql，Redis。会发现应用可能无法连接，其本质的原因的就是 docker 容器内的 localhost 与宿主机的 localhost 并不是同一个东西。所以连接地址不能用 localhost 和 127.0.0.1。",
+  "source": "@site/docs/skill/docker/Docker访问宿主机上服务.md",
+  "sourceDirName": "skill/docker",
+  "slug": "/docker-accesses-host-service",
+  "permalink": "/docs/docker-accesses-host-service",
+  "draft": false,
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-accesses-host-service",
+    "slug": "/docker-accesses-host-service",
+    "title": "Docker访问宿主机上服务",
+    "date": "2022-05-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "docker"
+    ],
+    "keywords": [
+      "docker"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Docker容器日志过大清理",
+    "permalink": "/docs/docker-container-log-clean"
+  },
+  "next": {
+    "title": "Docker部署Node项目",
+    "permalink": "/docs/docker-deploy-node-project"
+  }
+}

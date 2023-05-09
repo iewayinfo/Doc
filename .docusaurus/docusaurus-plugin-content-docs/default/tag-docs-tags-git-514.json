@@ -1,0 +1,20 @@
+{
+  "label": "git",
+  "permalink": "/docs/tags/git",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "skill/git/git-conmit-specification",
+      "title": "git commit规范",
+      "description": "提交规范主要是为了让开发者提交完整的更新信息，方便查阅。",
+      "permalink": "/docs/skill/git/git-conmit-specification"
+    },
+    {
+      "id": "skill/git/git-change-default-branch",
+      "title": "git修改默认分支main",
+      "description": "前言",
+      "permalink": "/docs/skill/git/git-change-default-branch"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "permalink": "/autohotkey",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/AutoHotkey键盘映射.md",
+  "source": "@site/blog/develop/AutoHotkey键盘映射.md",
+  "title": "AutoHotkey键盘映射",
+  "description": "当我使用笔记本的时候，每次移动光标，都要大费周章，同时由于笔记本的缘故，导致键入Home与End都需要搭配Fn功能键来实现。所以我希望在任何情况下（敲代码，写文章）都可以将某些组合键绑定为上下左右键，在代码编辑器上有键盘映射可以设置，但脱离代码编辑器就不起作用了，在window下有个神器 AutoHotkey 可以实现我想要的功能。",
+  "date": "2022-07-08T00:00:00.000Z",
+  "formattedDate": "2022年7月8日",
+  "tags": [
+    {
+      "label": "工具",
+      "permalink": "/tags/工具"
+    },
+    {
+      "label": "keyMap",
+      "permalink": "/tags/key-map"
+    }
+  ],
+  "readingTime": 1.64,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "autohotkey",
+    "title": "AutoHotkey键盘映射",
+    "date": "2022-07-08T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "工具",
+      "keyMap"
+    ],
+    "keywords": [
+      "工具",
+      "keyMap"
+    ]
+  },
+  "prevItem": {
+    "title": "写一个VSCode扩展",
+    "permalink": "/vscode-extension"
+  },
+  "nextItem": {
+    "title": "记一次前端面试过程",
+    "permalink": "/frontend-interview-experience"
+  }
+}

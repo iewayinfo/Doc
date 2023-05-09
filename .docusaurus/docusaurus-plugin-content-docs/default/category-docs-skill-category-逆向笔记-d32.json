@@ -1,0 +1,22 @@
+{
+  "title": "逆向笔记",
+  "description": "Web逆向与安卓逆向笔记",
+  "keywords": [
+    "reverse",
+    "web",
+    "android",
+    "frida"
+  ],
+  "slug": "/category/逆向",
+  "permalink": "/docs/category/逆向",
+  "navigation": {
+    "previous": {
+      "title": "两数之和",
+      "permalink": "/docs/two-sum"
+    },
+    "next": {
+      "title": "安卓",
+      "permalink": "/docs/category/安卓"
+    }
+  }
+}

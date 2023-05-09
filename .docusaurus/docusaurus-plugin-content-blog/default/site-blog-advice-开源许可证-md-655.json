@@ -1,0 +1,52 @@
+{
+  "permalink": "/about-open-source-license",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/开源许可证.md",
+  "source": "@site/blog/advice/开源许可证.md",
+  "title": "关于开源许可证",
+  "description": "虽然知道开源有个许可证 LICENSE，但一直没给自己写的一些开源项目选择开源许可证。于是准备系统了解一下开源许可证，以及如何为 Github 项目添加 LICENSE。",
+  "date": "2022-05-05T00:00:00.000Z",
+  "formattedDate": "2022年5月5日",
+  "tags": [
+    {
+      "label": "open-source",
+      "permalink": "/tags/open-source"
+    },
+    {
+      "label": "git",
+      "permalink": "/tags/git"
+    }
+  ],
+  "readingTime": 4.126666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "about-open-source-license",
+    "title": "关于开源许可证",
+    "date": "2022-05-05T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "open-source",
+      "git"
+    ],
+    "keywords": [
+      "open-source",
+      "git"
+    ]
+  },
+  "prevItem": {
+    "title": "kz-admin后台管理系统",
+    "permalink": "/kz-admin"
+  },
+  "nextItem": {
+    "title": "代码备份方案",
+    "permalink": "/code-backup"
+  }
+}

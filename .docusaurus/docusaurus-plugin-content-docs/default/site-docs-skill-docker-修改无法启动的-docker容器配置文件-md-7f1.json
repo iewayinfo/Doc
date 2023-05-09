@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/docker/fix-docker-config-that-cannot-start-up",
+  "id": "skill/docker/fix-docker-config-that-cannot-start-up",
+  "title": "修改无法启动的Docker容器配置文件",
+  "description": "前因",
+  "source": "@site/docs/skill/docker/修改无法启动的Docker容器配置文件.md",
+  "sourceDirName": "skill/docker",
+  "slug": "/fix-docker-config-that-cannot-start-up",
+  "permalink": "/docs/fix-docker-config-that-cannot-start-up",
+  "draft": false,
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    },
+    {
+      "label": "elasticsearch",
+      "permalink": "/docs/tags/elasticsearch"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "fix-docker-config-that-cannot-start-up",
+    "slug": "/fix-docker-config-that-cannot-start-up",
+    "title": "修改无法启动的Docker容器配置文件",
+    "date": "2021-08-17T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "docker",
+      "elasticsearch"
+    ],
+    "keywords": [
+      "docker",
+      "elasticsearch"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Docker部署Node项目",
+    "permalink": "/docs/docker-deploy-node-project"
+  },
+  "next": {
+    "title": "数据库",
+    "permalink": "/docs/category/数据库"
+  }
+}

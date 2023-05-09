@@ -1,0 +1,14 @@
+{
+  "label": "deobfuscator",
+  "permalink": "/docs/tags/deobfuscator",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/reverse/web/js-code-obfuscation-and-reverse",
+      "title": "JS代码混淆与还原",
+      "description": "JS 代码之还原",
+      "permalink": "/docs/js-code-obfuscation-and-reverse"
+    }
+  ]
+}

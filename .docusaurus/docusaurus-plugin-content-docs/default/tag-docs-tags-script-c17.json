@@ -1,0 +1,14 @@
+{
+  "label": "script",
+  "permalink": "/docs/tags/script",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/python/pyautogui",
+      "title": "pyautogui自动化操作脚本",
+      "description": "说实话，貌似有一年没写过啥脚本类的代码了",
+      "permalink": "/docs/pyautogui"
+    }
+  ]
+}

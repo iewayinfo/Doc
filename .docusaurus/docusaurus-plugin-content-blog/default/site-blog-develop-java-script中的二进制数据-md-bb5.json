@@ -1,0 +1,46 @@
+{
+  "permalink": "/js-binary-data",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/JavaScript中的二进制数据.md",
+  "source": "@site/blog/develop/JavaScript中的二进制数据.md",
+  "title": "JavaScript中的二进制数据",
+  "description": "在我编写 js 代码中，关于处理二进制数据了解甚少，好像都是用数组表示，但是成员又很模糊。尤其是在遇到一些 http 的 post 请求或 websocket，发送二进制数据（字节）时，还有一些算法的翻译，数据的转化，协议的复现，都需要不断的从网络上查阅，并未系统的从文档教程中入手。于是写这篇的目的就是为了加固对二进制数据的理解，以及 JavaScript 中如何操作二进制数据的。",
+  "date": "2022-01-24T00:00:00.000Z",
+  "formattedDate": "2022年1月24日",
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    }
+  ],
+  "readingTime": 5.923333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "js-binary-data",
+    "title": "JavaScript中的二进制数据",
+    "date": "2022-01-24T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript"
+    ],
+    "keywords": [
+      "javascript"
+    ]
+  },
+  "prevItem": {
+    "title": "记一次Github提交PR过程",
+    "permalink": "/github-pr-experience"
+  },
+  "nextItem": {
+    "title": "Docusaurus配置Gitalk评论插件",
+    "permalink": "/docusaurus-gitalk-plugin"
+  }
+}

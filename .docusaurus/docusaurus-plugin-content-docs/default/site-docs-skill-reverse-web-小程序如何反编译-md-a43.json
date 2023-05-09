@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/reverse/web/how-to-decompiling-miniprogram",
+  "id": "skill/reverse/web/how-to-decompiling-miniprogram",
+  "title": "小程序如何反编译",
+  "description": "环境安装",
+  "source": "@site/docs/skill/reverse/web/小程序如何反编译.md",
+  "sourceDirName": "skill/reverse/web",
+  "slug": "/how-to-decompiling-miniprogram",
+  "permalink": "/docs/how-to-decompiling-miniprogram",
+  "draft": false,
+  "tags": [
+    {
+      "label": "reverse",
+      "permalink": "/docs/tags/reverse"
+    },
+    {
+      "label": "decompilation",
+      "permalink": "/docs/tags/decompilation"
+    },
+    {
+      "label": "miniprogram",
+      "permalink": "/docs/tags/miniprogram"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-decompiling-miniprogram",
+    "slug": "/how-to-decompiling-miniprogram",
+    "title": "小程序如何反编译",
+    "date": "2021-08-30T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "reverse",
+      "decompilation",
+      "miniprogram"
+    ],
+    "keywords": [
+      "reverse",
+      "decompilation",
+      "miniprogram"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "JS代码混淆与还原",
+    "permalink": "/docs/js-code-obfuscation-and-reverse"
+  },
+  "next": {
+    "title": "浅谈加密算法",
+    "permalink": "/docs/brief-talk-encryption-algorithm"
+  }
+}

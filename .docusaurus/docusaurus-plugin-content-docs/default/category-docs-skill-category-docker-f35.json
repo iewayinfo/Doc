@@ -1,0 +1,15 @@
+{
+  "title": "Docker",
+  "slug": "/category/docker",
+  "permalink": "/docs/category/docker",
+  "navigation": {
+    "previous": {
+      "title": "浅谈加密算法",
+      "permalink": "/docs/brief-talk-encryption-algorithm"
+    },
+    "next": {
+      "title": "Docker Compose",
+      "permalink": "/docs/docker-compose"
+    }
+  }
+}

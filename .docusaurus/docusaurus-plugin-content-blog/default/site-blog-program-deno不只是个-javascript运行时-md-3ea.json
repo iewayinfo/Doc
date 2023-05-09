@@ -1,0 +1,64 @@
+{
+  "permalink": "/deno-is-not-only-a-javascript-runtime",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Deno不只是个Javascript运行时.md",
+  "source": "@site/blog/program/Deno不只是个Javascript运行时.md",
+  "title": "Deno不只是个Javascript运行时",
+  "description": "Deno 是一个安全的 JavaScript 和 TypeScript 运行时，作者是 Ryan Dahl（也是 Node.js 的原作者）。Deno 的诞生之初是为了解决 2009 年首次设计 Node.js 时的一些疏忽。我认为这种改造动机很有道理，因为我相信每个程序员都希望有机会能重写他们已有 10 年历史的代码。",
+  "date": "2023-01-20T00:00:00.000Z",
+  "formattedDate": "2023年1月20日",
+  "tags": [
+    {
+      "label": "deno",
+      "permalink": "/tags/deno"
+    },
+    {
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    },
+    {
+      "label": "typescript",
+      "permalink": "/tags/typescript"
+    }
+  ],
+  "readingTime": 14.07,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "deno-is-not-only-a-javascript-runtime",
+    "title": "Deno不只是个Javascript运行时",
+    "date": "2023-01-20T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "deno",
+      "node",
+      "javascript",
+      "typescript"
+    ],
+    "keywords": [
+      "deno",
+      "node",
+      "javascript",
+      "typescript"
+    ]
+  },
+  "prevItem": {
+    "title": "🍋 使用 Fresh 框架构建Web 应用",
+    "permalink": "/use-fresh-build-web-applicatioin"
+  },
+  "nextItem": {
+    "title": "Rust实现MD5加密并打包成WebAssembly调用",
+    "permalink": "/rust-wasm-md5"
+  }
+}

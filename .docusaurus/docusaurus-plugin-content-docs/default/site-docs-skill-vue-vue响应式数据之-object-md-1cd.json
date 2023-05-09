@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/vue/vue-reactive-data-object",
+  "id": "skill/vue/vue-reactive-data-object",
+  "title": "Vue响应式数据之Object",
+  "description": "在阅读《深入浅出 Vue.js》与《Vue.js 设计与实现》，了解到 vue 是如何侦测数据，同时自己在接触 js 逆向时也常常会用到。于是就准备写篇 js 如何监听数据变化，这篇为监听 Object 数据。",
+  "source": "@site/docs/skill/vue/Vue响应式数据之Object.md",
+  "sourceDirName": "skill/vue",
+  "slug": "/vue-reactive-data-object",
+  "permalink": "/docs/vue-reactive-data-object",
+  "draft": false,
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/docs/tags/vue"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vue-reactive-data-object",
+    "slug": "/vue-reactive-data-object",
+    "title": "Vue响应式数据之Object",
+    "date": "2022-05-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vue",
+      "javascript"
+    ],
+    "keywords": [
+      "vue",
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Vue",
+    "permalink": "/docs/category/vue"
+  },
+  "next": {
+    "title": "Vue响应式数据之Array",
+    "permalink": "/docs/vue-reactive-data-array"
+  }
+}

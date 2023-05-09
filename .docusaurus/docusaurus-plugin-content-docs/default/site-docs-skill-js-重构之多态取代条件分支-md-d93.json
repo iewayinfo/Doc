@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/js/polymorphic-elimination-conditional-branching-refactor",
+  "id": "skill/js/polymorphic-elimination-conditional-branching-refactor",
+  "title": "重构之多态消除条件分支",
+  "description": "最近翻看之前写过一个项目，其中用到了大量的 switch-case 分支语句，大致的代码结构如下",
+  "source": "@site/docs/skill/js/重构之多态取代条件分支.md",
+  "sourceDirName": "skill/js",
+  "slug": "/polymorphic-elimination-conditional-branching-refactor",
+  "permalink": "/docs/polymorphic-elimination-conditional-branching-refactor",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    },
+    {
+      "label": "refactor",
+      "permalink": "/docs/tags/refactor"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "polymorphic-elimination-conditional-branching-refactor",
+    "slug": "/polymorphic-elimination-conditional-branching-refactor",
+    "title": "重构之多态消除条件分支",
+    "date": "2021-12-07T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript",
+      "refactor"
+    ],
+    "keywords": [
+      "javascript",
+      "refactor"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "查询字符串与JSON互转",
+    "permalink": "/docs/querystring-and-json-convert"
+  },
+  "next": {
+    "title": "重构之对象映射类型",
+    "permalink": "/docs/type-of-object-map-refactor"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "permalink": "/request-protocol-scheme",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/模拟请求 协议复现方案.md",
+  "source": "@site/blog/develop/模拟请求 协议复现方案.md",
+  "title": "模拟请求|协议复现方案",
+  "description": "模拟请求/协议复现 最佳实践方案",
+  "date": "2022-09-25T00:00:00.000Z",
+  "formattedDate": "2022年9月25日",
+  "tags": [
+    {
+      "label": "http",
+      "permalink": "/tags/http"
+    },
+    {
+      "label": "protocol",
+      "permalink": "/tags/protocol"
+    }
+  ],
+  "readingTime": 16.53,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "request-protocol-scheme",
+    "title": "模拟请求|协议复现方案",
+    "date": "2022-09-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "http",
+      "protocol"
+    ],
+    "keywords": [
+      "http",
+      "protocol"
+    ],
+    "description": "模拟请求/协议复现 最佳实践方案"
+  },
+  "prevItem": {
+    "title": "Gitea 与 Drone 实践",
+    "permalink": "/gitea-drone-practice"
+  },
+  "nextItem": {
+    "title": "记 Github 学生认证",
+    "permalink": "/github-student-certification"
+  }
+}

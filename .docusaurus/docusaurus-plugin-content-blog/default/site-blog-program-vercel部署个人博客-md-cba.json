@@ -1,0 +1,54 @@
+{
+  "permalink": "/vercel-deploy-blog",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Vercel部署个人博客.md",
+  "source": "@site/blog/program/Vercel部署个人博客.md",
+  "title": "Vercel部署个人博客",
+  "description": "使用 Vercel 部署个人博客过程记录，简单方便、访问快、免费部署。",
+  "date": "2022-05-11T00:00:00.000Z",
+  "formattedDate": "2022年5月11日",
+  "tags": [
+    {
+      "label": "vercel",
+      "permalink": "/tags/vercel"
+    },
+    {
+      "label": "blog",
+      "permalink": "/tags/blog"
+    }
+  ],
+  "readingTime": 4.07,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vercel-deploy-blog",
+    "title": "Vercel部署个人博客",
+    "date": "2022-05-11T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vercel",
+      "blog"
+    ],
+    "keywords": [
+      "vercel",
+      "blog"
+    ],
+    "description": "使用 Vercel 部署个人博客过程记录，简单方便、访问快、免费部署。",
+    "image": "https://img.kuizuo.cn/image-20220511170700075.png"
+  },
+  "prevItem": {
+    "title": "使用Github Action自动化部署",
+    "permalink": "/use-github-action-to-auto-deploy"
+  },
+  "nextItem": {
+    "title": "kz-admin后台管理系统",
+    "permalink": "/kz-admin"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/react/react-hooks",
+  "id": "skill/react/react-hooks",
+  "title": "React之hooks",
+  "description": "官方内置 hooks",
+  "source": "@site/docs/skill/react/React之hooks.md",
+  "sourceDirName": "skill/react",
+  "slug": "/react-hooks",
+  "permalink": "/docs/react-hooks",
+  "draft": false,
+  "tags": [
+    {
+      "label": "react",
+      "permalink": "/docs/tags/react"
+    },
+    {
+      "label": "hook",
+      "permalink": "/docs/tags/hook"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "react-hooks",
+    "slug": "/react-hooks",
+    "title": "React之hooks",
+    "date": "2022-09-07T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "react",
+      "hook"
+    ],
+    "keywords": [
+      "react",
+      "hook"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "React中Css几种实现方案",
+    "permalink": "/docs/skill/react/react-css-implementation"
+  },
+  "next": {
+    "title": "使用脚手架创建React项目",
+    "permalink": "/docs/create-react-app"
+  }
+}

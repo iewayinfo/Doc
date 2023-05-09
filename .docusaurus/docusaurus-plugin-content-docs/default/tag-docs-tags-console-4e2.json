@@ -1,0 +1,14 @@
+{
+  "label": "console",
+  "permalink": "/docs/tags/console",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/web/brower-copy-console-panel-output",
+      "title": "浏览器复制Console面板输出",
+      "description": "在分析一个网站的时候，要将控制台（Console 面板）中的大数组（长度大约 100）复制到本地上进行调用",
+      "permalink": "/docs/brower-copy-console-panel-output"
+    }
+  ]
+}

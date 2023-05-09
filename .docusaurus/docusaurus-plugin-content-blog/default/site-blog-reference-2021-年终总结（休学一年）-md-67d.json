@@ -1,0 +1,53 @@
+{
+  "permalink": "/2021-year-end-summary",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/reference/2021年终总结（休学一年）.md",
+  "source": "@site/blog/reference/2021年终总结（休学一年）.md",
+  "title": "2021年终总结（休学一年）",
+  "description": "距离上篇记录过去了 1 年半时间，以后应该也会在每年的 12 月 31 号发布年终总结。",
+  "date": "2021-12-31T00:00:00.000Z",
+  "formattedDate": "2021年12月31日",
+  "tags": [
+    {
+      "label": "年终总结",
+      "permalink": "/tags/年终总结"
+    },
+    {
+      "label": "summary",
+      "permalink": "/tags/summary"
+    }
+  ],
+  "readingTime": 25.466666666666665,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "2021-year-end-summary",
+    "title": "2021年终总结（休学一年）",
+    "date": "2021-12-31T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "年终总结",
+      "summary"
+    ],
+    "keywords": [
+      "年终总结",
+      "summary"
+    ],
+    "toc_max_heading_level": 3
+  },
+  "prevItem": {
+    "title": "为何我选择日夜颠倒敲代码",
+    "permalink": "/why-i-turn-night-into-day-to-code"
+  },
+  "nextItem": {
+    "title": "JS代码之还原",
+    "permalink": "/js-code-deobfuscator"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "label": "hook",
+  "permalink": "/docs/tags/hook",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "skill/reverse/android/frida/frida-java-encryption-algorithm",
+      "title": "Frida java层自吐加密算法",
+      "description": "代码",
+      "permalink": "/docs/frida-java-encryption-algorithm"
+    },
+    {
+      "id": "skill/reverse/android/frida/frida-python-usage",
+      "title": "Frida Python库使用",
+      "description": "启动 Frida 服务",
+      "permalink": "/docs/frida-python-usage"
+    },
+    {
+      "id": "skill/reverse/android/frida/frida-so-hook",
+      "title": "Frida so层中的hook",
+      "description": "前言",
+      "permalink": "/docs/frida-so-hook"
+    },
+    {
+      "id": "skill/reverse/android/frida/frida-note",
+      "title": "Frida笔记",
+      "description": "虚拟环境安装",
+      "permalink": "/docs/frida-note"
+    },
+    {
+      "id": "skill/reverse/android/frida/objection-note",
+      "title": "objection笔记",
+      "description": "objection",
+      "permalink": "/docs/objection-note"
+    },
+    {
+      "id": "skill/react/react-hooks",
+      "title": "React之hooks",
+      "description": "官方内置 hooks",
+      "permalink": "/docs/react-hooks"
+    }
+  ]
+}

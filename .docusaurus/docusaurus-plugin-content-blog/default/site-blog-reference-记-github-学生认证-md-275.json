@@ -1,0 +1,55 @@
+{
+  "permalink": "/github-student-certification",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/reference/记 Github 学生认证.md",
+  "source": "@site/blog/reference/记 Github 学生认证.md",
+  "title": "记 Github 学生认证",
+  "description": "记录本人 Github 学生认证艰辛过程与经验分享。",
+  "date": "2022-09-06T00:00:00.000Z",
+  "formattedDate": "2022年9月6日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "github",
+      "permalink": "/tags/github"
+    }
+  ],
+  "readingTime": 5.743333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "github-student-certification",
+    "title": "记 Github 学生认证",
+    "date": "2022-09-06T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "github"
+    ],
+    "keywords": [
+      "随笔",
+      "github"
+    ],
+    "description": "记录本人 Github 学生认证艰辛过程与经验分享。",
+    "image": "/img/blog/github-success.png",
+    "sticky": 1
+  },
+  "prevItem": {
+    "title": "模拟请求|协议复现方案",
+    "permalink": "/request-protocol-scheme"
+  },
+  "nextItem": {
+    "title": "Strapi 实现用户注册与登录",
+    "permalink": "/strapi-user-register-and-login"
+  }
+}

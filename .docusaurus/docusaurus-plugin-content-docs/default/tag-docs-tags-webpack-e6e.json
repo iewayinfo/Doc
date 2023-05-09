@@ -1,0 +1,14 @@
+{
+  "label": "webpack",
+  "permalink": "/docs/tags/webpack",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/node/use-require.context-to-auto-import-modules",
+      "title": "使用 require.context 实现模块自动导入",
+      "description": "前言",
+      "permalink": "/docs/use-require.context-to-auto-import-modules"
+    }
+  ]
+}

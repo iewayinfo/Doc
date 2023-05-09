@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/python/pyautogui",
+  "id": "skill/python/pyautogui",
+  "title": "pyautogui自动化操作脚本",
+  "description": "说实话，貌似有一年没写过啥脚本类的代码了",
+  "source": "@site/docs/skill/python/pyautogui自动化操作脚本.md",
+  "sourceDirName": "skill/python",
+  "slug": "/pyautogui",
+  "permalink": "/docs/pyautogui",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "label": "script",
+      "permalink": "/docs/tags/script"
+    },
+    {
+      "label": "auto",
+      "permalink": "/docs/tags/auto"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyautogui",
+    "slug": "/pyautogui",
+    "title": "pyautogui自动化操作脚本",
+    "date": "2022-02-18T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "python",
+      "script",
+      "auto"
+    ],
+    "keywords": [
+      "python",
+      "script",
+      "auto"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Python爬虫总结",
+    "permalink": "/docs/python-spider-summary"
+  },
+  "next": {
+    "title": "Go",
+    "permalink": "/docs/category/go"
+  }
+}

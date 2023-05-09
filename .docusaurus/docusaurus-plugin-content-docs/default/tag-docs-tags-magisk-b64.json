@@ -1,0 +1,14 @@
+{
+  "label": "magisk",
+  "permalink": "/docs/tags/magisk",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/reverse/android/刷机/brush-magisk",
+      "title": "刷入Magisk",
+      "description": "相关链接: 小胡子的干货铺——Pixel 4 XL 刷入 Magisk、Root - 少数派 (sspai.com)",
+      "permalink": "/docs/brush-magisk"
+    }
+  ]
+}

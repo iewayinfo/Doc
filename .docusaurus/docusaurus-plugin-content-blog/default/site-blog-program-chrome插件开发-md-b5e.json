@@ -1,0 +1,58 @@
+{
+  "permalink": "/chrome-plugin-development",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Chrome插件开发.md",
+  "source": "@site/blog/program/Chrome插件开发.md",
+  "title": "Chrome插件开发",
+  "description": "前言",
+  "date": "2020-09-28T00:00:00.000Z",
+  "formattedDate": "2020年9月28日",
+  "tags": [
+    {
+      "label": "chrome",
+      "permalink": "/tags/chrome"
+    },
+    {
+      "label": "plugin",
+      "permalink": "/tags/plugin"
+    },
+    {
+      "label": "develop",
+      "permalink": "/tags/develop"
+    }
+  ],
+  "readingTime": 12.26,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "chrome-plugin-development",
+    "title": "Chrome插件开发",
+    "date": "2020-09-28T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "chrome",
+      "plugin",
+      "develop"
+    ],
+    "keywords": [
+      "chrome",
+      "plugin",
+      "develop"
+    ]
+  },
+  "prevItem": {
+    "title": "浅谈HTTP",
+    "permalink": "/brief-talk-http"
+  },
+  "nextItem": {
+    "title": "第一个博客搭建之Vuepress",
+    "permalink": "/first-blog-is-vuepress"
+  }
+}

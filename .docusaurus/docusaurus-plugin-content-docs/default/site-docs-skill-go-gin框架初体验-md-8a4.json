@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/go/try-gin-framework",
+  "id": "skill/go/try-gin-framework",
+  "title": "Gin框架初体验",
+  "description": "安装 Gin",
+  "source": "@site/docs/skill/go/Gin框架初体验.md",
+  "sourceDirName": "skill/go",
+  "slug": "/try-gin-framework",
+  "permalink": "/docs/try-gin-framework",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/docs/tags/go"
+    },
+    {
+      "label": "gin",
+      "permalink": "/docs/tags/gin"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "try-gin-framework",
+    "slug": "/try-gin-framework",
+    "title": "Gin框架初体验",
+    "date": "2021-09-01T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "go",
+      "gin"
+    ],
+    "keywords": [
+      "go",
+      "gin"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Go并发",
+    "permalink": "/docs/go-concurrent"
+  },
+  "next": {
+    "title": "Git",
+    "permalink": "/docs/category/git"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/vue/vue-reactive-data-array",
+  "id": "skill/vue/vue-reactive-data-array",
+  "title": "Vue响应式数据之Array",
+  "description": "修改原型方法",
+  "source": "@site/docs/skill/vue/Vue响应式数据之Array.md",
+  "sourceDirName": "skill/vue",
+  "slug": "/vue-reactive-data-array",
+  "permalink": "/docs/vue-reactive-data-array",
+  "draft": false,
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/docs/tags/vue"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vue-reactive-data-array",
+    "slug": "/vue-reactive-data-array",
+    "title": "Vue响应式数据之Array",
+    "date": "2022-05-12T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vue",
+      "javascript"
+    ],
+    "keywords": [
+      "vue",
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Vue响应式数据之Object",
+    "permalink": "/docs/vue-reactive-data-object"
+  },
+  "next": {
+    "title": "Vue响应式数据之基本数据类型",
+    "permalink": "/docs/vue-reactive-data-basic-type"
+  }
+}

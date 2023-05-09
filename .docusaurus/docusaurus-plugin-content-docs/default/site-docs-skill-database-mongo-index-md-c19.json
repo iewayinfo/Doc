@@ -1,0 +1,45 @@
+{
+  "unversionedId": "skill/database/mongo/mongodb-note",
+  "id": "skill/database/mongo/mongodb-note",
+  "title": "MongoDB笔记",
+  "description": "安装",
+  "source": "@site/docs/skill/database/mongo/index.md",
+  "sourceDirName": "skill/database/mongo",
+  "slug": "/skill/database/mongodb",
+  "permalink": "/docs/skill/database/mongodb",
+  "draft": false,
+  "tags": [
+    {
+      "label": "mongodb",
+      "permalink": "/docs/tags/mongodb"
+    },
+    {
+      "label": "database",
+      "permalink": "/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "mongodb-note",
+    "slug": "/skill/database/mongodb",
+    "title": "MongoDB笔记",
+    "date": "2021-06-20T00:00:00.000Z",
+    "tags": [
+      "mongodb",
+      "database"
+    ],
+    "keywords": [
+      "mongodb",
+      "database"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "MySql笔记",
+    "permalink": "/docs/skill/database/mysql"
+  },
+  "next": {
+    "title": "MongoDB笔记",
+    "permalink": "/docs/skill/database/mongodb"
+  }
+}

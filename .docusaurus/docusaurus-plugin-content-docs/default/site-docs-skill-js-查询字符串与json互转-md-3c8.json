@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/js/querystring-and-json-convert",
+  "id": "skill/js/querystring-and-json-convert",
+  "title": "查询字符串与JSON互转",
+  "description": "查询字符串与 JSON 互转",
+  "source": "@site/docs/skill/js/查询字符串与JSON互转.md",
+  "sourceDirName": "skill/js",
+  "slug": "/querystring-and-json-convert",
+  "permalink": "/docs/querystring-and-json-convert",
+  "draft": false,
+  "tags": [
+    {
+      "label": "http",
+      "permalink": "/docs/tags/http"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "querystring-and-json-convert",
+    "slug": "/querystring-and-json-convert",
+    "title": "查询字符串与JSON互转",
+    "date": "2022-03-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "http",
+      "javascript"
+    ],
+    "keywords": [
+      "http",
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "常用util.js",
+    "permalink": "/docs/commonly-used-util.js"
+  },
+  "next": {
+    "title": "重构之多态消除条件分支",
+    "permalink": "/docs/polymorphic-elimination-conditional-branching-refactor"
+  }
+}

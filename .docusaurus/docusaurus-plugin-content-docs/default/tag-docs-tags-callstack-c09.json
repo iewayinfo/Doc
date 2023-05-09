@@ -1,0 +1,14 @@
+{
+  "label": "callstack",
+  "permalink": "/docs/tags/callstack",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/js/js-print-stack-of-function",
+      "title": "JS输出函数调用栈",
+      "description": "最近在编写 JS 逆向 hook 类插件，然后需要获取当前代码执行时所在的位置，方便代码定位，于是就总结下 JavaScript 如何输出函数调用栈。",
+      "permalink": "/docs/js-print-stack-of-function"
+    }
+  ]
+}

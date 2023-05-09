@@ -1,0 +1,66 @@
+{
+  "permalink": "/protocol-template",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/project/Protocol 协议复现模板.md",
+  "source": "@site/blog/project/Protocol 协议复现模板.md",
+  "title": "Protocol 协议复现模板",
+  "description": "一个用于快速复现请求协议的 Web 开发模板。基于 Nuxt3 开发，并集成了NaiveUI，Unocss，等相关工具库封装。",
+  "date": "2022-10-30T00:00:00.000Z",
+  "formattedDate": "2022年10月30日",
+  "tags": [
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    },
+    {
+      "label": "protocol",
+      "permalink": "/tags/protocol"
+    },
+    {
+      "label": "template",
+      "permalink": "/tags/template"
+    },
+    {
+      "label": "nuxt3",
+      "permalink": "/tags/nuxt-3"
+    }
+  ],
+  "readingTime": 17.376666666666665,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "protocol-template",
+    "title": "Protocol 协议复现模板",
+    "date": "2022-10-30T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "project",
+      "protocol",
+      "template",
+      "nuxt3"
+    ],
+    "keywords": [
+      "project",
+      "protocol",
+      "template",
+      "nuxt3"
+    ],
+    "description": "一个用于快速复现请求协议的 Web 开发模板。基于 Nuxt3 开发，并集成了NaiveUI，Unocss，等相关工具库封装。",
+    "image": "/img/project/protocol.png"
+  },
+  "prevItem": {
+    "title": "重构kz-admin",
+    "permalink": "/refactor-kz-admin"
+  },
+  "nextItem": {
+    "title": "rollup.js 初体验",
+    "permalink": "/rollup-js-experience"
+  }
+}

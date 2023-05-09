@@ -1,0 +1,39 @@
+{
+  "unversionedId": "skill/algorithm/two-sum",
+  "id": "skill/algorithm/two-sum",
+  "title": "两数之和",
+  "description": "TODO: ...",
+  "source": "@site/docs/skill/algorithm/两数之和.md",
+  "sourceDirName": "skill/algorithm",
+  "slug": "/two-sum",
+  "permalink": "/docs/two-sum",
+  "draft": false,
+  "tags": [
+    {
+      "label": "algorithm",
+      "permalink": "/docs/tags/algorithm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "two-sum",
+    "slug": "/two-sum",
+    "title": "两数之和",
+    "authors": "kuizuo",
+    "tags": [
+      "algorithm"
+    ],
+    "keywords": [
+      "algorithm"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "算法",
+    "permalink": "/docs/category/算法"
+  },
+  "next": {
+    "title": "逆向",
+    "permalink": "/docs/category/逆向"
+  }
+}

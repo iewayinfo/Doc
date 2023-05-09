@@ -1,0 +1,52 @@
+{
+  "permalink": "/gitlab-code-management-environment",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/搭建GitLab代码管理仓库.md",
+  "source": "@site/blog/program/搭建GitLab代码管理仓库.md",
+  "title": "搭建GitLab代码管理仓库",
+  "description": "image-20220414235645607",
+  "date": "2022-04-15T00:00:00.000Z",
+  "formattedDate": "2022年4月15日",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/tags/git"
+    },
+    {
+      "label": "gitlab",
+      "permalink": "/tags/gitlab"
+    }
+  ],
+  "readingTime": 5.13,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "gitlab-code-management-environment",
+    "title": "搭建GitLab代码管理仓库",
+    "date": "2022-04-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "git",
+      "gitlab"
+    ],
+    "keywords": [
+      "git",
+      "gitlab"
+    ]
+  },
+  "prevItem": {
+    "title": "代码备份方案",
+    "permalink": "/code-backup"
+  },
+  "nextItem": {
+    "title": "题小侠",
+    "permalink": "/question-man"
+  }
+}

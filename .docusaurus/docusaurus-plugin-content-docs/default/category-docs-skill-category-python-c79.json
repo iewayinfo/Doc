@@ -1,0 +1,15 @@
+{
+  "title": "Python",
+  "slug": "/category/python",
+  "permalink": "/docs/category/python",
+  "navigation": {
+    "previous": {
+      "title": "java反射",
+      "permalink": "/docs/skill/java/java-reflect"
+    },
+    "next": {
+      "title": "Python中的cv2使用",
+      "permalink": "/docs/python-cv2-usage"
+    }
+  }
+}

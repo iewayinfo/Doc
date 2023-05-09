@@ -1,0 +1,46 @@
+{
+  "permalink": "/mongodb-time-grouping",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/MongoDB按时间分组.md",
+  "source": "@site/blog/develop/MongoDB按时间分组.md",
+  "title": "MongoDB按时间分组",
+  "description": "需求",
+  "date": "2021-08-30T00:00:00.000Z",
+  "formattedDate": "2021年8月30日",
+  "tags": [
+    {
+      "label": "mongodb",
+      "permalink": "/tags/mongodb"
+    }
+  ],
+  "readingTime": 7.77,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mongodb-time-grouping",
+    "title": "MongoDB按时间分组",
+    "date": "2021-08-30T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "mongodb"
+    ],
+    "keywords": [
+      "mongodb"
+    ]
+  },
+  "prevItem": {
+    "title": "尝试云开发",
+    "permalink": "/try-to-cloud-develop"
+  },
+  "nextItem": {
+    "title": "基于Axios封装HTTP类库",
+    "permalink": "/axios-http-class-library"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/git/github-actions-example",
+  "id": "skill/git/github-actions-example",
+  "title": "github actions示例",
+  "description": "GitHub Marketplace · Actions to improve your workflow",
+  "source": "@site/docs/skill/git/github actions示例.md",
+  "sourceDirName": "skill/git",
+  "slug": "/skill/git/github-actions-example",
+  "permalink": "/docs/skill/git/github-actions-example",
+  "draft": false,
+  "tags": [
+    {
+      "label": "github",
+      "permalink": "/docs/tags/github"
+    },
+    {
+      "label": "action",
+      "permalink": "/docs/tags/action"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "github-actions-example",
+    "slug": "github-actions-example",
+    "title": "github actions示例",
+    "date": "2021-10-01T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "github",
+      "action"
+    ],
+    "keywords": [
+      "github",
+      "action"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "git commit规范",
+    "permalink": "/docs/skill/git/git-conmit-specification"
+  },
+  "next": {
+    "title": "github apps示例",
+    "permalink": "/docs/skill/git/github-apps-example"
+  }
+}

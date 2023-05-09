@@ -1,0 +1,52 @@
+{
+  "permalink": "/easy-language",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/易语言.md",
+  "source": "@site/blog/program/易语言.md",
+  "title": "易语言",
+  "description": "好歹自己学习易语言也快有一年了，也用易语言写了一些软件，特此记录一下以及对易语言的个人看法。",
+  "date": "2020-10-08T00:00:00.000Z",
+  "formattedDate": "2020年10月8日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "easy-language",
+      "permalink": "/tags/easy-language"
+    }
+  ],
+  "readingTime": 13.346666666666666,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "easy-language",
+    "title": "易语言",
+    "date": "2020-10-08T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "easy-language"
+    ],
+    "keywords": [
+      "随笔",
+      "easy-language"
+    ]
+  },
+  "prevItem": {
+    "title": "服务器与域名备案",
+    "permalink": "/server-and-domain-beian"
+  },
+  "nextItem": {
+    "title": "2019.7-2020.7编程年记",
+    "permalink": "/2019.7-2020.7-log"
+  }
+}

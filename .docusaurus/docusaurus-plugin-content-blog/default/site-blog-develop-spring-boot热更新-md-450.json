@@ -1,0 +1,52 @@
+{
+  "permalink": "/springboot-hot-update",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/SpringBoot热更新.md",
+  "source": "@site/blog/develop/SpringBoot热更新.md",
+  "title": "SpringBoot热更新",
+  "description": "步骤一",
+  "date": "2022-01-10T00:00:00.000Z",
+  "formattedDate": "2022年1月10日",
+  "tags": [
+    {
+      "label": "java",
+      "permalink": "/tags/java"
+    },
+    {
+      "label": "springboot",
+      "permalink": "/tags/springboot"
+    }
+  ],
+  "readingTime": 0.45666666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "springboot-hot-update",
+    "title": "SpringBoot热更新",
+    "date": "2022-01-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "java",
+      "springboot"
+    ],
+    "keywords": [
+      "java",
+      "springboot"
+    ]
+  },
+  "prevItem": {
+    "title": "Docusaurus配置Gitalk评论插件",
+    "permalink": "/docusaurus-gitalk-plugin"
+  },
+  "nextItem": {
+    "title": "为什么使用pnpm",
+    "permalink": "/why-use-pnpm"
+  }
+}

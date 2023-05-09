@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/git/github-other",
+  "id": "skill/git/github-other",
+  "title": ".github 其他文件",
+  "description": "ISSUE_TEMPLATE",
+  "source": "@site/docs/skill/git/github 其他文件.md",
+  "sourceDirName": "skill/git",
+  "slug": "/skill/git/github-other",
+  "permalink": "/docs/skill/git/github-other",
+  "draft": false,
+  "tags": [
+    {
+      "label": "github",
+      "permalink": "/docs/tags/github"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "github-other",
+    "slug": "github-other",
+    "title": ".github 其他文件",
+    "date": "2021-10-01T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "github"
+    ],
+    "keywords": [
+      "github"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "github apps示例",
+    "permalink": "/docs/skill/git/github-apps-example"
+  },
+  "next": {
+    "title": "git修改默认分支main",
+    "permalink": "/docs/skill/git/git-change-default-branch"
+  }
+}

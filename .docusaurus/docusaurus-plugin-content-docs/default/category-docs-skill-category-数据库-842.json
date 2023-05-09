@@ -1,0 +1,22 @@
+{
+  "title": "数据库",
+  "keywords": [
+    "database",
+    "mysql",
+    "mongodb",
+    "redis",
+    "elasticsearch"
+  ],
+  "slug": "/category/数据库",
+  "permalink": "/docs/category/数据库",
+  "navigation": {
+    "previous": {
+      "title": "修改无法启动的Docker容器配置文件",
+      "permalink": "/docs/fix-docker-config-that-cannot-start-up"
+    },
+    "next": {
+      "title": "MySql笔记",
+      "permalink": "/docs/skill/database/mysql"
+    }
+  }
+}

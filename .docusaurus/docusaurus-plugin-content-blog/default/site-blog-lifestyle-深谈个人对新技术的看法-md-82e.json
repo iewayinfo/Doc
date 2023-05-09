@@ -1,0 +1,59 @@
+{
+  "permalink": "/talk-new-technologies-opinion",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/lifestyle/深谈个人对新技术的看法.md",
+  "source": "@site/blog/lifestyle/深谈个人对新技术的看法.md",
+  "title": "深谈个人对新技术的看法",
+  "description": "目前技术圈的发展速度可谓是有目共睹，尤其是前端，每隔一段时间就出新的技术，可以说让很多初学者非常畏惧，没有一个明确的方向不知道从何学起。",
+  "date": "2022-10-15T00:00:00.000Z",
+  "formattedDate": "2022年10月15日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "杂谈",
+      "permalink": "/tags/杂谈"
+    },
+    {
+      "label": "感悟",
+      "permalink": "/tags/感悟"
+    }
+  ],
+  "readingTime": 15.203333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "talk-new-technologies-opinion",
+    "title": "深谈个人对新技术的看法",
+    "date": "2022-10-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "杂谈",
+      "感悟"
+    ],
+    "keywords": [
+      "随笔",
+      "杂谈",
+      "感悟"
+    ],
+    "sticky": 6
+  },
+  "prevItem": {
+    "title": "rollup.js 初体验",
+    "permalink": "/rollup-js-experience"
+  },
+  "nextItem": {
+    "title": "前端自动化测试",
+    "permalink": "/frontend-automated-testing"
+  }
+}

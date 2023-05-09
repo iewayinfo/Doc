@@ -1,0 +1,52 @@
+{
+  "permalink": "/code-backup",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/代码备份方案.md",
+  "source": "@site/blog/advice/代码备份方案.md",
+  "title": "代码备份方案",
+  "description": "前段时间因为笔记本不在身边，导致一些本地磁盘代码数据没法直接同步过来。于是就准备把这些年写的代码重新整理一下，谈谈常用备份手段以及我的最佳手段",
+  "date": "2022-05-02T00:00:00.000Z",
+  "formattedDate": "2022年5月2日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "code",
+      "permalink": "/tags/code"
+    }
+  ],
+  "readingTime": 4.963333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "code-backup",
+    "title": "代码备份方案",
+    "date": "2022-05-02T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "code"
+    ],
+    "keywords": [
+      "随笔",
+      "code"
+    ]
+  },
+  "prevItem": {
+    "title": "关于开源许可证",
+    "permalink": "/about-open-source-license"
+  },
+  "nextItem": {
+    "title": "搭建GitLab代码管理仓库",
+    "permalink": "/gitlab-code-management-environment"
+  }
+}

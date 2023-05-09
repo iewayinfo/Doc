@@ -1,0 +1,15 @@
+{
+  "title": "Web",
+  "slug": "/category/web",
+  "permalink": "/docs/category/web",
+  "navigation": {
+    "previous": {
+      "title": "使用脚手架创建React项目",
+      "permalink": "/docs/create-react-app"
+    },
+    "next": {
+      "title": "浏览器复制Console面板输出",
+      "permalink": "/docs/brower-copy-console-panel-output"
+    }
+  }
+}

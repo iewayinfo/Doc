@@ -1,0 +1,52 @@
+{
+  "permalink": "/thinkphp-deploy",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/记ThinkPHP项目部署.md",
+  "source": "@site/blog/program/记ThinkPHP项目部署.md",
+  "title": "记 ThinkPHP 项目部署",
+  "description": "事情背景",
+  "date": "2021-09-25T00:00:00.000Z",
+  "formattedDate": "2021年9月25日",
+  "tags": [
+    {
+      "label": "php",
+      "permalink": "/tags/php"
+    },
+    {
+      "label": "develop",
+      "permalink": "/tags/develop"
+    }
+  ],
+  "readingTime": 3.526666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "thinkphp-deploy",
+    "title": "记 ThinkPHP 项目部署",
+    "date": "2021-09-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "php",
+      "develop"
+    ],
+    "keywords": [
+      "php",
+      "develop"
+    ]
+  },
+  "prevItem": {
+    "title": "RPC远程调用浏览器函数",
+    "permalink": "/remote-call-browser-function"
+  },
+  "nextItem": {
+    "title": "使用JSONPath解析json数据",
+    "permalink": "/use-jsonpath-to-parse-json-data"
+  }
+}

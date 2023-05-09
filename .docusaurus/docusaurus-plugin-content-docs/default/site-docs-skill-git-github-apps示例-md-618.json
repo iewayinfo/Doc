@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/git/github-apps-example",
+  "id": "skill/git/github-apps-example",
+  "title": "github apps示例",
+  "description": "Github Dependabot",
+  "source": "@site/docs/skill/git/github apps示例.md",
+  "sourceDirName": "skill/git",
+  "slug": "/skill/git/github-apps-example",
+  "permalink": "/docs/skill/git/github-apps-example",
+  "draft": false,
+  "tags": [
+    {
+      "label": "github",
+      "permalink": "/docs/tags/github"
+    },
+    {
+      "label": "app",
+      "permalink": "/docs/tags/app"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "github-apps-example",
+    "slug": "github-apps-example",
+    "title": "github apps示例",
+    "date": "2021-10-01T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "github",
+      "app"
+    ],
+    "keywords": [
+      "github",
+      "app"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "github actions示例",
+    "permalink": "/docs/skill/git/github-actions-example"
+  },
+  "next": {
+    "title": ".github 其他文件",
+    "permalink": "/docs/skill/git/github-other"
+  }
+}

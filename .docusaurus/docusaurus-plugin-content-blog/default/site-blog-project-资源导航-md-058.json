@@ -1,0 +1,54 @@
+{
+  "permalink": "/resource-navigation",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/project/资源导航.md",
+  "source": "@site/blog/project/资源导航.md",
+  "title": "资源导航",
+  "description": "资源导航",
+  "date": "2021-09-09T00:00:00.000Z",
+  "formattedDate": "2021年9月9日",
+  "tags": [
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    },
+    {
+      "label": "react",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 6.32,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "resource-navigation",
+    "title": "资源导航",
+    "date": "2021-09-09T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "project",
+      "react"
+    ],
+    "keywords": [
+      "project",
+      "react"
+    ],
+    "image": "/img/project/code-nav.png",
+    "draft": true
+  },
+  "prevItem": {
+    "title": "使用Vue开发Chrome插件",
+    "permalink": "/vue-chrome-extension"
+  },
+  "nextItem": {
+    "title": "尝试云开发",
+    "permalink": "/try-to-cloud-develop"
+  }
+}

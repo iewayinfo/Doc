@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/go/go-environment-install",
+  "id": "skill/go/go-environment-install",
+  "title": "Go环境安装",
+  "description": "安装 Go",
+  "source": "@site/docs/skill/go/Go环境安装.md",
+  "sourceDirName": "skill/go",
+  "slug": "/go-environment-install",
+  "permalink": "/docs/go-environment-install",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/docs/tags/go"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "go-environment-install",
+    "slug": "/go-environment-install",
+    "title": "Go环境安装",
+    "date": "2021-09-01T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "go"
+    ],
+    "keywords": [
+      "go"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Go",
+    "permalink": "/docs/category/go"
+  },
+  "next": {
+    "title": "Go语言之json使用",
+    "permalink": "/docs/go-json-usage"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "permalink": "/js-code-obfuscator",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/JS代码之混淆.md",
+  "source": "@site/blog/develop/JS代码之混淆.md",
+  "title": "JS代码之混淆",
+  "description": "AST 在线解析 AST explorer",
+  "date": "2021-12-21T00:00:00.000Z",
+  "formattedDate": "2021年12月21日",
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    },
+    {
+      "label": "ast",
+      "permalink": "/tags/ast"
+    },
+    {
+      "label": "reverse",
+      "permalink": "/tags/reverse"
+    },
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "readingTime": 25.343333333333334,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "js-code-obfuscator",
+    "title": "JS代码之混淆",
+    "date": "2021-12-21T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript",
+      "ast",
+      "reverse",
+      "project"
+    ],
+    "keywords": [
+      "javascript",
+      "ast",
+      "reverse",
+      "project"
+    ]
+  },
+  "prevItem": {
+    "title": "JS代码之还原",
+    "permalink": "/js-code-deobfuscator"
+  },
+  "nextItem": {
+    "title": "JS函数hook",
+    "permalink": "/js-function-hook"
+  }
+}

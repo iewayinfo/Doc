@@ -1,0 +1,54 @@
+{
+  "permalink": "/first-blog-is-vuepress",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/第一个博客搭建之Vuepress.md",
+  "source": "@site/blog/program/第一个博客搭建之Vuepress.md",
+  "title": "第一个博客搭建之Vuepress",
+  "description": "感谢 vuepress-theme-reco主题与一篇博客使用文章使用 vuepress 构建个人博客",
+  "date": "2020-08-30T00:00:00.000Z",
+  "formattedDate": "2020年8月30日",
+  "tags": [
+    {
+      "label": "blog",
+      "permalink": "/tags/blog"
+    },
+    {
+      "label": "vuepress",
+      "permalink": "/tags/vuepress"
+    },
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "readingTime": 12.336666666666666,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-is-vuepress",
+    "title": "第一个博客搭建之Vuepress",
+    "date": "2020-08-30T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "blog",
+      "vuepress",
+      "project"
+    ],
+    "keywords": [
+      "blog",
+      "vuepress",
+      "project"
+    ]
+  },
+  "prevItem": {
+    "title": "Chrome插件开发",
+    "permalink": "/chrome-plugin-development"
+  }
+}

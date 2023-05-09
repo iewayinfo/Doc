@@ -1,0 +1,32 @@
+{
+  "unversionedId": "skill/code-specification/npmrc",
+  "id": "skill/code-specification/npmrc",
+  "title": "npmrc",
+  "description": "对于 pnpm 项目，通常会有一个 .npmrc 文件，用于配置npm的一些参数，比如使用pnpm的严格模式等，其内容如下。",
+  "source": "@site/docs/skill/code-specification/npmrc.md",
+  "sourceDirName": "skill/code-specification",
+  "slug": "/npmrc",
+  "permalink": "/docs/npmrc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "npmrc",
+    "slug": "/npmrc",
+    "title": "npmrc",
+    "authors": "kuizuo",
+    "keywords": [
+      "code-specification",
+      "npmrc"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "husky",
+    "permalink": "/docs/husky"
+  },
+  "next": {
+    "title": "Vue",
+    "permalink": "/docs/category/vue"
+  }
+}

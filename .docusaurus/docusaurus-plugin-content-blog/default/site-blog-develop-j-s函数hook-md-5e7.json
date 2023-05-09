@@ -1,0 +1,52 @@
+{
+  "permalink": "/js-function-hook",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/JS函数hook.md",
+  "source": "@site/blog/develop/JS函数hook.md",
+  "title": "JS函数hook",
+  "description": "前言",
+  "date": "2021-11-22T00:00:00.000Z",
+  "formattedDate": "2021年11月22日",
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    },
+    {
+      "label": "hook",
+      "permalink": "/tags/hook"
+    }
+  ],
+  "readingTime": 4.166666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "js-function-hook",
+    "title": "JS函数hook",
+    "date": "2021-11-22T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript",
+      "hook"
+    ],
+    "keywords": [
+      "javascript",
+      "hook"
+    ]
+  },
+  "prevItem": {
+    "title": "JS代码之混淆",
+    "permalink": "/js-code-obfuscator"
+  },
+  "nextItem": {
+    "title": "RPC远程调用浏览器函数",
+    "permalink": "/remote-call-browser-function"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "permalink": "/learning-style",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/lifestyle/浅谈个人学习方式.md",
+  "source": "@site/blog/lifestyle/浅谈个人学习方式.md",
+  "title": "浅谈个人学习方式",
+  "description": "临近考试周，又要开始准备复习，顺带总结下自己平常的学习方式与一些感慨。",
+  "date": "2022-06-10T00:00:00.000Z",
+  "formattedDate": "2022年6月10日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "杂谈",
+      "permalink": "/tags/杂谈"
+    }
+  ],
+  "readingTime": 5.076666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "learning-style",
+    "title": "浅谈个人学习方式",
+    "date": "2022-06-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "杂谈"
+    ],
+    "keywords": [
+      "随笔",
+      "杂谈"
+    ]
+  },
+  "prevItem": {
+    "title": "记一次前端面试过程",
+    "permalink": "/frontend-interview-experience"
+  },
+  "nextItem": {
+    "title": "Vercel部署Serverless",
+    "permalink": "/vercel-deploy-serverless"
+  }
+}

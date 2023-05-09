@@ -1,0 +1,54 @@
+{
+  "permalink": "/macbook-experience",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/lifestyle/MacBook 体验有感.md",
+  "source": "@site/blog/lifestyle/MacBook 体验有感.md",
+  "title": "MacBook 体验有感",
+  "description": "首先我不是 iphone 用户，甚至是果黑（苹果的小黑子，合理来说是苹果手机的小黑子），所以我一向从内心就很摈弃苹果的产品。因此我从来没体验过 MacOS 系统，用了近 4 年 window，不过由于我的那台 window 本 （21 年小新 pro14） 给我的体验非常差，虽然说续航勉勉强强足够支撑我一个下午的开发，但 intel 的 i5 cpu 我就没打算将其作为主力机开发（根本做不了），更多是使用向日葵远程桌面软件来远程连接到我的台式电脑，远程操控来进行开发。然而由于屏幕分辨率不同以及网络延迟，这样的体验长期下去必然会崩溃。因此更换自己的移动办公设备已经成了我当下的刚需。",
+  "date": "2023-05-05T00:00:00.000Z",
+  "formattedDate": "2023年5月5日",
+  "tags": [
+    {
+      "label": "macOS",
+      "permalink": "/tags/mac-os"
+    },
+    {
+      "label": "MacBook",
+      "permalink": "/tags/mac-book"
+    },
+    {
+      "label": "使用体验",
+      "permalink": "/tags/使用体验"
+    }
+  ],
+  "readingTime": 10.26,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/macbook-experience",
+    "title": "MacBook 体验有感",
+    "date": "2023-05-05T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "macOS",
+      "MacBook",
+      "使用体验"
+    ],
+    "keywords": [
+      "macOS",
+      "MacBook",
+      "使用体验"
+    ]
+  },
+  "nextItem": {
+    "title": "距离我上篇笔记还是在?",
+    "permalink": "/why-i-dont-write-notes"
+  }
+}

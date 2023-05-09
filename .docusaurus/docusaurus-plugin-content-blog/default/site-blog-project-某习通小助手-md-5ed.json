@@ -1,0 +1,54 @@
+{
+  "permalink": "/chaoxing-helper",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/project/某习通小助手.md",
+  "source": "@site/blog/project/某习通小助手.md",
+  "title": "某习通小助手",
+  "description": "前言",
+  "date": "2021-01-02T00:00:00.000Z",
+  "formattedDate": "2021年1月2日",
+  "tags": [
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    },
+    {
+      "label": "easy-language",
+      "permalink": "/tags/easy-language"
+    }
+  ],
+  "readingTime": 26.906666666666666,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "chaoxing-helper",
+    "title": "某习通小助手",
+    "date": "2021-01-02T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "project",
+      "easy-language"
+    ],
+    "keywords": [
+      "project",
+      "easy-language"
+    ],
+    "image": "/img/project/chaoxing-helper.png",
+    "draft": true
+  },
+  "prevItem": {
+    "title": "为什么是JavaScript",
+    "permalink": "/why-javascript"
+  },
+  "nextItem": {
+    "title": "为什么我不用七牛云",
+    "permalink": "/why-i-dont-use-qiniu-cloud"
+  }
+}

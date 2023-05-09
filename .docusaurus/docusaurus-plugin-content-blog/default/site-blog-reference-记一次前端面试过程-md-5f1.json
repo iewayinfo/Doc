@@ -1,0 +1,60 @@
+{
+  "permalink": "/frontend-interview-experience",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/reference/记一次前端面试过程.md",
+  "source": "@site/blog/reference/记一次前端面试过程.md",
+  "title": "记一次前端面试过程",
+  "description": "记录一次前端面试过程",
+  "date": "2022-06-25T00:00:00.000Z",
+  "formattedDate": "2022年6月25日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "面试",
+      "permalink": "/tags/面试"
+    },
+    {
+      "label": "fontend",
+      "permalink": "/tags/fontend"
+    }
+  ],
+  "readingTime": 8.44,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "frontend-interview-experience",
+    "title": "记一次前端面试过程",
+    "date": "2022-06-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "面试",
+      "fontend"
+    ],
+    "keywords": [
+      "随笔",
+      "面试",
+      "fontend"
+    ],
+    "description": "记录一次前端面试过程",
+    "draft": true
+  },
+  "prevItem": {
+    "title": "AutoHotkey键盘映射",
+    "permalink": "/autohotkey"
+  },
+  "nextItem": {
+    "title": "浅谈个人学习方式",
+    "permalink": "/learning-style"
+  }
+}

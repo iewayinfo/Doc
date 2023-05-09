@@ -1,0 +1,53 @@
+{
+  "permalink": "/pnpm-monorepo-practice",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/pnpm monorepo实践.md",
+  "source": "@site/blog/develop/pnpm monorepo实践.md",
+  "title": "pnpm monorepo实践",
+  "description": "使用 pnpm monorepo 实践",
+  "date": "2022-08-29T00:00:00.000Z",
+  "formattedDate": "2022年8月29日",
+  "tags": [
+    {
+      "label": "pnpm",
+      "permalink": "/tags/pnpm"
+    },
+    {
+      "label": "monorepo",
+      "permalink": "/tags/monorepo"
+    }
+  ],
+  "readingTime": 5.38,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "pnpm-monorepo-practice",
+    "title": "pnpm monorepo实践",
+    "date": "2022-08-29T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "pnpm",
+      "monorepo"
+    ],
+    "keywords": [
+      "pnpm",
+      "monorepo"
+    ],
+    "description": "使用 pnpm monorepo 实践"
+  },
+  "prevItem": {
+    "title": "Strapi 实现用户注册与登录",
+    "permalink": "/strapi-user-register-and-login"
+  },
+  "nextItem": {
+    "title": "正被消磨殆尽的耐心",
+    "permalink": "/patience-wearing-out"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "permalink": "/docusaurus-gitalk-plugin",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Docusaurus配置Gitalk评论插件.md",
+  "source": "@site/blog/program/Docusaurus配置Gitalk评论插件.md",
+  "title": "Docusaurus配置Gitalk评论插件",
+  "description": "之前使用 vuepress 的时候，使用的评论系统是Valine，可是匿名用户也能直接评论，虽说会过滤垃圾信息，但是后台查看评论与通知总感觉没有那么实在。",
+  "date": "2022-01-22T00:00:00.000Z",
+  "formattedDate": "2022年1月22日",
+  "tags": [
+    {
+      "label": "blog",
+      "permalink": "/tags/blog"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/tags/docusaurus"
+    },
+    {
+      "label": "gitalk",
+      "permalink": "/tags/gitalk"
+    }
+  ],
+  "readingTime": 4.03,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "docusaurus-gitalk-plugin",
+    "title": "Docusaurus配置Gitalk评论插件",
+    "date": "2022-01-22T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "blog",
+      "docusaurus",
+      "gitalk"
+    ],
+    "keywords": [
+      "blog",
+      "docusaurus",
+      "gitalk"
+    ]
+  },
+  "prevItem": {
+    "title": "JavaScript中的二进制数据",
+    "permalink": "/js-binary-data"
+  },
+  "nextItem": {
+    "title": "SpringBoot热更新",
+    "permalink": "/springboot-hot-update"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "unversionedId": "skill/database/elasticsearch/elasticsearch-note",
+  "id": "skill/database/elasticsearch/elasticsearch-note",
+  "title": "elasticsearch笔记",
+  "description": "Elasticsearch Clients | Elastic 官方文档",
+  "source": "@site/docs/skill/database/elasticsearch/index.md",
+  "sourceDirName": "skill/database/elasticsearch",
+  "slug": "/skill/database/elasticsearch",
+  "permalink": "/docs/skill/database/elasticsearch",
+  "draft": false,
+  "tags": [
+    {
+      "label": "elasticsearch",
+      "permalink": "/docs/tags/elasticsearch"
+    },
+    {
+      "label": "database",
+      "permalink": "/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "elasticsearch-note",
+    "slug": "/skill/database/elasticsearch",
+    "title": "elasticsearch笔记",
+    "date": "2021-03-15T00:00:00.000Z",
+    "tags": [
+      "elasticsearch",
+      "database"
+    ],
+    "keywords": [
+      "elasticsearch",
+      "database"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Redis笔记",
+    "permalink": "/docs/skill/database/redis"
+  },
+  "next": {
+    "title": "elasticsearch笔记",
+    "permalink": "/docs/skill/database/elasticsearch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "label": "react",
+  "permalink": "/docs/tags/react",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "skill/react/create-react-app",
+      "title": "使用脚手架创建React项目",
+      "description": "create-react-app",
+      "permalink": "/docs/create-react-app"
+    },
+    {
+      "id": "skill/react/react-hooks",
+      "title": "React之hooks",
+      "description": "官方内置 hooks",
+      "permalink": "/docs/react-hooks"
+    },
+    {
+      "id": "skill/react/React中Css几种实现方案",
+      "title": "React中Css几种实现方案",
+      "description": "全局样式",
+      "permalink": "/docs/skill/react/react-css-implementation"
+    }
+  ]
+}

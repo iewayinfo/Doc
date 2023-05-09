@@ -1,0 +1,59 @@
+{
+  "permalink": "/axios-http-class-library",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/基于Axios封装HTTP类库.md",
+  "source": "@site/blog/develop/基于Axios封装HTTP类库.md",
+  "title": "基于Axios封装HTTP类库",
+  "description": "基于 Axios 封装 HTTP 类库，并发布到 npm 仓库中",
+  "date": "2021-08-26T00:00:00.000Z",
+  "formattedDate": "2021年8月26日",
+  "tags": [
+    {
+      "label": "node",
+      "permalink": "/tags/node"
+    },
+    {
+      "label": "http",
+      "permalink": "/tags/http"
+    },
+    {
+      "label": "axios",
+      "permalink": "/tags/axios"
+    }
+  ],
+  "readingTime": 5.12,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "axios-http-class-library",
+    "title": "基于Axios封装HTTP类库",
+    "date": "2021-08-26T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "node",
+      "http",
+      "axios"
+    ],
+    "keywords": [
+      "node",
+      "http",
+      "axios"
+    ],
+    "description": "基于 Axios 封装 HTTP 类库，并发布到 npm 仓库中"
+  },
+  "prevItem": {
+    "title": "MongoDB按时间分组",
+    "permalink": "/mongodb-time-grouping"
+  },
+  "nextItem": {
+    "title": "第二个博客搭建之Docusaurus",
+    "permalink": "/second-blog-is-docusaurus"
+  }
+}

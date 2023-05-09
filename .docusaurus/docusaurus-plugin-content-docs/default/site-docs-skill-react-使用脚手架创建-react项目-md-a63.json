@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/react/create-react-app",
+  "id": "skill/react/create-react-app",
+  "title": "使用脚手架创建React项目",
+  "description": "create-react-app",
+  "source": "@site/docs/skill/react/使用脚手架创建React项目.md",
+  "sourceDirName": "skill/react",
+  "slug": "/create-react-app",
+  "permalink": "/docs/create-react-app",
+  "draft": false,
+  "tags": [
+    {
+      "label": "react",
+      "permalink": "/docs/tags/react"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "create-react-app",
+    "slug": "/create-react-app",
+    "title": "使用脚手架创建React项目",
+    "date": "2021-09-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "react"
+    ],
+    "keywords": [
+      "react"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "React之hooks",
+    "permalink": "/docs/react-hooks"
+  },
+  "next": {
+    "title": "Web",
+    "permalink": "/docs/category/web"
+  }
+}

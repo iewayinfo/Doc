@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/js/how-does-js-get-today-zero-timestamp",
+  "id": "skill/js/how-does-js-get-today-zero-timestamp",
+  "title": "JS如何获取当天零点时间戳",
+  "description": "需求",
+  "source": "@site/docs/skill/js/JS如何获取当天零点时间戳.md",
+  "sourceDirName": "skill/js",
+  "slug": "/how-does-js-get-today-zero-timestamp",
+  "permalink": "/docs/how-does-js-get-today-zero-timestamp",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-does-js-get-today-zero-timestamp",
+    "slug": "/how-does-js-get-today-zero-timestamp",
+    "title": "JS如何获取当天零点时间戳",
+    "date": "2021-08-18T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript"
+    ],
+    "keywords": [
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "JavaScript",
+    "permalink": "/docs/category/javascript"
+  },
+  "next": {
+    "title": "JS实现函数缓存",
+    "permalink": "/docs/js-implement-function-cache"
+  }
+}

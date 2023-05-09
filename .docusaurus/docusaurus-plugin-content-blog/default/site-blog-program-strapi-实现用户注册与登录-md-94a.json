@@ -1,0 +1,59 @@
+{
+  "permalink": "/strapi-user-register-and-login",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Strapi 实现用户注册与登录.md",
+  "source": "@site/blog/program/Strapi 实现用户注册与登录.md",
+  "title": "Strapi 实现用户注册与登录",
+  "description": "Strapi 实现用户注册与登录",
+  "date": "2022-09-03T00:00:00.000Z",
+  "formattedDate": "2022年9月3日",
+  "tags": [
+    {
+      "label": "strapi",
+      "permalink": "/tags/strapi"
+    },
+    {
+      "label": "nuxt",
+      "permalink": "/tags/nuxt"
+    },
+    {
+      "label": "next",
+      "permalink": "/tags/next"
+    }
+  ],
+  "readingTime": 3.933333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "strapi-user-register-and-login",
+    "title": "Strapi 实现用户注册与登录",
+    "date": "2022-09-03T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "strapi",
+      "nuxt",
+      "next"
+    ],
+    "keywords": [
+      "strapi",
+      "nuxt",
+      "next"
+    ],
+    "description": "Strapi 实现用户注册与登录"
+  },
+  "prevItem": {
+    "title": "记 Github 学生认证",
+    "permalink": "/github-student-certification"
+  },
+  "nextItem": {
+    "title": "pnpm monorepo实践",
+    "permalink": "/pnpm-monorepo-practice"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "React",
+  "slug": "/category/react",
+  "permalink": "/docs/category/react",
+  "navigation": {
+    "previous": {
+      "title": "Pinia",
+      "permalink": "/docs/pinia"
+    },
+    "next": {
+      "title": "React中Css几种实现方案",
+      "permalink": "/docs/skill/react/react-css-implementation"
+    }
+  }
+}

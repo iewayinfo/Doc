@@ -1,0 +1,32 @@
+{
+  "label": "android",
+  "permalink": "/docs/tags/android",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "skill/reverse/android/刷机/install-lsposed",
+      "title": "安装LSPosed",
+      "description": "高版本安装 Xposed",
+      "permalink": "/docs/install-lsposed"
+    },
+    {
+      "id": "skill/reverse/android/刷机/solution-of-bootloader-lock",
+      "title": "解Bootloader锁",
+      "description": "最近准备重学安卓逆向与开发，自然工具是肯定少不了，最为重要的便是手机。之前的手机是 Pixel，但是手机性能不太好，使用起来一卡一卡的（程序安装的有点多）。于是就准备换台 Pixel 4XL 欧版的来作为新设备。",
+      "permalink": "/docs/solution-of-bootloader-lock"
+    },
+    {
+      "id": "skill/reverse/android/刷机/brush-magisk",
+      "title": "刷入Magisk",
+      "description": "相关链接: 小胡子的干货铺——Pixel 4 XL 刷入 Magisk、Root - 少数派 (sspai.com)",
+      "permalink": "/docs/brush-magisk"
+    },
+    {
+      "id": "skill/reverse/android/刷机/intercepting-requests",
+      "title": "抓包",
+      "description": "Charles",
+      "permalink": "/docs/intercepting-requests"
+    }
+  ]
+}

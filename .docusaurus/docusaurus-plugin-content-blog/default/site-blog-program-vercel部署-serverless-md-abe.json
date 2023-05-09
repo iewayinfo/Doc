@@ -1,0 +1,53 @@
+{
+  "permalink": "/vercel-deploy-serverless",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Vercel部署Serverless.md",
+  "source": "@site/blog/program/Vercel部署Serverless.md",
+  "title": "Vercel部署Serverless",
+  "description": "使用 Vercel 部署 serverless 过程记录",
+  "date": "2022-05-12T00:00:00.000Z",
+  "formattedDate": "2022年5月12日",
+  "tags": [
+    {
+      "label": "vercel",
+      "permalink": "/tags/vercel"
+    },
+    {
+      "label": "serverless",
+      "permalink": "/tags/serverless"
+    }
+  ],
+  "readingTime": 2.8466666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vercel-deploy-serverless",
+    "title": "Vercel部署Serverless",
+    "date": "2022-05-12T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vercel",
+      "serverless"
+    ],
+    "keywords": [
+      "vercel",
+      "serverless"
+    ],
+    "description": "使用 Vercel 部署 serverless 过程记录"
+  },
+  "prevItem": {
+    "title": "浅谈个人学习方式",
+    "permalink": "/learning-style"
+  },
+  "nextItem": {
+    "title": "使用Github Action自动化部署",
+    "permalink": "/use-github-action-to-auto-deploy"
+  }
+}

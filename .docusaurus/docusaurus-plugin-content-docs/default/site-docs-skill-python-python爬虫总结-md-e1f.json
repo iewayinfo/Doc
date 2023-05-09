@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/python/python-spider-summary",
+  "id": "skill/python/python-spider-summary",
+  "title": "Python爬虫总结",
+  "description": "最近临时写了个 python 爬虫的例子（核心代码不开源），总结下这次编写过程中的一些相关知识点与注意事项，以一个用 nodejs 写爬虫的开发者的角度去看待与比对。",
+  "source": "@site/docs/skill/python/Python爬虫总结.md",
+  "sourceDirName": "skill/python",
+  "slug": "/python-spider-summary",
+  "permalink": "/docs/python-spider-summary",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "label": "node",
+      "permalink": "/docs/tags/node"
+    },
+    {
+      "label": "http",
+      "permalink": "/docs/tags/http"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "python-spider-summary",
+    "slug": "/python-spider-summary",
+    "title": "Python爬虫总结",
+    "date": "2022-03-03T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "python",
+      "node",
+      "http"
+    ],
+    "keywords": [
+      "python",
+      "node",
+      "http"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Python指定版本运行",
+    "permalink": "/docs/python-specified-versiton-run"
+  },
+  "next": {
+    "title": "pyautogui自动化操作脚本",
+    "permalink": "/docs/pyautogui"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/reverse/android/frida/frida-so-hook",
+  "id": "skill/reverse/android/frida/frida-so-hook",
+  "title": "Frida so层中的hook",
+  "description": "前言",
+  "source": "@site/docs/skill/reverse/android/frida/Frida so层中的hook.md",
+  "sourceDirName": "skill/reverse/android/frida",
+  "slug": "/frida-so-hook",
+  "permalink": "/docs/frida-so-hook",
+  "draft": false,
+  "tags": [
+    {
+      "label": "frida",
+      "permalink": "/docs/tags/frida"
+    },
+    {
+      "label": "app",
+      "permalink": "/docs/tags/app"
+    },
+    {
+      "label": "hook",
+      "permalink": "/docs/tags/hook"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "frida-so-hook",
+    "slug": "/frida-so-hook",
+    "title": "Frida so层中的hook",
+    "date": "2021-02-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "frida",
+      "app",
+      "hook"
+    ],
+    "keywords": [
+      "frida",
+      "app",
+      "hook"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Frida java层自吐加密算法",
+    "permalink": "/docs/frida-java-encryption-algorithm"
+  },
+  "next": {
+    "title": "Frida笔记",
+    "permalink": "/docs/frida-note"
+  }
+}

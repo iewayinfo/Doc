@@ -1,0 +1,14 @@
+{
+  "label": "js",
+  "permalink": "/docs/tags/js",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/js/commonly-used-util.js",
+      "title": "常用util.js",
+      "description": "记录一下自己在 js 学习中常用到的一些方法，进行封装使用",
+      "permalink": "/docs/commonly-used-util.js"
+    }
+  ]
+}

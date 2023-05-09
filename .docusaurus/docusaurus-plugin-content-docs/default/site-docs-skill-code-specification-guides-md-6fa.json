@@ -1,0 +1,31 @@
+{
+  "unversionedId": "skill/code-specification/code-specification-guides",
+  "id": "skill/code-specification/code-specification-guides",
+  "title": "代码规范",
+  "description": "杂乱不堪如同屎山般的代码，会让开发者头皮发麻，无从下手，往往更容易诱发bug。而一个良好的代码规范，能够修复团队的各个成员间代码格式不统一，有利于维护与审查。",
+  "source": "@site/docs/skill/code-specification/guides.md",
+  "sourceDirName": "skill/code-specification",
+  "slug": "/code-specification",
+  "permalink": "/docs/code-specification",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "code-specification-guides",
+    "slug": "/code-specification",
+    "title": "代码规范",
+    "authors": "kuizuo",
+    "keywords": [
+      "code-specification"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "部署",
+    "permalink": "/docs/docusaurus-deploy"
+  },
+  "next": {
+    "title": "eslint",
+    "permalink": "/docs/eslint"
+  }
+}

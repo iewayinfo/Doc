@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/reverse/android/刷机/install-lsposed",
+  "id": "skill/reverse/android/刷机/install-lsposed",
+  "title": "安装LSPosed",
+  "description": "高版本安装 Xposed",
+  "source": "@site/docs/skill/reverse/android/刷机/安装LSPosed.md",
+  "sourceDirName": "skill/reverse/android/刷机",
+  "slug": "/install-lsposed",
+  "permalink": "/docs/install-lsposed",
+  "draft": false,
+  "tags": [
+    {
+      "label": "android",
+      "permalink": "/docs/tags/android"
+    },
+    {
+      "label": "刷机",
+      "permalink": "/docs/tags/刷机"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "install-lsposed",
+    "slug": "/install-lsposed",
+    "title": "安装LSPosed",
+    "date": "2021-12-09T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "android",
+      "刷机"
+    ],
+    "keywords": [
+      "android",
+      "刷机"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "刷入Magisk",
+    "permalink": "/docs/brush-magisk"
+  },
+  "next": {
+    "title": "抓包",
+    "permalink": "/docs/intercepting-requests"
+  }
+}

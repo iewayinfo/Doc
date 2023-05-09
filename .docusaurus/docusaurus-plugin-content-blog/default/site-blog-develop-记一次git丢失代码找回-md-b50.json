@@ -1,0 +1,53 @@
+{
+  "permalink": "/lost-code-find-by-git",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/记一次git丢失代码找回.md",
+  "source": "@site/blog/develop/记一次git丢失代码找回.md",
+  "title": "记一次git丢失代码找回",
+  "description": "记录 git 操作失误导致代码丢失与找回的过程",
+  "date": "2021-08-15T00:00:00.000Z",
+  "formattedDate": "2021年8月15日",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/tags/git"
+    },
+    {
+      "label": "code",
+      "permalink": "/tags/code"
+    }
+  ],
+  "readingTime": 1.86,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "lost-code-find-by-git",
+    "title": "记一次git丢失代码找回",
+    "date": "2021-08-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "git",
+      "code"
+    ],
+    "keywords": [
+      "git",
+      "code"
+    ],
+    "description": "记录 git 操作失误导致代码丢失与找回的过程"
+  },
+  "prevItem": {
+    "title": "第二个博客搭建之Docusaurus",
+    "permalink": "/second-blog-is-docusaurus"
+  },
+  "nextItem": {
+    "title": "Redis获取六位不重复数字（邀请码）",
+    "permalink": "/redis-get-six-digit-number-invitation-code"
+  }
+}

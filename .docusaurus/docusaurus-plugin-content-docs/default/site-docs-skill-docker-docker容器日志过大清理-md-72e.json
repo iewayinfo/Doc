@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/docker/docker-container-log-clean",
+  "id": "skill/docker/docker-container-log-clean",
+  "title": "Docker容器日志过大清理",
+  "description": "在我以 docker 容器部署了 elasticsearch 服务后的 3 个月时间，发现硬盘会不断的增大，一开始时没在意，直到硬盘报黄，就像下图这样",
+  "source": "@site/docs/skill/docker/Docker容器日志过大清理.md",
+  "sourceDirName": "skill/docker",
+  "slug": "/docker-container-log-clean",
+  "permalink": "/docs/docker-container-log-clean",
+  "draft": false,
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-container-log-clean",
+    "slug": "/docker-container-log-clean",
+    "title": "Docker容器日志过大清理",
+    "date": "2021-10-16T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "docker"
+    ],
+    "keywords": [
+      "docker"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Docker笔记",
+    "permalink": "/docs/docker"
+  },
+  "next": {
+    "title": "Docker访问宿主机上服务",
+    "permalink": "/docs/docker-accesses-host-service"
+  }
+}

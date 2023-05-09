@@ -1,0 +1,44 @@
+{
+  "label": "database",
+  "permalink": "/docs/tags/database",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "skill/database/elasticsearch/elasticsearch-note",
+      "title": "elasticsearch笔记",
+      "description": "Elasticsearch Clients | Elastic 官方文档",
+      "permalink": "/docs/skill/database/elasticsearch"
+    },
+    {
+      "id": "skill/database/mongo/mongodb-note",
+      "title": "MongoDB笔记",
+      "description": "安装",
+      "permalink": "/docs/skill/database/mongodb"
+    },
+    {
+      "id": "skill/database/mysql/mysql-note",
+      "title": "MySql笔记",
+      "description": "1、前言",
+      "permalink": "/docs/skill/database/mysql"
+    },
+    {
+      "id": "skill/database/mysql/mysql-like-optimization",
+      "title": "mysql模糊查询like优化",
+      "description": "1、前言",
+      "permalink": "/docs/mysql-like-optimization"
+    },
+    {
+      "id": "skill/database/mysql/mysql-replace-function",
+      "title": "mysql替换函数replace",
+      "description": "1、前言",
+      "permalink": "/docs/mysql-replace-function"
+    },
+    {
+      "id": "skill/database/redis/redis-note",
+      "title": "Redis笔记",
+      "description": "redis 中文官方网站",
+      "permalink": "/docs/skill/database/redis"
+    }
+  ]
+}

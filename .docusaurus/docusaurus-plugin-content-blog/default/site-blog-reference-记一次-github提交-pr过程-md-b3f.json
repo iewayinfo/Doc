@@ -1,0 +1,58 @@
+{
+  "permalink": "/github-pr-experience",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/reference/记一次Github提交PR过程.md",
+  "source": "@site/blog/reference/记一次Github提交PR过程.md",
+  "title": "记一次Github提交PR过程",
+  "description": "故事起因",
+  "date": "2022-01-25T00:00:00.000Z",
+  "formattedDate": "2022年1月25日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "github",
+      "permalink": "/tags/github"
+    },
+    {
+      "label": "blog",
+      "permalink": "/tags/blog"
+    }
+  ],
+  "readingTime": 4.993333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "github-pr-experience",
+    "title": "记一次Github提交PR过程",
+    "date": "2022-01-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "github",
+      "blog"
+    ],
+    "keywords": [
+      "随笔",
+      "github",
+      "blog"
+    ]
+  },
+  "prevItem": {
+    "title": "HTTP请求配置客户端SSL证书",
+    "permalink": "/http-config-client-ssl-certificate"
+  },
+  "nextItem": {
+    "title": "JavaScript中的二进制数据",
+    "permalink": "/js-binary-data"
+  }
+}

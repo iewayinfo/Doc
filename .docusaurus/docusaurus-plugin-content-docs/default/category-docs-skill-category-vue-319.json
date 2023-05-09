@@ -1,0 +1,15 @@
+{
+  "title": "Vue",
+  "slug": "/category/vue",
+  "permalink": "/docs/category/vue",
+  "navigation": {
+    "previous": {
+      "title": "npmrc",
+      "permalink": "/docs/npmrc"
+    },
+    "next": {
+      "title": "Vue响应式数据之Object",
+      "permalink": "/docs/vue-reactive-data-object"
+    }
+  }
+}

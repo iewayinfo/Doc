@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/python/python-specified-versiton-run",
+  "id": "skill/python/python-specified-versiton-run",
+  "title": "Python指定版本运行",
+  "description": "前言",
+  "source": "@site/docs/skill/python/Python指定版本运行.md",
+  "sourceDirName": "skill/python",
+  "slug": "/python-specified-versiton-run",
+  "permalink": "/docs/python-specified-versiton-run",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "python-specified-versiton-run",
+    "slug": "/python-specified-versiton-run",
+    "title": "Python指定版本运行",
+    "date": "2020-09-11T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "python"
+    ],
+    "keywords": [
+      "python"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Python中的cv2使用",
+    "permalink": "/docs/python-cv2-usage"
+  },
+  "next": {
+    "title": "Python爬虫总结",
+    "permalink": "/docs/python-spider-summary"
+  }
+}

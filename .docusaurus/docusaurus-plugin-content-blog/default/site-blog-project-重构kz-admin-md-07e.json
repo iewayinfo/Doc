@@ -1,0 +1,54 @@
+{
+  "permalink": "/refactor-kz-admin",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/project/重构kz-admin.md",
+  "source": "@site/blog/project/重构kz-admin.md",
+  "title": "重构kz-admin",
+  "description": "kz-admin 是一个基于 NestJs + TypeScript + TypeORM + Redis + MySql + Vben Admin 编写的一款前后端分离的权限管理系统",
+  "date": "2022-11-07T00:00:00.000Z",
+  "formattedDate": "2022年11月7日",
+  "tags": [
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    },
+    {
+      "label": "admin",
+      "permalink": "/tags/admin"
+    }
+  ],
+  "readingTime": 5.0633333333333335,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "refactor-kz-admin",
+    "title": "重构kz-admin",
+    "date": "2022-11-07T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "project",
+      "admin"
+    ],
+    "keywords": [
+      "project",
+      "admin"
+    ],
+    "description": "kz-admin 是一个基于 NestJs + TypeScript + TypeORM + Redis + MySql + Vben Admin 编写的一款前后端分离的权限管理系统",
+    "image": "/img/project/kz-admin.png"
+  },
+  "prevItem": {
+    "title": "GraphQL 实践与服务搭建",
+    "permalink": "/graphql-practice"
+  },
+  "nextItem": {
+    "title": "Protocol 协议复现模板",
+    "permalink": "/protocol-template"
+  }
+}

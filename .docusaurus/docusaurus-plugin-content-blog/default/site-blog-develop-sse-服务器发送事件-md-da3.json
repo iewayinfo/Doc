@@ -1,0 +1,46 @@
+{
+  "permalink": "/sse-server-send-event",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/SSE 服务器发送事件.md",
+  "source": "@site/blog/develop/SSE 服务器发送事件.md",
+  "title": "SSE 服务器发送事件",
+  "description": "先放一张 gif 图展示下效果",
+  "date": "2022-03-16T00:00:00.000Z",
+  "formattedDate": "2022年3月16日",
+  "tags": [
+    {
+      "label": "http",
+      "permalink": "/tags/http"
+    }
+  ],
+  "readingTime": 2.1266666666666665,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "sse-server-send-event",
+    "title": "SSE 服务器发送事件",
+    "date": "2022-03-16T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "http"
+    ],
+    "keywords": [
+      "http"
+    ]
+  },
+  "prevItem": {
+    "title": "搭建Electron+Vue3开发环境",
+    "permalink": "/electron-vue3-development-environment"
+  },
+  "nextItem": {
+    "title": "在线工具",
+    "permalink": "/online-tools"
+  }
+}

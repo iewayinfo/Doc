@@ -1,0 +1,20 @@
+{
+  "label": "npm",
+  "permalink": "/docs/tags/npm",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "skill/node/npkill-quickly-move-node-modules",
+      "title": "npkill快速删除node_modules文件",
+      "description": "官网地址 npkill",
+      "permalink": "/docs/npkill-quickly-move-node-modules"
+    },
+    {
+      "id": "skill/node/npm-mirror-config",
+      "title": "npm镜像配置",
+      "description": "由于原淘宝 npm 域名（http//registry.npm.taobao.org）将于 2022.06.30 号正式下线和停止 DNS 解析，不妨提前修改镜像的地址，以免受到影响。",
+      "permalink": "/docs/npm-mirror-config"
+    }
+  ]
+}

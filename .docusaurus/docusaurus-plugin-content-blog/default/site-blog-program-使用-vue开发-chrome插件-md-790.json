@@ -1,0 +1,66 @@
+{
+  "permalink": "/vue-chrome-extension",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/使用Vue开发Chrome插件.md",
+  "source": "@site/blog/program/使用Vue开发Chrome插件.md",
+  "title": "使用Vue开发Chrome插件",
+  "description": "使用 Vue2 开发一个 Chrome 插件",
+  "date": "2021-09-18T00:00:00.000Z",
+  "formattedDate": "2021年9月18日",
+  "tags": [
+    {
+      "label": "chrome",
+      "permalink": "/tags/chrome"
+    },
+    {
+      "label": "plugin",
+      "permalink": "/tags/plugin"
+    },
+    {
+      "label": "vue",
+      "permalink": "/tags/vue"
+    },
+    {
+      "label": "develop",
+      "permalink": "/tags/develop"
+    }
+  ],
+  "readingTime": 10.133333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vue-chrome-extension",
+    "title": "使用Vue开发Chrome插件",
+    "date": "2021-09-18T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "chrome",
+      "plugin",
+      "vue",
+      "develop"
+    ],
+    "keywords": [
+      "chrome",
+      "plugin",
+      "vue",
+      "develop"
+    ],
+    "description": "使用 Vue2 开发一个 Chrome 插件",
+    "image": "/img/blog/vue-chrome-extension.png"
+  },
+  "prevItem": {
+    "title": "使用JSONPath解析json数据",
+    "permalink": "/use-jsonpath-to-parse-json-data"
+  },
+  "nextItem": {
+    "title": "资源导航",
+    "permalink": "/resource-navigation"
+  }
+}

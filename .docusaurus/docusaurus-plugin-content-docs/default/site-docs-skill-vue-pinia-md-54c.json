@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/vue/pinia",
+  "id": "skill/vue/pinia",
+  "title": "Pinia",
+  "description": "官方文档：Introduction | Pinia (vuejs.org)",
+  "source": "@site/docs/skill/vue/Pinia.md",
+  "sourceDirName": "skill/vue",
+  "slug": "/pinia",
+  "permalink": "/docs/pinia",
+  "draft": false,
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/docs/tags/vue"
+    },
+    {
+      "label": "pinia",
+      "permalink": "/docs/tags/pinia"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pinia",
+    "slug": "/pinia",
+    "title": "Pinia",
+    "date": "2020-10-23T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vue",
+      "pinia"
+    ],
+    "keywords": [
+      "vue",
+      "pinia"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Vue响应式数据之基本数据类型",
+    "permalink": "/docs/vue-reactive-data-basic-type"
+  },
+  "next": {
+    "title": "React",
+    "permalink": "/docs/category/react"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "算法",
+  "slug": "/category/算法",
+  "permalink": "/docs/category/算法",
+  "navigation": {
+    "previous": {
+      "title": "git修改默认分支main",
+      "permalink": "/docs/skill/git/git-change-default-branch"
+    },
+    "next": {
+      "title": "两数之和",
+      "permalink": "/docs/two-sum"
+    }
+  }
+}

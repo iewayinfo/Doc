@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/node/npm-mirror-config",
+  "id": "skill/node/npm-mirror-config",
+  "title": "npm镜像配置",
+  "description": "由于原淘宝 npm 域名（http//registry.npm.taobao.org）将于 2022.06.30 号正式下线和停止 DNS 解析，不妨提前修改镜像的地址，以免受到影响。",
+  "source": "@site/docs/skill/node/npm镜像配置.md",
+  "sourceDirName": "skill/node",
+  "slug": "/npm-mirror-config",
+  "permalink": "/docs/npm-mirror-config",
+  "draft": false,
+  "tags": [
+    {
+      "label": "node",
+      "permalink": "/docs/tags/node"
+    },
+    {
+      "label": "npm",
+      "permalink": "/docs/tags/npm"
+    },
+    {
+      "label": "electron",
+      "permalink": "/docs/tags/electron"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "npm-mirror-config",
+    "slug": "/npm-mirror-config",
+    "title": "npm镜像配置",
+    "date": "2022-03-17T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "node",
+      "npm",
+      "electron"
+    ],
+    "keywords": [
+      "node",
+      "npm",
+      "electron"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "npkill快速删除node_modules文件",
+    "permalink": "/docs/npkill-quickly-move-node-modules"
+  },
+  "next": {
+    "title": "使用 require.context 实现模块自动导入",
+    "permalink": "/docs/use-require.context-to-auto-import-modules"
+  }
+}

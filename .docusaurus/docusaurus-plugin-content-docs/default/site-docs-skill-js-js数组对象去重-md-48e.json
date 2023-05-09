@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/js/js-array-object-unique",
+  "id": "skill/js/js-array-object-unique",
+  "title": "JS数组对象去重",
+  "description": "参考 数组对象去重",
+  "source": "@site/docs/skill/js/JS数组对象去重.md",
+  "sourceDirName": "skill/js",
+  "slug": "/js-array-object-unique",
+  "permalink": "/docs/js-array-object-unique",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "js-array-object-unique",
+    "slug": "/js-array-object-unique",
+    "title": "JS数组对象去重",
+    "date": "2021-07-05T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript"
+    ],
+    "keywords": [
+      "javascript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "JS输出函数调用栈",
+    "permalink": "/docs/js-print-stack-of-function"
+  },
+  "next": {
+    "title": "TypeScript高级语法",
+    "permalink": "/docs/typescript-advanced-grammar"
+  }
+}

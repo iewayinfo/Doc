@@ -1,0 +1,14 @@
+{
+  "label": "typescript",
+  "permalink": "/docs/tags/typescript",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/js/typescript-advanced-grammar",
+      "title": "TypeScript高级语法",
+      "description": "在线运行 TypeScript https://www.typescriptlang.org/play",
+      "permalink": "/docs/typescript-advanced-grammar"
+    }
+  ]
+}

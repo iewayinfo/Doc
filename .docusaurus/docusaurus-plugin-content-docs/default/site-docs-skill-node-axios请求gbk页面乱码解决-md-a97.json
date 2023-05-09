@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/node/axios-request-gbk-page-encoding-solution",
+  "id": "skill/node/axios-request-gbk-page-encoding-solution",
+  "title": "axios请求gbk页面乱码解决",
+  "description": "使用 axios 请求 gbk 编码的网站，将会出现乱码，原因很简单，node 默认字符编码为 utf8，如果要正常显示 gbk 数据的话就需要将 gbk 转 utf8 格式。",
+  "source": "@site/docs/skill/node/axios请求gbk页面乱码解决.md",
+  "sourceDirName": "skill/node",
+  "slug": "/axios-request-gbk-page-encoding-solution",
+  "permalink": "/docs/axios-request-gbk-page-encoding-solution",
+  "draft": false,
+  "tags": [
+    {
+      "label": "node",
+      "permalink": "/docs/tags/node"
+    },
+    {
+      "label": "axios",
+      "permalink": "/docs/tags/axios"
+    },
+    {
+      "label": "encode",
+      "permalink": "/docs/tags/encode"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "axios-request-gbk-page-encoding-solution",
+    "slug": "/axios-request-gbk-page-encoding-solution",
+    "title": "axios请求gbk页面乱码解决",
+    "date": "2021-09-19T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "node",
+      "axios",
+      "encode"
+    ],
+    "keywords": [
+      "node",
+      "axios",
+      "encode"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Node",
+    "permalink": "/docs/category/node"
+  },
+  "next": {
+    "title": "npkill快速删除node_modules文件",
+    "permalink": "/docs/npkill-quickly-move-node-modules"
+  }
+}

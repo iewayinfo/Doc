@@ -1,0 +1,14 @@
+{
+  "label": "tailind",
+  "permalink": "/docs/tags/tailind",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/css/tailwind-css-usage",
+      "title": "记Tailwind CSS使用",
+      "description": "最近把之前写的一个Web项目的页面给重构了一下，使用上了Tailwind CSS，虽然之前就使用过，但是没有记录下来，这次就相当于对该技术栈进行一次总结。",
+      "permalink": "/docs/tailwind-css-usage"
+    }
+  ]
+}

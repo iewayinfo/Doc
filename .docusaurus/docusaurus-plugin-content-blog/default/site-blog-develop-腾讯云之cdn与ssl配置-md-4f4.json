@@ -1,0 +1,46 @@
+{
+  "permalink": "/tencent-cloud-cdn-and-ssl",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/腾讯云之CDN与SSL配置.md",
+  "source": "@site/blog/develop/腾讯云之CDN与SSL配置.md",
+  "title": "腾讯云之CDN与SSL配置",
+  "description": "如题，本人所购买的服务器，以及对象存储，CDN，和 SSL 都是腾讯云的。",
+  "date": "2020-12-15T00:00:00.000Z",
+  "formattedDate": "2020年12月15日",
+  "tags": [
+    {
+      "label": "cloud-services",
+      "permalink": "/tags/cloud-services"
+    }
+  ],
+  "readingTime": 5.27,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "tencent-cloud-cdn-and-ssl",
+    "title": "腾讯云之CDN与SSL配置",
+    "date": "2020-12-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "cloud-services"
+    ],
+    "keywords": [
+      "cloud-services"
+    ]
+  },
+  "prevItem": {
+    "title": "为什么我不用七牛云",
+    "permalink": "/why-i-dont-use-qiniu-cloud"
+  },
+  "nextItem": {
+    "title": "HTTP请求之Content-Type",
+    "permalink": "/content-type-of-http-request"
+  }
+}

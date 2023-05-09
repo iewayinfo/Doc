@@ -1,0 +1,72 @@
+{
+  "permalink": "/typescript-full-stack-technology-trpc",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Typescript 全栈最值得学习的技术栈 TRPC.md",
+  "source": "@site/blog/program/Typescript 全栈最值得学习的技术栈 TRPC.md",
+  "title": "Typescript 全栈最值得学习的技术栈 TRPC",
+  "description": "本文介绍了 tRPC 技术以及它与传统 RESTful API 的区别。同时 tRPC 可以帮助人们更快地开发全栈 TypeScript 应用程序，同时无需传统的 API 层，并保证应用程序在快速迭代时的稳定性。",
+  "date": "2023-03-07T00:00:00.000Z",
+  "formattedDate": "2023年3月7日",
+  "tags": [
+    {
+      "label": "trpc",
+      "permalink": "/tags/trpc"
+    },
+    {
+      "label": "next",
+      "permalink": "/tags/next"
+    },
+    {
+      "label": "prisma",
+      "permalink": "/tags/prisma"
+    },
+    {
+      "label": "zod",
+      "permalink": "/tags/zod"
+    },
+    {
+      "label": "auth.js",
+      "permalink": "/tags/auth-js"
+    }
+  ],
+  "readingTime": 14.92,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "typescript-full-stack-technology-trpc",
+    "title": "Typescript 全栈最值得学习的技术栈 TRPC",
+    "date": "2023-03-07T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "trpc",
+      "next",
+      "prisma",
+      "zod",
+      "auth.js"
+    ],
+    "keywords": [
+      "trpc",
+      "next",
+      "prisma",
+      "zod",
+      "auth.js"
+    ],
+    "description": "本文介绍了 tRPC 技术以及它与传统 RESTful API 的区别。同时 tRPC 可以帮助人们更快地开发全栈 TypeScript 应用程序，同时无需传统的 API 层，并保证应用程序在快速迭代时的稳定性。",
+    "toc_max_heading_level": 3
+  },
+  "prevItem": {
+    "title": "距离我上篇笔记还是在?",
+    "permalink": "/why-i-dont-write-notes"
+  },
+  "nextItem": {
+    "title": "将 Supabase 作为下一个后端服务",
+    "permalink": "/use-supabase-as-backend-service"
+  }
+}

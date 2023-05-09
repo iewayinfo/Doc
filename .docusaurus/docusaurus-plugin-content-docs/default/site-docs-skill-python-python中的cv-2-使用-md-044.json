@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/python/python-cv2-usage",
+  "id": "skill/python/python-cv2-usage",
+  "title": "Python中的cv2使用",
+  "description": "模块 cv2 的用法 - 陨落&新生 - 博客园 (cnblogs.com)",
+  "source": "@site/docs/skill/python/Python中的cv2使用.md",
+  "sourceDirName": "skill/python",
+  "slug": "/python-cv2-usage",
+  "permalink": "/docs/python-cv2-usage",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "python-cv2-usage",
+    "slug": "/python-cv2-usage",
+    "title": "Python中的cv2使用",
+    "date": "2022-03-06T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "python"
+    ],
+    "keywords": [
+      "python"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Python",
+    "permalink": "/docs/category/python"
+  },
+  "next": {
+    "title": "Python指定版本运行",
+    "permalink": "/docs/python-specified-versiton-run"
+  }
+}

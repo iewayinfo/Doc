@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/docker/docker-compose",
+  "id": "skill/docker/docker-compose",
+  "title": "Docker Compose",
+  "description": "简介",
+  "source": "@site/docs/skill/docker/Docker Compose.md",
+  "sourceDirName": "skill/docker",
+  "slug": "/docker-compose",
+  "permalink": "/docs/docker-compose",
+  "draft": false,
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker-compose",
+    "slug": "/docker-compose",
+    "title": "Docker Compose",
+    "date": "2021-05-26T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "docker"
+    ],
+    "keywords": [
+      "docker"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/docs/category/docker"
+  },
+  "next": {
+    "title": "Docker笔记",
+    "permalink": "/docs/docker"
+  }
+}

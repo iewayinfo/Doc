@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/reverse/android/刷机/brush-magisk",
+  "id": "skill/reverse/android/刷机/brush-magisk",
+  "title": "刷入Magisk",
+  "description": "相关链接: 小胡子的干货铺——Pixel 4 XL 刷入 Magisk、Root - 少数派 (sspai.com)",
+  "source": "@site/docs/skill/reverse/android/刷机/刷入Magisk.md",
+  "sourceDirName": "skill/reverse/android/刷机",
+  "slug": "/brush-magisk",
+  "permalink": "/docs/brush-magisk",
+  "draft": false,
+  "tags": [
+    {
+      "label": "android",
+      "permalink": "/docs/tags/android"
+    },
+    {
+      "label": "magisk",
+      "permalink": "/docs/tags/magisk"
+    },
+    {
+      "label": "刷机",
+      "permalink": "/docs/tags/刷机"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "brush-magisk",
+    "slug": "/brush-magisk",
+    "title": "刷入Magisk",
+    "date": "2021-12-09T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "android",
+      "magisk",
+      "刷机"
+    ],
+    "keywords": [
+      "android",
+      "magisk",
+      "刷机"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "objection笔记",
+    "permalink": "/docs/objection-note"
+  },
+  "next": {
+    "title": "安装LSPosed",
+    "permalink": "/docs/install-lsposed"
+  }
+}

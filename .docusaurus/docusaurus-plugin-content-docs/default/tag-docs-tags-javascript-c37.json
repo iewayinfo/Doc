@@ -1,0 +1,86 @@
+{
+  "label": "javascript",
+  "permalink": "/docs/tags/javascript",
+  "allTagsPath": "/docs/tags",
+  "count": 13,
+  "items": [
+    {
+      "id": "skill/js/querystring-and-json-convert",
+      "title": "查询字符串与JSON互转",
+      "description": "查询字符串与 JSON 互转",
+      "permalink": "/docs/querystring-and-json-convert"
+    },
+    {
+      "id": "skill/web/brower-copy-console-panel-output",
+      "title": "浏览器复制Console面板输出",
+      "description": "在分析一个网站的时候，要将控制台（Console 面板）中的大数组（长度大约 100）复制到本地上进行调用",
+      "permalink": "/docs/brower-copy-console-panel-output"
+    },
+    {
+      "id": "skill/js/type-of-object-map-refactor",
+      "title": "重构之对象映射类型",
+      "description": "写代码的时候，遇到多重条件分支的时候，使用if else if肯定不如 switch 好用，但 switch 又避免不了 break 语句。但如果只是将数据转化的话，不妨使用对象映射的形式来替换",
+      "permalink": "/docs/type-of-object-map-refactor"
+    },
+    {
+      "id": "skill/js/polymorphic-elimination-conditional-branching-refactor",
+      "title": "重构之多态消除条件分支",
+      "description": "最近翻看之前写过一个项目，其中用到了大量的 switch-case 分支语句，大致的代码结构如下",
+      "permalink": "/docs/polymorphic-elimination-conditional-branching-refactor"
+    },
+    {
+      "id": "skill/go/go-call-js",
+      "title": "Go调用js代码",
+      "description": "运行 js 代码",
+      "permalink": "/docs/go-call-js"
+    },
+    {
+      "id": "skill/reverse/web/js-code-obfuscation-and-reverse",
+      "title": "JS代码混淆与还原",
+      "description": "JS 代码之还原",
+      "permalink": "/docs/js-code-obfuscation-and-reverse"
+    },
+    {
+      "id": "skill/js/how-does-js-get-today-zero-timestamp",
+      "title": "JS如何获取当天零点时间戳",
+      "description": "需求",
+      "permalink": "/docs/how-does-js-get-today-zero-timestamp"
+    },
+    {
+      "id": "skill/js/js-implement-function-cache",
+      "title": "JS实现函数缓存",
+      "description": "原理",
+      "permalink": "/docs/js-implement-function-cache"
+    },
+    {
+      "id": "skill/js/js-print-stack-of-function",
+      "title": "JS输出函数调用栈",
+      "description": "最近在编写 JS 逆向 hook 类插件，然后需要获取当前代码执行时所在的位置，方便代码定位，于是就总结下 JavaScript 如何输出函数调用栈。",
+      "permalink": "/docs/js-print-stack-of-function"
+    },
+    {
+      "id": "skill/js/js-array-object-unique",
+      "title": "JS数组对象去重",
+      "description": "参考 数组对象去重",
+      "permalink": "/docs/js-array-object-unique"
+    },
+    {
+      "id": "skill/vue/vue-reactive-data-basic-type",
+      "title": "Vue响应式数据之基本数据类型",
+      "description": "学过 js 的应该都知道，基本数据类型并非引用类型，直接修改是无法直接拦截的",
+      "permalink": "/docs/vue-reactive-data-basic-type"
+    },
+    {
+      "id": "skill/vue/vue-reactive-data-array",
+      "title": "Vue响应式数据之Array",
+      "description": "修改原型方法",
+      "permalink": "/docs/vue-reactive-data-array"
+    },
+    {
+      "id": "skill/vue/vue-reactive-data-object",
+      "title": "Vue响应式数据之Object",
+      "description": "在阅读《深入浅出 Vue.js》与《Vue.js 设计与实现》，了解到 vue 是如何侦测数据，同时自己在接触 js 逆向时也常常会用到。于是就准备写篇 js 如何监听数据变化，这篇为监听 Object 数据。",
+      "permalink": "/docs/vue-reactive-data-object"
+    }
+  ]
+}

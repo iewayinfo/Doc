@@ -1,0 +1,52 @@
+{
+  "permalink": "/server-and-domain-beian",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/服务器与域名备案.md",
+  "source": "@site/blog/develop/服务器与域名备案.md",
+  "title": "服务器与域名备案",
+  "description": "云服务器",
+  "date": "2020-11-17T00:00:00.000Z",
+  "formattedDate": "2020年11月17日",
+  "tags": [
+    {
+      "label": "server",
+      "permalink": "/tags/server"
+    },
+    {
+      "label": "cloud",
+      "permalink": "/tags/cloud"
+    }
+  ],
+  "readingTime": 9.636666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "server-and-domain-beian",
+    "title": "服务器与域名备案",
+    "date": "2020-11-17T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "server",
+      "cloud"
+    ],
+    "keywords": [
+      "develop",
+      "cloud"
+    ]
+  },
+  "prevItem": {
+    "title": "node与浏览器中的cookie",
+    "permalink": "/cookie-of-node-and-browser"
+  },
+  "nextItem": {
+    "title": "易语言",
+    "permalink": "/easy-language"
+  }
+}

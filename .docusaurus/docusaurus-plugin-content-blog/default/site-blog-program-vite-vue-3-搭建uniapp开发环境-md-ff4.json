@@ -1,0 +1,65 @@
+{
+  "permalink": "/vite-vue3-build-uniapp-environment",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/vite+vue3搭建uniapp开发环境.md",
+  "source": "@site/blog/program/vite+vue3搭建uniapp开发环境.md",
+  "title": "vite+vue3搭建uniapp开发环境",
+  "description": "使用 vite vue3 搭建 uniapp 开发环境",
+  "date": "2022-03-27T00:00:00.000Z",
+  "formattedDate": "2022年3月27日",
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/tags/vue"
+    },
+    {
+      "label": "vite",
+      "permalink": "/tags/vite"
+    },
+    {
+      "label": "uniapp",
+      "permalink": "/tags/uniapp"
+    },
+    {
+      "label": "develop",
+      "permalink": "/tags/develop"
+    }
+  ],
+  "readingTime": 6.423333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vite-vue3-build-uniapp-environment",
+    "title": "vite+vue3搭建uniapp开发环境",
+    "date": "2022-03-27T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vue",
+      "vite",
+      "uniapp",
+      "develop"
+    ],
+    "keywords": [
+      "vue",
+      "vite",
+      "uniapp",
+      "develop"
+    ],
+    "description": "使用 vite vue3 搭建 uniapp 开发环境"
+  },
+  "prevItem": {
+    "title": "题小侠",
+    "permalink": "/question-man"
+  },
+  "nextItem": {
+    "title": "去除typescript代码类型",
+    "permalink": "/remove-ts-code-type"
+  }
+}

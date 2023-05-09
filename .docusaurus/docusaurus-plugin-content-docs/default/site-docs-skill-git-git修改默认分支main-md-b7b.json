@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/git/git-change-default-branch",
+  "id": "skill/git/git-change-default-branch",
+  "title": "git修改默认分支main",
+  "description": "前言",
+  "source": "@site/docs/skill/git/git修改默认分支main.md",
+  "sourceDirName": "skill/git",
+  "slug": "/skill/git/git-change-default-branch",
+  "permalink": "/docs/skill/git/git-change-default-branch",
+  "draft": false,
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/docs/tags/git"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "git-change-default-branch",
+    "slug": "git-change-default-branch",
+    "title": "git修改默认分支main",
+    "date": "2021-08-04T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "git"
+    ],
+    "keywords": [
+      "git"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": ".github 其他文件",
+    "permalink": "/docs/skill/git/github-other"
+  },
+  "next": {
+    "title": "算法",
+    "permalink": "/docs/category/算法"
+  }
+}

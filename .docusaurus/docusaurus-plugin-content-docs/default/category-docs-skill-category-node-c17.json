@@ -1,0 +1,15 @@
+{
+  "title": "Node",
+  "slug": "/category/node",
+  "permalink": "/docs/category/node",
+  "navigation": {
+    "previous": {
+      "title": "重构之对象映射类型",
+      "permalink": "/docs/type-of-object-map-refactor"
+    },
+    "next": {
+      "title": "axios请求gbk页面乱码解决",
+      "permalink": "/docs/axios-request-gbk-page-encoding-solution"
+    }
+  }
+}

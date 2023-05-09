@@ -1,0 +1,60 @@
+{
+  "permalink": "/use-supabase-as-backend-service",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/将 Supabase 作为下一个后端服务.md",
+  "source": "@site/blog/program/将 Supabase 作为下一个后端服务.md",
+  "title": "将 Supabase 作为下一个后端服务",
+  "description": "本文介绍了如何使用 Supabase 作为后端服务，使开发人员可以更快地构建和部署应用程序，无需配置数据库或编写复杂的身份验证代码。将使用 Nuxt.js 和 Supabase，以实现一个图床网站为例，来演示如何在前端中使用 Supabase API 和 Storage 服务。",
+  "date": "2023-02-18T00:00:00.000Z",
+  "formattedDate": "2023年2月18日",
+  "tags": [
+    {
+      "label": "supabase",
+      "permalink": "/tags/supabase"
+    },
+    {
+      "label": "nuxt",
+      "permalink": "/tags/nuxt"
+    },
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "readingTime": 9.54,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "use-supabase-as-backend-service",
+    "title": "将 Supabase 作为下一个后端服务",
+    "date": "2023-02-18T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "supabase",
+      "nuxt",
+      "project"
+    ],
+    "keywords": [
+      "supabase",
+      "nuxt",
+      "project"
+    ],
+    "description": "本文介绍了如何使用 Supabase 作为后端服务，使开发人员可以更快地构建和部署应用程序，无需配置数据库或编写复杂的身份验证代码。将使用 Nuxt.js 和 Supabase，以实现一个图床网站为例，来演示如何在前端中使用 Supabase API 和 Storage 服务。",
+    "toc_max_heading_level": 3
+  },
+  "prevItem": {
+    "title": "Typescript 全栈最值得学习的技术栈 TRPC",
+    "permalink": "/typescript-full-stack-technology-trpc"
+  },
+  "nextItem": {
+    "title": "🍋 使用 Fresh 框架构建Web 应用",
+    "permalink": "/use-fresh-build-web-applicatioin"
+  }
+}

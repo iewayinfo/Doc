@@ -1,0 +1,14 @@
+{
+  "label": "pinia",
+  "permalink": "/docs/tags/pinia",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/vue/pinia",
+      "title": "Pinia",
+      "description": "官方文档：Introduction | Pinia (vuejs.org)",
+      "permalink": "/docs/pinia"
+    }
+  ]
+}

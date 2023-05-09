@@ -1,0 +1,14 @@
+{
+  "label": "miniprogram",
+  "permalink": "/docs/tags/miniprogram",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/reverse/web/how-to-decompiling-miniprogram",
+      "title": "小程序如何反编译",
+      "description": "环境安装",
+      "permalink": "/docs/how-to-decompiling-miniprogram"
+    }
+  ]
+}

@@ -1,0 +1,1309 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "skill": [
+      {
+        "type": "link",
+        "label": "技术笔记简介",
+        "href": "/docs/skill",
+        "docId": "skill/introduction"
+      },
+      {
+        "label": "Docusaurus 主题魔改",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "配置文件",
+            "href": "/docs/docusaurus-config",
+            "docId": "skill/docusaurus/docusaurus-config"
+          },
+          {
+            "type": "link",
+            "label": "样式与页面",
+            "href": "/docs/docusaurus-style",
+            "docId": "skill/docusaurus/docusaurus-style"
+          },
+          {
+            "type": "link",
+            "label": "自定义组件",
+            "href": "/docs/docusaurus-component",
+            "docId": "skill/docusaurus/docusaurus-component"
+          },
+          {
+            "type": "link",
+            "label": "插件",
+            "href": "/docs/docusaurus-plugin",
+            "docId": "skill/docusaurus/docusaurus-plugin"
+          },
+          {
+            "type": "link",
+            "label": "搜索",
+            "href": "/docs/docusaurus-search",
+            "docId": "skill/docusaurus/docusaurus-search"
+          },
+          {
+            "type": "link",
+            "label": "评论服务",
+            "href": "/docs/docusaurus-comment",
+            "docId": "skill/docusaurus/docusaurus-comment"
+          },
+          {
+            "type": "link",
+            "label": "部署",
+            "href": "/docs/docusaurus-deploy",
+            "docId": "skill/docusaurus/docusaurus-deploy"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/docusaurus-guides"
+      },
+      {
+        "label": "代码规范",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "eslint",
+            "href": "/docs/eslint",
+            "docId": "skill/code-specification/eslint"
+          },
+          {
+            "type": "link",
+            "label": "prettier",
+            "href": "/docs/prettier",
+            "docId": "skill/code-specification/prettier"
+          },
+          {
+            "type": "link",
+            "label": "stylelint",
+            "href": "/docs/stylelint",
+            "docId": "skill/code-specification/stylelint"
+          },
+          {
+            "type": "link",
+            "label": "editorconfig",
+            "href": "/docs/editorconfig",
+            "docId": "skill/code-specification/editorconfig"
+          },
+          {
+            "type": "link",
+            "label": "husky",
+            "href": "/docs/husky",
+            "docId": "skill/code-specification/husky"
+          },
+          {
+            "type": "link",
+            "label": "npmrc",
+            "href": "/docs/npmrc",
+            "docId": "skill/code-specification/npmrc"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/code-specification"
+      },
+      {
+        "label": "Vue",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "Vue响应式数据之Object",
+            "href": "/docs/vue-reactive-data-object",
+            "docId": "skill/vue/vue-reactive-data-object"
+          },
+          {
+            "type": "link",
+            "label": "Vue响应式数据之Array",
+            "href": "/docs/vue-reactive-data-array",
+            "docId": "skill/vue/vue-reactive-data-array"
+          },
+          {
+            "type": "link",
+            "label": "Vue响应式数据之基本数据类型",
+            "href": "/docs/vue-reactive-data-basic-type",
+            "docId": "skill/vue/vue-reactive-data-basic-type"
+          },
+          {
+            "type": "link",
+            "label": "Pinia",
+            "href": "/docs/pinia",
+            "docId": "skill/vue/pinia"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/vue"
+      },
+      {
+        "label": "React",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "React中Css几种实现方案",
+            "href": "/docs/skill/react/react-css-implementation",
+            "docId": "skill/react/React中Css几种实现方案"
+          },
+          {
+            "type": "link",
+            "label": "React之hooks",
+            "href": "/docs/react-hooks",
+            "docId": "skill/react/react-hooks"
+          },
+          {
+            "type": "link",
+            "label": "使用脚手架创建React项目",
+            "href": "/docs/create-react-app",
+            "docId": "skill/react/create-react-app"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/react"
+      },
+      {
+        "label": "Web",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "浏览器复制Console面板输出",
+            "href": "/docs/brower-copy-console-panel-output",
+            "docId": "skill/web/brower-copy-console-panel-output"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/web"
+      },
+      {
+        "label": "JavaScript",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "JS如何获取当天零点时间戳",
+            "href": "/docs/how-does-js-get-today-zero-timestamp",
+            "docId": "skill/js/how-does-js-get-today-zero-timestamp"
+          },
+          {
+            "type": "link",
+            "label": "JS实现函数缓存",
+            "href": "/docs/js-implement-function-cache",
+            "docId": "skill/js/js-implement-function-cache"
+          },
+          {
+            "type": "link",
+            "label": "JS输出函数调用栈",
+            "href": "/docs/js-print-stack-of-function",
+            "docId": "skill/js/js-print-stack-of-function"
+          },
+          {
+            "type": "link",
+            "label": "JS数组对象去重",
+            "href": "/docs/js-array-object-unique",
+            "docId": "skill/js/js-array-object-unique"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript高级语法",
+            "href": "/docs/typescript-advanced-grammar",
+            "docId": "skill/js/typescript-advanced-grammar"
+          },
+          {
+            "type": "link",
+            "label": "常用util.js",
+            "href": "/docs/commonly-used-util.js",
+            "docId": "skill/js/commonly-used-util.js"
+          },
+          {
+            "type": "link",
+            "label": "查询字符串与JSON互转",
+            "href": "/docs/querystring-and-json-convert",
+            "docId": "skill/js/querystring-and-json-convert"
+          },
+          {
+            "type": "link",
+            "label": "重构之多态消除条件分支",
+            "href": "/docs/polymorphic-elimination-conditional-branching-refactor",
+            "docId": "skill/js/polymorphic-elimination-conditional-branching-refactor"
+          },
+          {
+            "type": "link",
+            "label": "重构之对象映射类型",
+            "href": "/docs/type-of-object-map-refactor",
+            "docId": "skill/js/type-of-object-map-refactor"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/javascript"
+      },
+      {
+        "label": "Node",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "axios请求gbk页面乱码解决",
+            "href": "/docs/axios-request-gbk-page-encoding-solution",
+            "docId": "skill/node/axios-request-gbk-page-encoding-solution"
+          },
+          {
+            "type": "link",
+            "label": "npkill快速删除node_modules文件",
+            "href": "/docs/npkill-quickly-move-node-modules",
+            "docId": "skill/node/npkill-quickly-move-node-modules"
+          },
+          {
+            "type": "link",
+            "label": "npm镜像配置",
+            "href": "/docs/npm-mirror-config",
+            "docId": "skill/node/npm-mirror-config"
+          },
+          {
+            "type": "link",
+            "label": "使用 require.context 实现模块自动导入",
+            "href": "/docs/use-require.context-to-auto-import-modules",
+            "docId": "skill/node/use-require.context-to-auto-import-modules"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/node"
+      },
+      {
+        "label": "Css",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "一些CSS属性",
+            "href": "/docs/css-properties",
+            "docId": "skill/css/css-properties"
+          },
+          {
+            "type": "link",
+            "label": "记Tailwind CSS使用",
+            "href": "/docs/tailwind-css-usage",
+            "docId": "skill/css/tailwind-css-usage"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/css"
+      },
+      {
+        "label": "Java",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "java反射",
+            "href": "/docs/skill/java/java-reflect",
+            "docId": "skill/java/Java反射"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/java"
+      },
+      {
+        "label": "Python",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "Python中的cv2使用",
+            "href": "/docs/python-cv2-usage",
+            "docId": "skill/python/python-cv2-usage"
+          },
+          {
+            "type": "link",
+            "label": "Python指定版本运行",
+            "href": "/docs/python-specified-versiton-run",
+            "docId": "skill/python/python-specified-versiton-run"
+          },
+          {
+            "type": "link",
+            "label": "Python爬虫总结",
+            "href": "/docs/python-spider-summary",
+            "docId": "skill/python/python-spider-summary"
+          },
+          {
+            "type": "link",
+            "label": "pyautogui自动化操作脚本",
+            "href": "/docs/pyautogui",
+            "docId": "skill/python/pyautogui"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/python"
+      },
+      {
+        "label": "Go",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "Go环境安装",
+            "href": "/docs/go-environment-install",
+            "docId": "skill/go/go-environment-install"
+          },
+          {
+            "type": "link",
+            "label": "Go语言之json使用",
+            "href": "/docs/go-json-usage",
+            "docId": "skill/go/go-json-usage"
+          },
+          {
+            "type": "link",
+            "label": "Go发送http请求",
+            "href": "/docs/go-send-http-request",
+            "docId": "skill/go/go-send-http-request"
+          },
+          {
+            "type": "link",
+            "label": "Go调用js代码",
+            "href": "/docs/go-call-js",
+            "docId": "skill/go/go-call-js"
+          },
+          {
+            "type": "link",
+            "label": "Go并发",
+            "href": "/docs/go-concurrent",
+            "docId": "skill/go/go-concurrent"
+          },
+          {
+            "type": "link",
+            "label": "Gin框架初体验",
+            "href": "/docs/try-gin-framework",
+            "docId": "skill/go/try-gin-framework"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/go"
+      },
+      {
+        "label": "Git",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "git commit规范",
+            "href": "/docs/skill/git/git-conmit-specification",
+            "docId": "skill/git/git-conmit-specification"
+          },
+          {
+            "type": "link",
+            "label": "github actions示例",
+            "href": "/docs/skill/git/github-actions-example",
+            "docId": "skill/git/github-actions-example"
+          },
+          {
+            "type": "link",
+            "label": "github apps示例",
+            "href": "/docs/skill/git/github-apps-example",
+            "docId": "skill/git/github-apps-example"
+          },
+          {
+            "type": "link",
+            "label": ".github 其他文件",
+            "href": "/docs/skill/git/github-other",
+            "docId": "skill/git/github-other"
+          },
+          {
+            "type": "link",
+            "label": "git修改默认分支main",
+            "href": "/docs/skill/git/git-change-default-branch",
+            "docId": "skill/git/git-change-default-branch"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/git"
+      },
+      {
+        "label": "算法",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "两数之和",
+            "href": "/docs/two-sum",
+            "docId": "skill/algorithm/two-sum"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/算法"
+      },
+      {
+        "label": "逆向",
+        "type": "category",
+        "items": [
+          {
+            "label": "安卓",
+            "type": "category",
+            "items": [
+              {
+                "type": "category",
+                "label": "frida",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Frida Python库使用",
+                    "href": "/docs/frida-python-usage",
+                    "docId": "skill/reverse/android/frida/frida-python-usage"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Frida java层自吐加密算法",
+                    "href": "/docs/frida-java-encryption-algorithm",
+                    "docId": "skill/reverse/android/frida/frida-java-encryption-algorithm"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Frida so层中的hook",
+                    "href": "/docs/frida-so-hook",
+                    "docId": "skill/reverse/android/frida/frida-so-hook"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Frida笔记",
+                    "href": "/docs/frida-note",
+                    "docId": "skill/reverse/android/frida/frida-note"
+                  },
+                  {
+                    "type": "link",
+                    "label": "objection笔记",
+                    "href": "/docs/objection-note",
+                    "docId": "skill/reverse/android/frida/objection-note"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "刷机",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "刷入Magisk",
+                    "href": "/docs/brush-magisk",
+                    "docId": "skill/reverse/android/刷机/brush-magisk"
+                  },
+                  {
+                    "type": "link",
+                    "label": "安装LSPosed",
+                    "href": "/docs/install-lsposed",
+                    "docId": "skill/reverse/android/刷机/install-lsposed"
+                  },
+                  {
+                    "type": "link",
+                    "label": "抓包",
+                    "href": "/docs/intercepting-requests",
+                    "docId": "skill/reverse/android/刷机/intercepting-requests"
+                  },
+                  {
+                    "type": "link",
+                    "label": "解Bootloader锁",
+                    "href": "/docs/solution-of-bootloader-lock",
+                    "docId": "skill/reverse/android/刷机/solution-of-bootloader-lock"
+                  }
+                ]
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/category/安卓"
+          },
+          {
+            "label": "Web",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "JS代码混淆与还原",
+                "href": "/docs/js-code-obfuscation-and-reverse",
+                "docId": "skill/reverse/web/js-code-obfuscation-and-reverse"
+              },
+              {
+                "type": "link",
+                "label": "小程序如何反编译",
+                "href": "/docs/how-to-decompiling-miniprogram",
+                "docId": "skill/reverse/web/how-to-decompiling-miniprogram"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "label": "密码学",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "浅谈加密算法",
+                "href": "/docs/brief-talk-encryption-algorithm",
+                "docId": "skill/reverse/crypto/brief-talk-encryption-algorithm"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/逆向"
+      },
+      {
+        "label": "Docker",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "Docker Compose",
+            "href": "/docs/docker-compose",
+            "docId": "skill/docker/docker-compose"
+          },
+          {
+            "type": "link",
+            "label": "Docker笔记",
+            "href": "/docs/docker",
+            "docId": "skill/docker/docker"
+          },
+          {
+            "type": "link",
+            "label": "Docker容器日志过大清理",
+            "href": "/docs/docker-container-log-clean",
+            "docId": "skill/docker/docker-container-log-clean"
+          },
+          {
+            "type": "link",
+            "label": "Docker访问宿主机上服务",
+            "href": "/docs/docker-accesses-host-service",
+            "docId": "skill/docker/docker-accesses-host-service"
+          },
+          {
+            "type": "link",
+            "label": "Docker部署Node项目",
+            "href": "/docs/docker-deploy-node-project",
+            "docId": "skill/docker/docker-deploy-node-project"
+          },
+          {
+            "type": "link",
+            "label": "修改无法启动的Docker容器配置文件",
+            "href": "/docs/fix-docker-config-that-cannot-start-up",
+            "docId": "skill/docker/fix-docker-config-that-cannot-start-up"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/docker"
+      },
+      {
+        "label": "数据库",
+        "type": "category",
+        "items": [
+          {
+            "label": "Mysql",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "mysql替换函数replace",
+                "href": "/docs/mysql-replace-function",
+                "docId": "skill/database/mysql/mysql-replace-function"
+              },
+              {
+                "type": "link",
+                "label": "mysql模糊查询like优化",
+                "href": "/docs/mysql-like-optimization",
+                "docId": "skill/database/mysql/mysql-like-optimization"
+              },
+              {
+                "type": "link",
+                "label": "MySql笔记",
+                "href": "/docs/skill/database/mysql",
+                "docId": "skill/database/mysql/mysql-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/skill/database/mysql"
+          },
+          {
+            "label": "MongoDB",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "MongoDB笔记",
+                "href": "/docs/skill/database/mongodb",
+                "docId": "skill/database/mongo/mongodb-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/skill/database/mongodb"
+          },
+          {
+            "label": "Redis",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "Redis笔记",
+                "href": "/docs/skill/database/redis",
+                "docId": "skill/database/redis/redis-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/skill/database/redis"
+          },
+          {
+            "label": "Elasticsearch",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "elasticsearch笔记",
+                "href": "/docs/skill/database/elasticsearch",
+                "docId": "skill/database/elasticsearch/elasticsearch-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/skill/database/elasticsearch"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/数据库"
+      },
+      {
+        "label": "杂项",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "查看端口占用及结束进程",
+            "href": "/docs/look-up-port-and-kill-process",
+            "docId": "skill/other/look-up-port-and-kill-process"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/category/杂项"
+      }
+    ],
+    "tools": [
+      {
+        "type": "link",
+        "label": "开发工具推荐",
+        "href": "/docs/tools",
+        "docId": "tools/introduction"
+      },
+      {
+        "type": "link",
+        "label": "Everything快速搜索本地文件",
+        "href": "/docs/everything-quick-search-local-files",
+        "docId": "tools/everything-quick-search-local-files"
+      },
+      {
+        "type": "link",
+        "label": "Wappalyzer识别网站上的技术",
+        "href": "/docs/wappalyzer-recognize-technology",
+        "docId": "tools/wappalyzer-recognize-technology"
+      },
+      {
+        "type": "link",
+        "label": "Windows自定义右键菜单",
+        "href": "/docs/windows-custom-right-click-menu",
+        "docId": "tools/windows-custom-right-click-menu"
+      },
+      {
+        "type": "link",
+        "label": "VScode相关配置",
+        "href": "/docs/vscode-config",
+        "docId": "tools/vscode-config"
+      },
+      {
+        "type": "link",
+        "label": "IDEA基本配置",
+        "href": "/docs/idea-config",
+        "docId": "tools/idea-config"
+      },
+      {
+        "type": "link",
+        "label": "Vite相关插件",
+        "href": "/docs/vite-plugin",
+        "docId": "tools/vite-plugin"
+      },
+      {
+        "type": "link",
+        "label": "Jetbrains系列产品激活方法",
+        "href": "/docs/jetbrains-product-activation-method",
+        "docId": "tools/jetbrains-product-activation-method"
+      }
+    ]
+  },
+  "docs": {
+    "skill/algorithm/two-sum": {
+      "id": "skill/algorithm/two-sum",
+      "title": "两数之和",
+      "description": "TODO: ...",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/code-specification-guides": {
+      "id": "skill/code-specification/code-specification-guides",
+      "title": "代码规范",
+      "description": "杂乱不堪如同屎山般的代码，会让开发者头皮发麻，无从下手，往往更容易诱发bug。而一个良好的代码规范，能够修复团队的各个成员间代码格式不统一，有利于维护与审查。",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/editorconfig": {
+      "id": "skill/code-specification/editorconfig",
+      "title": "editorconfig",
+      "description": "Editorconfig 有助于跨各种编辑器和 IDE 为处理同一项目的多个开发人员维护一致的编码样式。",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/eslint": {
+      "id": "skill/code-specification/eslint",
+      "title": "eslint",
+      "description": "ESLint 是一种用于识别和报告 ECMAScript/JavaScript 代码中发现的模式的工具，目的是使代码更加一致并避免错误。",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/husky": {
+      "id": "skill/code-specification/husky",
+      "title": "husky",
+      "description": "为了确保只有合格的代码才能够提交到仓库。需要配置自动化脚本，确保代码在提交前通过了代码验证工具的检验。",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/npmrc": {
+      "id": "skill/code-specification/npmrc",
+      "title": "npmrc",
+      "description": "对于 pnpm 项目，通常会有一个 .npmrc 文件，用于配置npm的一些参数，比如使用pnpm的严格模式等，其内容如下。",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/prettier": {
+      "id": "skill/code-specification/prettier",
+      "title": "prettier",
+      "description": "Prettier 是一个固执己见的代码格式化程序。",
+      "sidebar": "skill"
+    },
+    "skill/code-specification/stylelint": {
+      "id": "skill/code-specification/stylelint",
+      "title": "stylelint",
+      "description": "stylelint 主要针对 css 样式进行格式化(包括css预处理器)，同时对一些属性拼写进行检查。",
+      "sidebar": "skill"
+    },
+    "skill/css/css-properties": {
+      "id": "skill/css/css-properties",
+      "title": "一些CSS属性",
+      "description": "最近在写一些 CSS 样例，可以在 前端示例代码库 中查看，后续也会把一些灵感和设计放在这上面，不过这里主要介绍我之前没怎么用到过的一些 CSS 属性（奇技淫巧），通过这些特性能非常方便的实现一些需求，不会做过多使用介绍，具体可查看 MDN 与 示例源代码。",
+      "sidebar": "skill"
+    },
+    "skill/css/tailwind-css-usage": {
+      "id": "skill/css/tailwind-css-usage",
+      "title": "记Tailwind CSS使用",
+      "description": "最近把之前写的一个Web项目的页面给重构了一下，使用上了Tailwind CSS，虽然之前就使用过，但是没有记录下来，这次就相当于对该技术栈进行一次总结。",
+      "sidebar": "skill"
+    },
+    "skill/database/elasticsearch/elasticsearch-note": {
+      "id": "skill/database/elasticsearch/elasticsearch-note",
+      "title": "elasticsearch笔记",
+      "description": "Elasticsearch Clients | Elastic 官方文档",
+      "sidebar": "skill"
+    },
+    "skill/database/mongo/mongodb-note": {
+      "id": "skill/database/mongo/mongodb-note",
+      "title": "MongoDB笔记",
+      "description": "安装",
+      "sidebar": "skill"
+    },
+    "skill/database/mysql/mysql-like-optimization": {
+      "id": "skill/database/mysql/mysql-like-optimization",
+      "title": "mysql模糊查询like优化",
+      "description": "1、前言",
+      "sidebar": "skill"
+    },
+    "skill/database/mysql/mysql-note": {
+      "id": "skill/database/mysql/mysql-note",
+      "title": "MySql笔记",
+      "description": "1、前言",
+      "sidebar": "skill"
+    },
+    "skill/database/mysql/mysql-replace-function": {
+      "id": "skill/database/mysql/mysql-replace-function",
+      "title": "mysql替换函数replace",
+      "description": "1、前言",
+      "sidebar": "skill"
+    },
+    "skill/database/redis/redis-note": {
+      "id": "skill/database/redis/redis-note",
+      "title": "Redis笔记",
+      "description": "redis 中文官方网站",
+      "sidebar": "skill"
+    },
+    "skill/docker/docker": {
+      "id": "skill/docker/docker",
+      "title": "Docker笔记",
+      "description": "官方文档",
+      "sidebar": "skill"
+    },
+    "skill/docker/docker-accesses-host-service": {
+      "id": "skill/docker/docker-accesses-host-service",
+      "title": "Docker访问宿主机上服务",
+      "description": "如果尝试过部署 docker 容器应用，并且该应用需要访问宿主机的服务，如 Mysql，Redis。会发现应用可能无法连接，其本质的原因的就是 docker 容器内的 localhost 与宿主机的 localhost 并不是同一个东西。所以连接地址不能用 localhost 和 127.0.0.1。",
+      "sidebar": "skill"
+    },
+    "skill/docker/docker-compose": {
+      "id": "skill/docker/docker-compose",
+      "title": "Docker Compose",
+      "description": "简介",
+      "sidebar": "skill"
+    },
+    "skill/docker/docker-container-log-clean": {
+      "id": "skill/docker/docker-container-log-clean",
+      "title": "Docker容器日志过大清理",
+      "description": "在我以 docker 容器部署了 elasticsearch 服务后的 3 个月时间，发现硬盘会不断的增大，一开始时没在意，直到硬盘报黄，就像下图这样",
+      "sidebar": "skill"
+    },
+    "skill/docker/docker-deploy-node-project": {
+      "id": "skill/docker/docker-deploy-node-project",
+      "title": "Docker部署Node项目",
+      "description": "把一个 Node.js web 应用程序给 Docker 化 | Node.js (nodejs.org)",
+      "sidebar": "skill"
+    },
+    "skill/docker/fix-docker-config-that-cannot-start-up": {
+      "id": "skill/docker/fix-docker-config-that-cannot-start-up",
+      "title": "修改无法启动的Docker容器配置文件",
+      "description": "前因",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-comment": {
+      "id": "skill/docusaurus/docusaurus-comment",
+      "title": "评论服务",
+      "description": "这里推荐两种评论服务",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-component": {
+      "id": "skill/docusaurus/docusaurus-component",
+      "title": "自定义组件",
+      "description": "初始化的一个 docusaurus 项目就已经有预留好的的组件，例如博客布局，标签页归档页等等。但是这些组件的样式可能不满你的审美，或者是想增加在这些主题组件中增加点东西。那么就需要用到 Swizzle",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-config": {
+      "id": "skill/docusaurus/docusaurus-config",
+      "title": "配置文件",
+      "description": "docusaurus.config.js",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-deploy": {
+      "id": "skill/docusaurus/docusaurus-deploy",
+      "title": "部署",
+      "description": "我之前使用 Vercel 一把梭，无需任何配置，我只需要专注输出内容即可，这是我当时使用 Vercel 部署的文章 Vercel部署个人博客",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-guides": {
+      "id": "skill/docusaurus/docusaurus-guides",
+      "title": "Docusaurus 主题魔改",
+      "description": "这里是本人对 Docusaurus 的魔改指南，帮助使用者更好使用 Docusaurus。",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-plugin": {
+      "id": "skill/docusaurus/docusaurus-plugin",
+      "title": "插件",
+      "description": "在 docusaurus.config.js 下的 plugins，可以看到所有插件以及插件配置。",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-search": {
+      "id": "skill/docusaurus/docusaurus-search",
+      "title": "搜索",
+      "description": "搜索 | Docusaurus",
+      "sidebar": "skill"
+    },
+    "skill/docusaurus/docusaurus-style": {
+      "id": "skill/docusaurus/docusaurus-style",
+      "title": "样式与页面",
+      "description": "样式和布局",
+      "sidebar": "skill"
+    },
+    "skill/git/git-change-default-branch": {
+      "id": "skill/git/git-change-default-branch",
+      "title": "git修改默认分支main",
+      "description": "前言",
+      "sidebar": "skill"
+    },
+    "skill/git/git-conmit-specification": {
+      "id": "skill/git/git-conmit-specification",
+      "title": "git commit规范",
+      "description": "提交规范主要是为了让开发者提交完整的更新信息，方便查阅。",
+      "sidebar": "skill"
+    },
+    "skill/git/github-actions-example": {
+      "id": "skill/git/github-actions-example",
+      "title": "github actions示例",
+      "description": "GitHub Marketplace · Actions to improve your workflow",
+      "sidebar": "skill"
+    },
+    "skill/git/github-apps-example": {
+      "id": "skill/git/github-apps-example",
+      "title": "github apps示例",
+      "description": "Github Dependabot",
+      "sidebar": "skill"
+    },
+    "skill/git/github-other": {
+      "id": "skill/git/github-other",
+      "title": ".github 其他文件",
+      "description": "ISSUE_TEMPLATE",
+      "sidebar": "skill"
+    },
+    "skill/go/go-call-js": {
+      "id": "skill/go/go-call-js",
+      "title": "Go调用js代码",
+      "description": "运行 js 代码",
+      "sidebar": "skill"
+    },
+    "skill/go/go-concurrent": {
+      "id": "skill/go/go-concurrent",
+      "title": "Go并发",
+      "description": "Go 语言的并发是基于 goroutine 的，goroutine 类似于线程，但并非线程。可以将 goroutine 理解为一种虚拟线程。Go 语言运行时会参与调度 goroutine，并将 goroutine 合理地分配到每个 CPU 中，最大限度地使用 CPU 性能。开启一个 goroutine 的消耗非常小（大约 2KB 的内存），你可以轻松创建数百万个goroutine。",
+      "sidebar": "skill"
+    },
+    "skill/go/go-environment-install": {
+      "id": "skill/go/go-environment-install",
+      "title": "Go环境安装",
+      "description": "安装 Go",
+      "sidebar": "skill"
+    },
+    "skill/go/go-json-usage": {
+      "id": "skill/go/go-json-usage",
+      "title": "Go语言之json使用",
+      "description": "Go 语言中，官方提供了一个专门的包 encoding/json",
+      "sidebar": "skill"
+    },
+    "skill/go/go-send-http-request": {
+      "id": "skill/go/go-send-http-request",
+      "title": "Go发送http请求",
+      "description": "Get 请求",
+      "sidebar": "skill"
+    },
+    "skill/go/try-gin-framework": {
+      "id": "skill/go/try-gin-framework",
+      "title": "Gin框架初体验",
+      "description": "安装 Gin",
+      "sidebar": "skill"
+    },
+    "skill/introduction": {
+      "id": "skill/introduction",
+      "title": "技术笔记简介",
+      "description": "本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于",
+      "sidebar": "skill"
+    },
+    "skill/java/Java反射": {
+      "id": "skill/java/Java反射",
+      "title": "java反射",
+      "description": "什么是反射？",
+      "sidebar": "skill"
+    },
+    "skill/js/commonly-used-util.js": {
+      "id": "skill/js/commonly-used-util.js",
+      "title": "常用util.js",
+      "description": "记录一下自己在 js 学习中常用到的一些方法，进行封装使用",
+      "sidebar": "skill"
+    },
+    "skill/js/how-does-js-get-today-zero-timestamp": {
+      "id": "skill/js/how-does-js-get-today-zero-timestamp",
+      "title": "JS如何获取当天零点时间戳",
+      "description": "需求",
+      "sidebar": "skill"
+    },
+    "skill/js/js-array-object-unique": {
+      "id": "skill/js/js-array-object-unique",
+      "title": "JS数组对象去重",
+      "description": "参考 数组对象去重",
+      "sidebar": "skill"
+    },
+    "skill/js/js-implement-function-cache": {
+      "id": "skill/js/js-implement-function-cache",
+      "title": "JS实现函数缓存",
+      "description": "原理",
+      "sidebar": "skill"
+    },
+    "skill/js/js-print-stack-of-function": {
+      "id": "skill/js/js-print-stack-of-function",
+      "title": "JS输出函数调用栈",
+      "description": "最近在编写 JS 逆向 hook 类插件，然后需要获取当前代码执行时所在的位置，方便代码定位，于是就总结下 JavaScript 如何输出函数调用栈。",
+      "sidebar": "skill"
+    },
+    "skill/js/polymorphic-elimination-conditional-branching-refactor": {
+      "id": "skill/js/polymorphic-elimination-conditional-branching-refactor",
+      "title": "重构之多态消除条件分支",
+      "description": "最近翻看之前写过一个项目，其中用到了大量的 switch-case 分支语句，大致的代码结构如下",
+      "sidebar": "skill"
+    },
+    "skill/js/querystring-and-json-convert": {
+      "id": "skill/js/querystring-and-json-convert",
+      "title": "查询字符串与JSON互转",
+      "description": "查询字符串与 JSON 互转",
+      "sidebar": "skill"
+    },
+    "skill/js/type-of-object-map-refactor": {
+      "id": "skill/js/type-of-object-map-refactor",
+      "title": "重构之对象映射类型",
+      "description": "写代码的时候，遇到多重条件分支的时候，使用if else if肯定不如 switch 好用，但 switch 又避免不了 break 语句。但如果只是将数据转化的话，不妨使用对象映射的形式来替换",
+      "sidebar": "skill"
+    },
+    "skill/js/typescript-advanced-grammar": {
+      "id": "skill/js/typescript-advanced-grammar",
+      "title": "TypeScript高级语法",
+      "description": "在线运行 TypeScript https://www.typescriptlang.org/play",
+      "sidebar": "skill"
+    },
+    "skill/node/axios-request-gbk-page-encoding-solution": {
+      "id": "skill/node/axios-request-gbk-page-encoding-solution",
+      "title": "axios请求gbk页面乱码解决",
+      "description": "使用 axios 请求 gbk 编码的网站，将会出现乱码，原因很简单，node 默认字符编码为 utf8，如果要正常显示 gbk 数据的话就需要将 gbk 转 utf8 格式。",
+      "sidebar": "skill"
+    },
+    "skill/node/npkill-quickly-move-node-modules": {
+      "id": "skill/node/npkill-quickly-move-node-modules",
+      "title": "npkill快速删除node_modules文件",
+      "description": "官网地址 npkill",
+      "sidebar": "skill"
+    },
+    "skill/node/npm-mirror-config": {
+      "id": "skill/node/npm-mirror-config",
+      "title": "npm镜像配置",
+      "description": "由于原淘宝 npm 域名（http//registry.npm.taobao.org）将于 2022.06.30 号正式下线和停止 DNS 解析，不妨提前修改镜像的地址，以免受到影响。",
+      "sidebar": "skill"
+    },
+    "skill/node/use-require.context-to-auto-import-modules": {
+      "id": "skill/node/use-require.context-to-auto-import-modules",
+      "title": "使用 require.context 实现模块自动导入",
+      "description": "前言",
+      "sidebar": "skill"
+    },
+    "skill/other/look-up-port-and-kill-process": {
+      "id": "skill/other/look-up-port-and-kill-process",
+      "title": "查看端口占用及结束进程",
+      "description": "Linux",
+      "sidebar": "skill"
+    },
+    "skill/python/pyautogui": {
+      "id": "skill/python/pyautogui",
+      "title": "pyautogui自动化操作脚本",
+      "description": "说实话，貌似有一年没写过啥脚本类的代码了",
+      "sidebar": "skill"
+    },
+    "skill/python/python-cv2-usage": {
+      "id": "skill/python/python-cv2-usage",
+      "title": "Python中的cv2使用",
+      "description": "模块 cv2 的用法 - 陨落&新生 - 博客园 (cnblogs.com)",
+      "sidebar": "skill"
+    },
+    "skill/python/python-specified-versiton-run": {
+      "id": "skill/python/python-specified-versiton-run",
+      "title": "Python指定版本运行",
+      "description": "前言",
+      "sidebar": "skill"
+    },
+    "skill/python/python-spider-summary": {
+      "id": "skill/python/python-spider-summary",
+      "title": "Python爬虫总结",
+      "description": "最近临时写了个 python 爬虫的例子（核心代码不开源），总结下这次编写过程中的一些相关知识点与注意事项，以一个用 nodejs 写爬虫的开发者的角度去看待与比对。",
+      "sidebar": "skill"
+    },
+    "skill/react/create-react-app": {
+      "id": "skill/react/create-react-app",
+      "title": "使用脚手架创建React项目",
+      "description": "create-react-app",
+      "sidebar": "skill"
+    },
+    "skill/react/react-hooks": {
+      "id": "skill/react/react-hooks",
+      "title": "React之hooks",
+      "description": "官方内置 hooks",
+      "sidebar": "skill"
+    },
+    "skill/react/React中Css几种实现方案": {
+      "id": "skill/react/React中Css几种实现方案",
+      "title": "React中Css几种实现方案",
+      "description": "全局样式",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/刷机/brush-magisk": {
+      "id": "skill/reverse/android/刷机/brush-magisk",
+      "title": "刷入Magisk",
+      "description": "相关链接: 小胡子的干货铺——Pixel 4 XL 刷入 Magisk、Root - 少数派 (sspai.com)",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/刷机/install-lsposed": {
+      "id": "skill/reverse/android/刷机/install-lsposed",
+      "title": "安装LSPosed",
+      "description": "高版本安装 Xposed",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/刷机/intercepting-requests": {
+      "id": "skill/reverse/android/刷机/intercepting-requests",
+      "title": "抓包",
+      "description": "Charles",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/刷机/solution-of-bootloader-lock": {
+      "id": "skill/reverse/android/刷机/solution-of-bootloader-lock",
+      "title": "解Bootloader锁",
+      "description": "最近准备重学安卓逆向与开发，自然工具是肯定少不了，最为重要的便是手机。之前的手机是 Pixel，但是手机性能不太好，使用起来一卡一卡的（程序安装的有点多）。于是就准备换台 Pixel 4XL 欧版的来作为新设备。",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/frida/frida-java-encryption-algorithm": {
+      "id": "skill/reverse/android/frida/frida-java-encryption-algorithm",
+      "title": "Frida java层自吐加密算法",
+      "description": "代码",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/frida/frida-note": {
+      "id": "skill/reverse/android/frida/frida-note",
+      "title": "Frida笔记",
+      "description": "虚拟环境安装",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/frida/frida-python-usage": {
+      "id": "skill/reverse/android/frida/frida-python-usage",
+      "title": "Frida Python库使用",
+      "description": "启动 Frida 服务",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/frida/frida-so-hook": {
+      "id": "skill/reverse/android/frida/frida-so-hook",
+      "title": "Frida so层中的hook",
+      "description": "前言",
+      "sidebar": "skill"
+    },
+    "skill/reverse/android/frida/objection-note": {
+      "id": "skill/reverse/android/frida/objection-note",
+      "title": "objection笔记",
+      "description": "objection",
+      "sidebar": "skill"
+    },
+    "skill/reverse/crypto/brief-talk-encryption-algorithm": {
+      "id": "skill/reverse/crypto/brief-talk-encryption-algorithm",
+      "title": "浅谈加密算法",
+      "description": "前言",
+      "sidebar": "skill"
+    },
+    "skill/reverse/web/how-to-decompiling-miniprogram": {
+      "id": "skill/reverse/web/how-to-decompiling-miniprogram",
+      "title": "小程序如何反编译",
+      "description": "环境安装",
+      "sidebar": "skill"
+    },
+    "skill/reverse/web/js-code-obfuscation-and-reverse": {
+      "id": "skill/reverse/web/js-code-obfuscation-and-reverse",
+      "title": "JS代码混淆与还原",
+      "description": "JS 代码之还原",
+      "sidebar": "skill"
+    },
+    "skill/vue/pinia": {
+      "id": "skill/vue/pinia",
+      "title": "Pinia",
+      "description": "官方文档：Introduction | Pinia (vuejs.org)",
+      "sidebar": "skill"
+    },
+    "skill/vue/vue-reactive-data-array": {
+      "id": "skill/vue/vue-reactive-data-array",
+      "title": "Vue响应式数据之Array",
+      "description": "修改原型方法",
+      "sidebar": "skill"
+    },
+    "skill/vue/vue-reactive-data-basic-type": {
+      "id": "skill/vue/vue-reactive-data-basic-type",
+      "title": "Vue响应式数据之基本数据类型",
+      "description": "学过 js 的应该都知道，基本数据类型并非引用类型，直接修改是无法直接拦截的",
+      "sidebar": "skill"
+    },
+    "skill/vue/vue-reactive-data-object": {
+      "id": "skill/vue/vue-reactive-data-object",
+      "title": "Vue响应式数据之Object",
+      "description": "在阅读《深入浅出 Vue.js》与《Vue.js 设计与实现》，了解到 vue 是如何侦测数据，同时自己在接触 js 逆向时也常常会用到。于是就准备写篇 js 如何监听数据变化，这篇为监听 Object 数据。",
+      "sidebar": "skill"
+    },
+    "skill/web/brower-copy-console-panel-output": {
+      "id": "skill/web/brower-copy-console-panel-output",
+      "title": "浏览器复制Console面板输出",
+      "description": "在分析一个网站的时候，要将控制台（Console 面板）中的大数组（长度大约 100）复制到本地上进行调用",
+      "sidebar": "skill"
+    },
+    "tools/everything-quick-search-local-files": {
+      "id": "tools/everything-quick-search-local-files",
+      "title": "Everything快速搜索本地文件",
+      "description": "everything-Everything",
+      "sidebar": "tools"
+    },
+    "tools/idea-config": {
+      "id": "tools/idea-config",
+      "title": "IDEA基本配置",
+      "description": "准备系统的学习一遍 java（主要是后端与安卓），所以就免不了使用业界好评最高的 IDE 工具——IDEA。",
+      "sidebar": "tools"
+    },
+    "tools/introduction": {
+      "id": "tools/introduction",
+      "title": "开发工具推荐",
+      "description": "本页为个人开发中使用到的一些开发工具。",
+      "sidebar": "tools"
+    },
+    "tools/jetbrains-product-activation-method": {
+      "id": "tools/jetbrains-product-activation-method",
+      "title": "Jetbrains系列产品激活方法",
+      "description": "jetbrains",
+      "sidebar": "tools"
+    },
+    "tools/vite-plugin": {
+      "id": "tools/vite-plugin",
+      "title": "Vite相关插件",
+      "description": "记录下日常使用 Vite 的一些相关插件。",
+      "sidebar": "tools"
+    },
+    "tools/vscode-config": {
+      "id": "tools/vscode-config",
+      "title": "VScode相关配置",
+      "description": "关于 vscode 介绍和安装啥的不在这浪费口舌，上号就完事了！",
+      "sidebar": "tools"
+    },
+    "tools/wappalyzer-recognize-technology": {
+      "id": "tools/wappalyzer-recognize-technology",
+      "title": "Wappalyzer识别网站上的技术",
+      "description": "你是否还在为不知道心仪的网站所采用的技术栈而烦恼吗，如果是，那么这款 Chrome 插件值得你拥有",
+      "sidebar": "tools"
+    },
+    "tools/windows-custom-right-click-menu": {
+      "id": "tools/windows-custom-right-click-menu",
+      "title": "Windows自定义右键菜单",
+      "description": "为什么写这篇文章呢，因为我每次都要更改鼠标右键菜单都要去百度相关的，然后在照着一步一步操作。甚至我在写这篇文章的时候也百度了相关的内容。到时候忘记了直接看我自己写的就完事了（可能写了之后就记得住了。）",
+      "sidebar": "tools"
+    },
+    "tools/windows-terminal-beautify": {
+      "id": "tools/windows-terminal-beautify",
+      "title": "Windows Terminal美化",
+      "description": "image-20210527065050479"
+    }
+  }
+}

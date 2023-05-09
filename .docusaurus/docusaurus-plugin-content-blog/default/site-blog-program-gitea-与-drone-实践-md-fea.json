@@ -1,0 +1,59 @@
+{
+  "permalink": "/gitea-drone-practice",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/Gitea 与 Drone 实践.md",
+  "source": "@site/blog/program/Gitea 与 Drone 实践.md",
+  "title": "Gitea 与 Drone 实践",
+  "description": "使用 Gitea 搭建一个轻量级 git 私有仓库，并配置 Drone CI 来实现自动构建与部署。",
+  "date": "2022-09-28T00:00:00.000Z",
+  "formattedDate": "2022年9月28日",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/tags/git"
+    },
+    {
+      "label": "gitea",
+      "permalink": "/tags/gitea"
+    },
+    {
+      "label": "drone",
+      "permalink": "/tags/drone"
+    }
+  ],
+  "readingTime": 5.91,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "gitea-drone-practice",
+    "title": "Gitea 与 Drone 实践",
+    "date": "2022-09-28T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "git",
+      "gitea",
+      "drone"
+    ],
+    "keywords": [
+      "git",
+      "gitea",
+      "drone"
+    ],
+    "description": "使用 Gitea 搭建一个轻量级 git 私有仓库，并配置 Drone CI 来实现自动构建与部署。"
+  },
+  "prevItem": {
+    "title": "前端自动化测试",
+    "permalink": "/frontend-automated-testing"
+  },
+  "nextItem": {
+    "title": "模拟请求|协议复现方案",
+    "permalink": "/request-protocol-scheme"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "最近更新",
+  "items": [
+    {
+      "title": "MacBook 体验有感",
+      "permalink": "/macbook-experience"
+    },
+    {
+      "title": "距离我上篇笔记还是在?",
+      "permalink": "/why-i-dont-write-notes"
+    },
+    {
+      "title": "Typescript 全栈最值得学习的技术栈 TRPC",
+      "permalink": "/typescript-full-stack-technology-trpc"
+    },
+    {
+      "title": "将 Supabase 作为下一个后端服务",
+      "permalink": "/use-supabase-as-backend-service"
+    },
+    {
+      "title": "🍋 使用 Fresh 框架构建Web 应用",
+      "permalink": "/use-fresh-build-web-applicatioin"
+    },
+    {
+      "title": "Deno不只是个Javascript运行时",
+      "permalink": "/deno-is-not-only-a-javascript-runtime"
+    },
+    {
+      "title": "Rust实现MD5加密并打包成WebAssembly调用",
+      "permalink": "/rust-wasm-md5"
+    },
+    {
+      "title": "2022年终总结——从逆向转Web开发",
+      "permalink": "/2022-year-end-summary"
+    },
+    {
+      "title": "GraphQL 实践与服务搭建",
+      "permalink": "/graphql-practice"
+    },
+    {
+      "title": "重构kz-admin",
+      "permalink": "/refactor-kz-admin"
+    }
+  ]
+}

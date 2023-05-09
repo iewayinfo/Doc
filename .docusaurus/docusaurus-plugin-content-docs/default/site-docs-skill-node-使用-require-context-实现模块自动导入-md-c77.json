@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/node/use-require.context-to-auto-import-modules",
+  "id": "skill/node/use-require.context-to-auto-import-modules",
+  "title": "使用 require.context 实现模块自动导入",
+  "description": "前言",
+  "source": "@site/docs/skill/node/使用 require.context 实现模块自动导入.md",
+  "sourceDirName": "skill/node",
+  "slug": "/use-require.context-to-auto-import-modules",
+  "permalink": "/docs/use-require.context-to-auto-import-modules",
+  "draft": false,
+  "tags": [
+    {
+      "label": "node",
+      "permalink": "/docs/tags/node"
+    },
+    {
+      "label": "webpack",
+      "permalink": "/docs/tags/webpack"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "use-require.context-to-auto-import-modules",
+    "slug": "/use-require.context-to-auto-import-modules",
+    "title": "使用 require.context 实现模块自动导入",
+    "date": "2021-09-12T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "node",
+      "webpack"
+    ],
+    "keywords": [
+      "node",
+      "webpack"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "npm镜像配置",
+    "permalink": "/docs/npm-mirror-config"
+  },
+  "next": {
+    "title": "Css",
+    "permalink": "/docs/category/css"
+  }
+}

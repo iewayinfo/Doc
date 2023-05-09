@@ -1,0 +1,40 @@
+{
+  "unversionedId": "skill/js/typescript-advanced-grammar",
+  "id": "skill/js/typescript-advanced-grammar",
+  "title": "TypeScript高级语法",
+  "description": "在线运行 TypeScript https://www.typescriptlang.org/play",
+  "source": "@site/docs/skill/js/TypeScript高级语法.md",
+  "sourceDirName": "skill/js",
+  "slug": "/typescript-advanced-grammar",
+  "permalink": "/docs/typescript-advanced-grammar",
+  "draft": false,
+  "tags": [
+    {
+      "label": "typescript",
+      "permalink": "/docs/tags/typescript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "typescript-advanced-grammar",
+    "slug": "/typescript-advanced-grammar",
+    "title": "TypeScript高级语法",
+    "date": "2022-06-25T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "typescript"
+    ],
+    "keywords": [
+      "typescript"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "JS数组对象去重",
+    "permalink": "/docs/js-array-object-unique"
+  },
+  "next": {
+    "title": "常用util.js",
+    "permalink": "/docs/commonly-used-util.js"
+  }
+}

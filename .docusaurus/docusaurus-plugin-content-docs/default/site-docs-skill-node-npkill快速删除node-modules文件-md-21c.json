@@ -1,0 +1,46 @@
+{
+  "unversionedId": "skill/node/npkill-quickly-move-node-modules",
+  "id": "skill/node/npkill-quickly-move-node-modules",
+  "title": "npkill快速删除node_modules文件",
+  "description": "官网地址 npkill",
+  "source": "@site/docs/skill/node/npkill快速删除node_modules文件.md",
+  "sourceDirName": "skill/node",
+  "slug": "/npkill-quickly-move-node-modules",
+  "permalink": "/docs/npkill-quickly-move-node-modules",
+  "draft": false,
+  "tags": [
+    {
+      "label": "node",
+      "permalink": "/docs/tags/node"
+    },
+    {
+      "label": "npm",
+      "permalink": "/docs/tags/npm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "npkill-quickly-move-node-modules",
+    "slug": "/npkill-quickly-move-node-modules",
+    "title": "npkill快速删除node_modules文件",
+    "date": "2022-03-17T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "node",
+      "npm"
+    ],
+    "keywords": [
+      "node",
+      "npm"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "axios请求gbk页面乱码解决",
+    "permalink": "/docs/axios-request-gbk-page-encoding-solution"
+  },
+  "next": {
+    "title": "npm镜像配置",
+    "permalink": "/docs/npm-mirror-config"
+  }
+}

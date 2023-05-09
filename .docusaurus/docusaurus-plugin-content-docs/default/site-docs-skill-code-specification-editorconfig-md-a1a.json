@@ -1,0 +1,32 @@
+{
+  "unversionedId": "skill/code-specification/editorconfig",
+  "id": "skill/code-specification/editorconfig",
+  "title": "editorconfig",
+  "description": "Editorconfig 有助于跨各种编辑器和 IDE 为处理同一项目的多个开发人员维护一致的编码样式。",
+  "source": "@site/docs/skill/code-specification/editorconfig.md",
+  "sourceDirName": "skill/code-specification",
+  "slug": "/editorconfig",
+  "permalink": "/docs/editorconfig",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "editorconfig",
+    "slug": "/editorconfig",
+    "title": "editorconfig",
+    "authors": "kuizuo",
+    "keywords": [
+      "code-specification",
+      "editorconfig"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "stylelint",
+    "permalink": "/docs/stylelint"
+  },
+  "next": {
+    "title": "husky",
+    "permalink": "/docs/husky"
+  }
+}

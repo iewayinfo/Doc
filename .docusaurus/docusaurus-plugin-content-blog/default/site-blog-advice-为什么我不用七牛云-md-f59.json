@@ -1,0 +1,52 @@
+{
+  "permalink": "/why-i-dont-use-qiniu-cloud",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/为什么我不用七牛云.md",
+  "source": "@site/blog/advice/为什么我不用七牛云.md",
+  "title": "为什么我不用七牛云",
+  "description": "七牛云是国内鲜有的免费提供对象存储服务的一个云服务商，和腾讯云，阿里云一样，但这两者收费，而七牛云不收费，当然也不是绝对免费，对象存储免费空间 10g，每个月还有 10g 的 cdn 加速服务（多数人基本用不完），超出部分额外收费，此外 https 收费。",
+  "date": "2020-12-23T00:00:00.000Z",
+  "formattedDate": "2020年12月23日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "cloud-service",
+      "permalink": "/tags/cloud-service"
+    }
+  ],
+  "readingTime": 4.04,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "why-i-dont-use-qiniu-cloud",
+    "title": "为什么我不用七牛云",
+    "date": "2020-12-23T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "cloud-service"
+    ],
+    "keywords": [
+      "随笔",
+      "cloud-service"
+    ]
+  },
+  "prevItem": {
+    "title": "某习通小助手",
+    "permalink": "/chaoxing-helper"
+  },
+  "nextItem": {
+    "title": "腾讯云之CDN与SSL配置",
+    "permalink": "/tencent-cloud-cdn-and-ssl"
+  }
+}

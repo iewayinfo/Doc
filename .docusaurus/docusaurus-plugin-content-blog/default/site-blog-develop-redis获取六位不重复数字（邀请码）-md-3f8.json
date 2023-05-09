@@ -1,0 +1,46 @@
+{
+  "permalink": "/redis-get-six-digit-number-invitation-code",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/Redis获取六位不重复数字（邀请码）.md",
+  "source": "@site/blog/develop/Redis获取六位不重复数字（邀请码）.md",
+  "title": "Redis获取六位不重复数字（邀请码）",
+  "description": "需求",
+  "date": "2021-08-11T00:00:00.000Z",
+  "formattedDate": "2021年8月11日",
+  "tags": [
+    {
+      "label": "redis",
+      "permalink": "/tags/redis"
+    }
+  ],
+  "readingTime": 2.026666666666667,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "redis-get-six-digit-number-invitation-code",
+    "title": "Redis获取六位不重复数字（邀请码）",
+    "date": "2021-08-11T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "redis"
+    ],
+    "keywords": [
+      "redis"
+    ]
+  },
+  "prevItem": {
+    "title": "记一次git丢失代码找回",
+    "permalink": "/lost-code-find-by-git"
+  },
+  "nextItem": {
+    "title": "Api接口风格",
+    "permalink": "/api-style"
+  }
+}

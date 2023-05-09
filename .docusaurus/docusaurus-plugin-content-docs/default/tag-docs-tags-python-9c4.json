@@ -1,0 +1,32 @@
+{
+  "label": "python",
+  "permalink": "/docs/tags/python",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "skill/python/pyautogui",
+      "title": "pyautogui自动化操作脚本",
+      "description": "说实话，貌似有一年没写过啥脚本类的代码了",
+      "permalink": "/docs/pyautogui"
+    },
+    {
+      "id": "skill/python/python-spider-summary",
+      "title": "Python爬虫总结",
+      "description": "最近临时写了个 python 爬虫的例子（核心代码不开源），总结下这次编写过程中的一些相关知识点与注意事项，以一个用 nodejs 写爬虫的开发者的角度去看待与比对。",
+      "permalink": "/docs/python-spider-summary"
+    },
+    {
+      "id": "skill/python/python-specified-versiton-run",
+      "title": "Python指定版本运行",
+      "description": "前言",
+      "permalink": "/docs/python-specified-versiton-run"
+    },
+    {
+      "id": "skill/python/python-cv2-usage",
+      "title": "Python中的cv2使用",
+      "description": "模块 cv2 的用法 - 陨落&新生 - 博客园 (cnblogs.com)",
+      "permalink": "/docs/python-cv2-usage"
+    }
+  ]
+}

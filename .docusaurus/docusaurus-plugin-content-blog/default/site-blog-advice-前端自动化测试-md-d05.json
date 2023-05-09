@@ -1,0 +1,52 @@
+{
+  "permalink": "/frontend-automated-testing",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/advice/前端自动化测试.md",
+  "source": "@site/blog/advice/前端自动化测试.md",
+  "title": "前端自动化测试",
+  "description": "v2-45d641f2191559d4eff581d0607efd611440w",
+  "date": "2022-10-06T00:00:00.000Z",
+  "formattedDate": "2022年10月6日",
+  "tags": [
+    {
+      "label": "frontend",
+      "permalink": "/tags/frontend"
+    },
+    {
+      "label": "test",
+      "permalink": "/tags/test"
+    }
+  ],
+  "readingTime": 8.033333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "frontend-automated-testing",
+    "title": "前端自动化测试",
+    "date": "2022-10-06T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "frontend",
+      "test"
+    ],
+    "keywords": [
+      "frontend",
+      "test"
+    ]
+  },
+  "prevItem": {
+    "title": "深谈个人对新技术的看法",
+    "permalink": "/talk-new-technologies-opinion"
+  },
+  "nextItem": {
+    "title": "Gitea 与 Drone 实践",
+    "permalink": "/gitea-drone-practice"
+  }
+}

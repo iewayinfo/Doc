@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/reverse/android/frida/frida-python-usage",
+  "id": "skill/reverse/android/frida/frida-python-usage",
+  "title": "Frida Python库使用",
+  "description": "启动 Frida 服务",
+  "source": "@site/docs/skill/reverse/android/frida/Frida Python库使用.md",
+  "sourceDirName": "skill/reverse/android/frida",
+  "slug": "/frida-python-usage",
+  "permalink": "/docs/frida-python-usage",
+  "draft": false,
+  "tags": [
+    {
+      "label": "frida",
+      "permalink": "/docs/tags/frida"
+    },
+    {
+      "label": "app",
+      "permalink": "/docs/tags/app"
+    },
+    {
+      "label": "hook",
+      "permalink": "/docs/tags/hook"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "frida-python-usage",
+    "slug": "/frida-python-usage",
+    "title": "Frida Python库使用",
+    "date": "2021-02-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "frida",
+      "app",
+      "hook"
+    ],
+    "keywords": [
+      "frida",
+      "app",
+      "hook"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "安卓",
+    "permalink": "/docs/category/安卓"
+  },
+  "next": {
+    "title": "Frida java层自吐加密算法",
+    "permalink": "/docs/frida-java-encryption-algorithm"
+  }
+}

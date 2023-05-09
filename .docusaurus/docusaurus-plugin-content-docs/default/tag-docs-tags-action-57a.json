@@ -1,0 +1,14 @@
+{
+  "label": "action",
+  "permalink": "/docs/tags/action",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/git/github-actions-example",
+      "title": "github actions示例",
+      "description": "GitHub Marketplace · Actions to improve your workflow",
+      "permalink": "/docs/skill/git/github-actions-example"
+    }
+  ]
+}

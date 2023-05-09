@@ -1,0 +1,20 @@
+{
+  "label": "refactor",
+  "permalink": "/docs/tags/refactor",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "skill/js/type-of-object-map-refactor",
+      "title": "重构之对象映射类型",
+      "description": "写代码的时候，遇到多重条件分支的时候，使用if else if肯定不如 switch 好用，但 switch 又避免不了 break 语句。但如果只是将数据转化的话，不妨使用对象映射的形式来替换",
+      "permalink": "/docs/type-of-object-map-refactor"
+    },
+    {
+      "id": "skill/js/polymorphic-elimination-conditional-branching-refactor",
+      "title": "重构之多态消除条件分支",
+      "description": "最近翻看之前写过一个项目，其中用到了大量的 switch-case 分支语句，大致的代码结构如下",
+      "permalink": "/docs/polymorphic-elimination-conditional-branching-refactor"
+    }
+  ]
+}

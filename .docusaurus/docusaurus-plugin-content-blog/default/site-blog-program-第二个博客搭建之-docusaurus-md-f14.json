@@ -1,0 +1,61 @@
+{
+  "permalink": "/second-blog-is-docusaurus",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/第二个博客搭建之Docusaurus.md",
+  "source": "@site/blog/program/第二个博客搭建之Docusaurus.md",
+  "title": "第二个博客搭建之Docusaurus",
+  "description": "使用 docusaurus 搭建个人博客，并对其主题进行魔改",
+  "date": "2021-08-20T00:00:00.000Z",
+  "formattedDate": "2021年8月20日",
+  "tags": [
+    {
+      "label": "blog",
+      "permalink": "/tags/blog"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/tags/docusaurus"
+    },
+    {
+      "label": "project",
+      "permalink": "/tags/project"
+    }
+  ],
+  "readingTime": 2.08,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "second-blog-is-docusaurus",
+    "title": "第二个博客搭建之Docusaurus",
+    "date": "2021-08-20T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "blog",
+      "docusaurus",
+      "project"
+    ],
+    "keywords": [
+      "blog",
+      "docusaurus",
+      "project"
+    ],
+    "description": "使用 docusaurus 搭建个人博客，并对其主题进行魔改",
+    "image": "/img/project/blog.png",
+    "sticky": 5
+  },
+  "prevItem": {
+    "title": "基于Axios封装HTTP类库",
+    "permalink": "/axios-http-class-library"
+  },
+  "nextItem": {
+    "title": "记一次git丢失代码找回",
+    "permalink": "/lost-code-find-by-git"
+  }
+}

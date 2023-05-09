@@ -1,0 +1,67 @@
+{
+  "permalink": "/vscode-extension",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/project/写一个VSCode扩展.md",
+  "source": "@site/blog/project/写一个VSCode扩展.md",
+  "title": "写一个VSCode扩展",
+  "description": "编写一个属于个人定制化的 VSCode 扩展，并将其发布到应用商店中",
+  "date": "2022-07-11T00:00:00.000Z",
+  "formattedDate": "2022年7月11日",
+  "tags": [
+    {
+      "label": "vscode",
+      "permalink": "/tags/vscode"
+    },
+    {
+      "label": "plugin",
+      "permalink": "/tags/plugin"
+    },
+    {
+      "label": "extension",
+      "permalink": "/tags/extension"
+    },
+    {
+      "label": "develop",
+      "permalink": "/tags/develop"
+    }
+  ],
+  "readingTime": 19.28,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vscode-extension",
+    "title": "写一个VSCode扩展",
+    "date": "2022-07-11T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vscode",
+      "plugin",
+      "extension",
+      "develop"
+    ],
+    "keywords": [
+      "vscode",
+      "plugin",
+      "extension",
+      "develop"
+    ],
+    "description": "编写一个属于个人定制化的 VSCode 扩展，并将其发布到应用商店中",
+    "image": "/img/project/vscode-extension.png",
+    "sticky": 4
+  },
+  "prevItem": {
+    "title": "Next.js项目搭建与部署",
+    "permalink": "/next.js-build-and-deploy"
+  },
+  "nextItem": {
+    "title": "AutoHotkey键盘映射",
+    "permalink": "/autohotkey"
+  }
+}

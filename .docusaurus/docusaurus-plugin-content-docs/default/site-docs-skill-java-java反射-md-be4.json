@@ -1,0 +1,39 @@
+{
+  "unversionedId": "skill/java/Java反射",
+  "id": "skill/java/Java反射",
+  "title": "java反射",
+  "description": "什么是反射？",
+  "source": "@site/docs/skill/java/Java反射.md",
+  "sourceDirName": "skill/java",
+  "slug": "/skill/java/java-reflect",
+  "permalink": "/docs/skill/java/java-reflect",
+  "draft": false,
+  "tags": [
+    {
+      "label": "java",
+      "permalink": "/docs/tags/java"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "java-reflect",
+    "title": "java反射",
+    "date": "2022-01-16T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "java"
+    ],
+    "keywords": [
+      "java"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Java",
+    "permalink": "/docs/category/java"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/docs/category/python"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "permalink": "/try-to-cloud-develop",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/develop/尝试云开发.md",
+  "source": "@site/blog/develop/尝试云开发.md",
+  "title": "尝试云开发",
+  "description": "在接触一个开源项目的时候，项目的后端采用的是云开发的模式（云函数，云数据库等等），本人又没接触过云开发，于是便有了这篇文章。",
+  "date": "2021-09-06T00:00:00.000Z",
+  "formattedDate": "2021年9月6日",
+  "tags": [
+    {
+      "label": "develop",
+      "permalink": "/tags/develop"
+    },
+    {
+      "label": "cloud",
+      "permalink": "/tags/cloud"
+    }
+  ],
+  "readingTime": 4.066666666666666,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "try-to-cloud-develop",
+    "title": "尝试云开发",
+    "date": "2021-09-06T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "develop",
+      "cloud"
+    ],
+    "keywords": [
+      "develop",
+      "cloud"
+    ]
+  },
+  "prevItem": {
+    "title": "资源导航",
+    "permalink": "/resource-navigation"
+  },
+  "nextItem": {
+    "title": "MongoDB按时间分组",
+    "permalink": "/mongodb-time-grouping"
+  }
+}

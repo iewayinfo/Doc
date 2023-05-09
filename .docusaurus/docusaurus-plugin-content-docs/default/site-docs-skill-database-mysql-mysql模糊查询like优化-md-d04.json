@@ -1,0 +1,45 @@
+{
+  "unversionedId": "skill/database/mysql/mysql-like-optimization",
+  "id": "skill/database/mysql/mysql-like-optimization",
+  "title": "mysql模糊查询like优化",
+  "description": "1、前言",
+  "source": "@site/docs/skill/database/mysql/Mysql模糊查询like优化.md",
+  "sourceDirName": "skill/database/mysql",
+  "slug": "/mysql-like-optimization",
+  "permalink": "/docs/mysql-like-optimization",
+  "draft": false,
+  "tags": [
+    {
+      "label": "mysql",
+      "permalink": "/docs/tags/mysql"
+    },
+    {
+      "label": "database",
+      "permalink": "/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "mysql-like-optimization",
+    "slug": "/mysql-like-optimization",
+    "title": "mysql模糊查询like优化",
+    "date": "2021-01-07T00:00:00.000Z",
+    "tags": [
+      "mysql",
+      "database"
+    ],
+    "keywords": [
+      "mysql",
+      "database"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "mysql替换函数replace",
+    "permalink": "/docs/mysql-replace-function"
+  },
+  "next": {
+    "title": "MySql笔记",
+    "permalink": "/docs/skill/database/mysql"
+  }
+}

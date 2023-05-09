@@ -1,0 +1,45 @@
+{
+  "unversionedId": "skill/database/mysql/mysql-note",
+  "id": "skill/database/mysql/mysql-note",
+  "title": "MySql笔记",
+  "description": "1、前言",
+  "source": "@site/docs/skill/database/mysql/index.md",
+  "sourceDirName": "skill/database/mysql",
+  "slug": "/skill/database/mysql",
+  "permalink": "/docs/skill/database/mysql",
+  "draft": false,
+  "tags": [
+    {
+      "label": "mysql",
+      "permalink": "/docs/tags/mysql"
+    },
+    {
+      "label": "database",
+      "permalink": "/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "mysql-note",
+    "slug": "/skill/database/mysql",
+    "title": "MySql笔记",
+    "date": "2020-12-30T00:00:00.000Z",
+    "tags": [
+      "mysql",
+      "database"
+    ],
+    "keywords": [
+      "mysql",
+      "database"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "数据库",
+    "permalink": "/docs/category/数据库"
+  },
+  "next": {
+    "title": "mysql替换函数replace",
+    "permalink": "/docs/mysql-replace-function"
+  }
+}

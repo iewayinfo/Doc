@@ -1,0 +1,52 @@
+{
+  "unversionedId": "skill/web/brower-copy-console-panel-output",
+  "id": "skill/web/brower-copy-console-panel-output",
+  "title": "浏览器复制Console面板输出",
+  "description": "在分析一个网站的时候，要将控制台（Console 面板）中的大数组（长度大约 100）复制到本地上进行调用",
+  "source": "@site/docs/skill/web/浏览器复制Console面板输出.md",
+  "sourceDirName": "skill/web",
+  "slug": "/brower-copy-console-panel-output",
+  "permalink": "/docs/brower-copy-console-panel-output",
+  "draft": false,
+  "tags": [
+    {
+      "label": "javascript",
+      "permalink": "/docs/tags/javascript"
+    },
+    {
+      "label": "browser",
+      "permalink": "/docs/tags/browser"
+    },
+    {
+      "label": "console",
+      "permalink": "/docs/tags/console"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "brower-copy-console-panel-output",
+    "slug": "/brower-copy-console-panel-output",
+    "title": "浏览器复制Console面板输出",
+    "date": "2021-12-07T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "javascript",
+      "browser",
+      "console"
+    ],
+    "keywords": [
+      "javascript",
+      "browser",
+      "console"
+    ]
+  },
+  "sidebar": "skill",
+  "previous": {
+    "title": "Web",
+    "permalink": "/docs/category/web"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/docs/category/javascript"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "permalink": "/electron-vue3-development-environment",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/搭建Electron+Vue3开发环境.md",
+  "source": "@site/blog/program/搭建Electron+Vue3开发环境.md",
+  "title": "搭建Electron+Vue3开发环境",
+  "description": "搭建 Electron Vue3 的开发环境，用于编写跨平台应用",
+  "date": "2022-03-17T00:00:00.000Z",
+  "formattedDate": "2022年3月17日",
+  "tags": [
+    {
+      "label": "electron",
+      "permalink": "/tags/electron"
+    },
+    {
+      "label": "vue",
+      "permalink": "/tags/vue"
+    },
+    {
+      "label": "vite",
+      "permalink": "/tags/vite"
+    }
+  ],
+  "readingTime": 2.66,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "electron-vue3-development-environment",
+    "title": "搭建Electron+Vue3开发环境",
+    "date": "2022-03-17T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "electron",
+      "vue",
+      "vite"
+    ],
+    "keywords": [
+      "electron",
+      "vue",
+      "vite"
+    ],
+    "description": "搭建 Electron Vue3 的开发环境，用于编写跨平台应用"
+  },
+  "prevItem": {
+    "title": "去除typescript代码类型",
+    "permalink": "/remove-ts-code-type"
+  },
+  "nextItem": {
+    "title": "SSE 服务器发送事件",
+    "permalink": "/sse-server-send-event"
+  }
+}

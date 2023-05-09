@@ -1,0 +1,58 @@
+{
+  "permalink": "/patience-wearing-out",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/lifestyle/正被消磨殆尽的耐心.md",
+  "source": "@site/blog/lifestyle/正被消磨殆尽的耐心.md",
+  "title": "正被消磨殆尽的耐心",
+  "description": "在以前，我可以花费 4，5 个小时的时间专注于一件事情上，并且丝毫没有不耐烦的意思。而且这种状态能持续个好几天。例如拼个积木，拼个拼图，写个代码等等。专注个半天根本不成问题。",
+  "date": "2022-08-15T00:00:00.000Z",
+  "formattedDate": "2022年8月15日",
+  "tags": [
+    {
+      "label": "随笔",
+      "permalink": "/tags/随笔"
+    },
+    {
+      "label": "杂谈",
+      "permalink": "/tags/杂谈"
+    },
+    {
+      "label": "感悟",
+      "permalink": "/tags/感悟"
+    }
+  ],
+  "readingTime": 6.06,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "patience-wearing-out",
+    "title": "正被消磨殆尽的耐心",
+    "date": "2022-08-15T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "随笔",
+      "杂谈",
+      "感悟"
+    ],
+    "keywords": [
+      "随笔",
+      "杂谈",
+      "感悟"
+    ]
+  },
+  "prevItem": {
+    "title": "pnpm monorepo实践",
+    "permalink": "/pnpm-monorepo-practice"
+  },
+  "nextItem": {
+    "title": "Vite使用WebWorker",
+    "permalink": "/vite-webworker"
+  }
+}

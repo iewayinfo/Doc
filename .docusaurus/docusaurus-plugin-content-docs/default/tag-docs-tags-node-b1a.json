@@ -1,0 +1,44 @@
+{
+  "label": "node",
+  "permalink": "/docs/tags/node",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "skill/node/use-require.context-to-auto-import-modules",
+      "title": "使用 require.context 实现模块自动导入",
+      "description": "前言",
+      "permalink": "/docs/use-require.context-to-auto-import-modules"
+    },
+    {
+      "id": "skill/node/axios-request-gbk-page-encoding-solution",
+      "title": "axios请求gbk页面乱码解决",
+      "description": "使用 axios 请求 gbk 编码的网站，将会出现乱码，原因很简单，node 默认字符编码为 utf8，如果要正常显示 gbk 数据的话就需要将 gbk 转 utf8 格式。",
+      "permalink": "/docs/axios-request-gbk-page-encoding-solution"
+    },
+    {
+      "id": "skill/docker/docker-deploy-node-project",
+      "title": "Docker部署Node项目",
+      "description": "把一个 Node.js web 应用程序给 Docker 化 | Node.js (nodejs.org)",
+      "permalink": "/docs/docker-deploy-node-project"
+    },
+    {
+      "id": "skill/node/npkill-quickly-move-node-modules",
+      "title": "npkill快速删除node_modules文件",
+      "description": "官网地址 npkill",
+      "permalink": "/docs/npkill-quickly-move-node-modules"
+    },
+    {
+      "id": "skill/node/npm-mirror-config",
+      "title": "npm镜像配置",
+      "description": "由于原淘宝 npm 域名（http//registry.npm.taobao.org）将于 2022.06.30 号正式下线和停止 DNS 解析，不妨提前修改镜像的地址，以免受到影响。",
+      "permalink": "/docs/npm-mirror-config"
+    },
+    {
+      "id": "skill/python/python-spider-summary",
+      "title": "Python爬虫总结",
+      "description": "最近临时写了个 python 爬虫的例子（核心代码不开源），总结下这次编写过程中的一些相关知识点与注意事项，以一个用 nodejs 写爬虫的开发者的角度去看待与比对。",
+      "permalink": "/docs/python-spider-summary"
+    }
+  ]
+}

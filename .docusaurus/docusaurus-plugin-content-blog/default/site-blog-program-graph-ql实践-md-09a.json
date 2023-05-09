@@ -1,0 +1,65 @@
+{
+  "permalink": "/graphql-practice",
+  "editUrl": "https://github.com/kuizuo/blog/edit/main/blog/program/GraphQL实践.md",
+  "source": "@site/blog/program/GraphQL实践.md",
+  "title": "GraphQL 实践与服务搭建",
+  "description": "有关 GraphQL 介绍及上手实践，并在 Nest.js 和 Strapi 中搭建 GraphQL 服务",
+  "date": "2022-11-24T00:00:00.000Z",
+  "formattedDate": "2022年11月24日",
+  "tags": [
+    {
+      "label": "api",
+      "permalink": "/tags/api"
+    },
+    {
+      "label": "graphql",
+      "permalink": "/tags/graphql"
+    },
+    {
+      "label": "nest",
+      "permalink": "/tags/nest"
+    },
+    {
+      "label": "strapi",
+      "permalink": "/tags/strapi"
+    }
+  ],
+  "readingTime": 12.323333333333334,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "愧怍",
+      "title": "全栈 typescripter / 学生",
+      "url": "https://github.com/kuizuo",
+      "imageURL": "/img/logo.webp",
+      "key": "kuizuo"
+    }
+  ],
+  "frontMatter": {
+    "slug": "graphql-practice",
+    "title": "GraphQL 实践与服务搭建",
+    "date": "2022-11-24T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "api",
+      "graphql",
+      "nest",
+      "strapi"
+    ],
+    "keywords": [
+      "api",
+      "graphql",
+      "nest",
+      "strapi"
+    ],
+    "description": "有关 GraphQL 介绍及上手实践，并在 Nest.js 和 Strapi 中搭建 GraphQL 服务"
+  },
+  "prevItem": {
+    "title": "2022年终总结——从逆向转Web开发",
+    "permalink": "/2022-year-end-summary"
+  },
+  "nextItem": {
+    "title": "重构kz-admin",
+    "permalink": "/refactor-kz-admin"
+  }
+}

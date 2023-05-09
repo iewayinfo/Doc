@@ -1,0 +1,14 @@
+{
+  "label": "commit",
+  "permalink": "/docs/tags/commit",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "skill/git/git-conmit-specification",
+      "title": "git commit规范",
+      "description": "提交规范主要是为了让开发者提交完整的更新信息，方便查阅。",
+      "permalink": "/docs/skill/git/git-conmit-specification"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Java",
+  "slug": "/category/java",
+  "permalink": "/docs/category/java",
+  "navigation": {
+    "previous": {
+      "title": "记Tailwind CSS使用",
+      "permalink": "/docs/tailwind-css-usage"
+    },
+    "next": {
+      "title": "java反射",
+      "permalink": "/docs/skill/java/java-reflect"
+    }
+  }
+}

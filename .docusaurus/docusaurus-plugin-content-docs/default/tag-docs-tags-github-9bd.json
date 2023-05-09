@@ -1,0 +1,26 @@
+{
+  "label": "github",
+  "permalink": "/docs/tags/github",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "skill/git/github-other",
+      "title": ".github 其他文件",
+      "description": "ISSUE_TEMPLATE",
+      "permalink": "/docs/skill/git/github-other"
+    },
+    {
+      "id": "skill/git/github-actions-example",
+      "title": "github actions示例",
+      "description": "GitHub Marketplace · Actions to improve your workflow",
+      "permalink": "/docs/skill/git/github-actions-example"
+    },
+    {
+      "id": "skill/git/github-apps-example",
+      "title": "github apps示例",
+      "description": "Github Dependabot",
+      "permalink": "/docs/skill/git/github-apps-example"
+    }
+  ]
+}
